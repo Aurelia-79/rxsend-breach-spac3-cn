@@ -91,6 +91,6 @@ srcds.exe -game garrysmod -console -port 27015 +maxplayers 32 +gamemode rxsend_b
 
 ## 声明
 
-- 本项目**非官方**项目，与 Northwood Studios / Facepunch 无关
-- 本仓库**未附带 LICENSE**（上游许可证不明），默认保留所有权利；如需转载或二次开发，请先联系仓库维护者
+- 本项目**非官方**项目，与 **任何项目** 无关
+- 本仓库**未附带 LICENSE**（上游许可证不明），fork自**spac3**，默认保留所有权利
 - 游戏内容包中的第三方资源请遵循各自工坊页面的授权说明
