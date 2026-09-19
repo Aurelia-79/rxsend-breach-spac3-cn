@@ -85,7 +85,7 @@ srcds.exe -game garrysmod -console -port 27015 +maxplayers 32 +gamemode rxsend_b
 
 ## 来源与致谢
 
-- 游戏模式源自 **RXSEND Breach**（GitHub 上游项目，作者未署名），本仓库是其 fork 的国服适配分支
+- 游戏模式源自 **RXSEND Breach**（GitHub 上游项目，作者未署名），本仓库是其 fork 的修复版
 - 上游代码中保留的作者水印与彩蛋名单（成就署名、特殊头部模型名单等）未作改动，版权归原作者
 - 国服内容包版权归各工坊作者所有，本仓库不包含、不再分发这些资源
 
