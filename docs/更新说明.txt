@@ -1,0 +1,440 @@
+============================================================
+ RXSEND Breach 国服适配 · 更新文件放置说明
+============================================================
+
+本目录已按相对 garrysmod 的路径结构排好。
+上传到远程服务器时，把本目录里的内容整体覆盖到服务器的
+garrysmod 根目录即可（同名文件覆盖，其余不动）。
+
+即：
+   update_files\  →  <服务器>\garrysmod\
+
+------------------------------------------------------------
+ 共 39 个文件（不含本说明），分布在 11 个位置：
+
+   garrysmod\gamemodes\rxsend_breach\gamemode\modules\          25 个
+   garrysmod\gamemodes\rxsend_breach\gamemode\modules\anim_base\  1 个
+   garrysmod\gamemodes\rxsend_breach\gamemode\mapconfigs\         2 个
+   garrysmod\gamemodes\rxsend_breach\gamemode\vgui\               1 个
+   garrysmod\gamemodes\rxsend_breach\gamemode\                    1 个
+   garrysmod\gamemodes\rxsend_breach\entities\weapons\            2 个
+   garrysmod\lua\vgui\                                            1 个
+   garrysmod\addons\[chat]_sh_lounge_chatbox\...\chatbox\          1 个
+   garrysmod\addons\[content]_260_content\lua\autorun\            1 个
+   garrysmod\addons\[weapons]_cw_20\lua\cw\shared\                1 个
+   garrysmod\addons\3629952289\materials\...\rasp\                3 个
+
+ 注意：cl_* 是客户端文件，客户端必须【重连】才会重新下载。
+------------------------------------------------------------
+
+
+============================================================
+ 一、进服 / 观察者 / 回合流程
+============================================================
+
+1. sv_player_hooks.lua
+   放置：gamemode\modules\
+   改动：
+     ① 进服流程重写——0.5 秒 KillSilent（无实体观察者），
+        0.7 秒随机传送，移除 10 秒后 SetSpectator 的西瓜实体制造
+     ② 击杀前显式 SetGTeam(TEAM_SPEC) + SetRoleName(Spectator)，
+        修复"进服后变成 SCP 阵营观察者"的 bug
+        （class_breach 默认 NGTeam=1 即 TEAM_SCP，之前没切回观众队）
+     ③ 修复"进服后动不了、必须手动 !sslay 才能移动"——
+        补上 MOVETYPE_OBSERVER + OBS_MODE_ROAMING 的完整观察者状态；
+        并在 PlayerSpawn 里识别"已是死亡观察者"的玩家，
+        避免 KillSilent 触发的 PlayerSpawn 把他又变回半初始化的实体
+     ④ 进服即置 hasloadedalready / ActivePlayer / Player_IsPlaying，
+        确保 GetActivePlayers() 能把玩家算进回合（否则回合初始化不完整）
+
+2. sv_player.lua
+   放置：gamemode\modules\
+   改动：SetSpectator() 改为无实体观察者（KillSilent + SetNoDraw +
+         SetNotSolid）；新增 TeleportSpectatorRandom()；
+         SetSpectator() 末尾调用随机传送
+
+3. sv_round.lua
+   放置：gamemode\modules\
+   改动：
+     ① 回合人数下限判断由硬编码 <10 改为跟随 br_min_players；
+        玩家不足分支的 SetSpectator() 改为 KillSilent()
+     ② 新增 SpawnAllItemsFallback 保险定时器——
+        回合开始后 8 秒再兜底刷一次地图物品，
+        修复"回合开始了电网/衣服/物品仍然不刷新"
+
+4. sv_round_setup.lua
+   放置：gamemode\modules\
+   改动：SCP 观察者检查分支的 SetSpectator() 改为 KillSilent()
+
+5. sh_module.lua
+   放置：gamemode\modules\
+   改动：br_min_players 默认 2 → 1（满 1 人即开始回合倒计时）
+
+
+============================================================
+ 二、UI / 显示修复
+============================================================
+
+6. sh_player.lua
+   放置：gamemode\modules\
+   改动：
+     ① 背包 UI 白屏修复——surv.CustomPaint 和 BREACH.Inventory.Paint
+        先画一层实心深色底 (24,24,24)，材质解析失败也不会白屏
+     ② 【重要】删除错误的 Player:Crouching() 覆盖——之前它调用不存在的
+        IsDucked()/IsDucking()（原版是 GetCrouching()），每帧抛错，
+        导致 HandlePlayerDucking → CalcMainActivity 链路中断，
+        走路/跑步动画卡在跳跃姿势。现已恢复用原生 Crouching()
+     ③ DrawNewInventory 里补 BoneMerged / head 有效性判断，
+        修复背包打开时 "attempt to call method 'BoneMerged'" 报错
+
+7. lua\vgui\dmodelpanel.lua
+   放置：garrysmod\lua\vgui\        ← 注意不在 gamemode 里
+   改动：Breach 自带的 DModelPanel 覆盖版本（提供 BoneMerged 方法）。
+         原包里这个文件从未真正下发到客户端，导致背包和聊天头像报错。
+         另外在 SetModel 里补 self.Entity.BoneMerged = self.BoneMerged
+
+8. gamemode\vgui\dmodelpanel.lua
+   放置：gamemode\vgui\
+   改动：新增兼容垫片——若客户端拿到的仍是原生 DModelPanel
+         （没有 BoneMerged），就动态补上该方法
+
+9. shared.lua
+   放置：gamemode\
+   改动：新增 AddCSLuaFile("vgui/dmodelpanel.lua") 与对应 include，
+         确保上面两个 vgui 文件真正下发并加载到客户端
+         （lua\vgui\ 不会被自动下发，必须显式声明）
+
+10. addons\[chat]_sh_lounge_chatbox\lua\chatbox\cl_util.lua
+    放置：garrysmod\addons\[chat]_sh_lounge_chatbox\lua\chatbox\
+    改动：DrawCharacterAvatar 补 BoneMerged 有效性判断，
+          修复聊天时 "attempt to call method 'BoneMerged'" 报错
+
+11. anim_base\sh_mtables.lua
+    放置：gamemode\modules\anim_base\     ← 注意在子目录
+    改动：CalcMainActivity 末尾把 CalcIdeal 从序列名字符串正确转成
+          序列号（原来错写成覆盖 CalcSeqOverride）
+
+12. cl_loading.lua
+    放置：gamemode\modules\
+    改动：进服加载画面（纯代码绘制，不依赖任何材质）。
+          本轮已重做视觉：渐变背景 + 四边暗角 + 旋转收容环 +
+          标题辉光 + 单向流光进度条 + 轮换游戏提示 +
+          角标边框 + 底部地图信息。
+          原版进度条用 sin() 会左右来回摆动（像卡住），已改为单向循环。
+          自动按分辨率等比缩放，兼容 2K / 4K。
+
+
+============================================================
+ 三、功能新增
+============================================================
+
+13. sv_bots.lua
+    放置：gamemode\modules\
+    改动：注册 !bot / !kickbots 聊天命令
+          !bot          生成 1 个随机名字 bot
+          !bot 3        生成 3 个 bot
+          !bot 名字     生成 1 个指定名字 bot
+          !kickbots     踢出所有 bot
+          （需 ULX，且所在组有 ulx bot / ulx kickbots 权限）
+
+14. cl_music.lua
+    放置：gamemode\modules\
+    改动：原包 PlayMusic() 是个空壳，函数体只有 print(debug.traceback())，
+          导致进服音乐不播放且控制台刷屏。
+          现已用 sound.PlayFile 实现真正播放，并实现 FadeMusic()
+
+15. sv_mysql.lua
+    放置：gamemode\modules\
+    改动：修复 module("newMysql") 导致 CreateSQLiteDB 为 nil 的 bug
+          （改为显式 _G.BREACH.CreateSQLiteDB，并补齐 local pcall/ipairs）
+
+
+============================================================
+ 四、性能优化（不改变任何功能逻辑）
+============================================================
+
+16. cl_targetid.lua
+    放置：gamemode\modules\
+    改动：DrawTargetID 每帧执行，三处优化——
+          ① 删掉两次结果从未被使用的 ToScreen() 世界→屏幕投影
+          ② ply:GetPos() 重复调用两次，改为复用
+          ③ GetConVar 字符串查表改为惰性缓存 ConVar 对象
+             （:GetInt() 仍读实时值，改配置立即生效）
+
+17. cl_gasmaskandnvg.lua
+    放置：gamemode\modules\
+    改动：呼吸音 Think 里 shouldplay 每帧做两次模型序列查询
+          （GetSequence / GetSequenceName），但唯一使用它的代码早已
+          被上游注释掉。已把该行一并移入同一注释块
+          （将来恢复呼吸音时整块取消注释即可，逻辑完整）
+
+18. cl_hud.lua
+    放置：gamemode\modules\
+    改动：Breach_DrawHUD 每帧执行——常量 Color 对象由每个标记点
+          重复构造 3 次改为缓存 1 份；LocalPlayer():GetPos() 惰性缓存
+          （调用条件与原版保持一致）
+
+19. cl_hud_new.lua
+    放置：gamemode\modules\
+    改动：
+      ① Breach_HUD 主 HUD 每帧 4 次 LocalPlayer() 改为缓存 1 次
+      ② 【bug 修复】SCP 视角描边逻辑三处联动错误——
+         a) ents.FindByClassAndParent 传入了未定义变量 dz（应为 player）
+         b) 对普通 Lua 表错误调用 :IsValid()（a 修好后会立刻每帧报错）
+         c) dztab 清理循环会把刚加入的 bonemerge 部件当帧删掉
+         现在 SCP 视角下 DZ 玩家的描边能正确包含头部与装备
+
+20. cl_module.lua
+    放置：gamemode\modules\
+    改动：bhop Think 钩子每帧 4 次 LocalPlayer() 改为缓存 1 次
+
+21. sv_module.lua
+    放置：gamemode\modules\
+    改动：camera_enter 里 ents.FindByClass("br_camera") 由 3 次
+          改为 1 次并复用
+22. shared.lua / cl_music.lua
+     修复：显式下发自定义加载屏幕；保留 GMod 要求的音频路径格式并修复异步播放竞态，
+           同时避免音乐 Think 因音量表未初始化而中断。
+
+23. sh_roles_scp.lua / sv_player.lua
+     修复：D级角色不再自动获得缺失模型的 weapon_pass_classd（会显示 ERROR 的
+           “D级人员”物品）；ApplyRoleStats 统一过滤该武器，并记录无效武器。
+
+24. sv_module.lua
+     修复：外部支援角色选择失败、角色武器表为空或角色等级条件不满足时，
+           自动选择同支援阵营的有效带武器角色，避免支援人员裸身进入回合。
+
+25. sv_round.lua / sv_rounds.lua
+     修复：物品、衣服、电网、弹药箱和改枪台刷新过程增加 pcall 隔离与错误日志，
+           单个实体失败不会中断整个刷新流程，8秒兜底刷新也会记录异常。
+26. sv_damage_death.lua / sv_player.lua
+     修复：移除后加载的 GM:EntityTakeDamage 覆盖，合并子弹击退标记到统一伤害钩子，
+           避免枪械、特殊伤害和 bot 伤害逻辑被截断。
+
+27. cl_hud_new.lua
+     性能：SCP 描边目标扫描由每帧改为每 0.25 秒一次，降低客户端 CPU 占用。
+
+28. sv_module.lua
+     修复：OBR 外部支援角色检查中的未定义变量 c.customcheck，避免支援筛选报错。
+29. sh_precache.lua
+     性能：取消服务器启动时递归预缓存整个 Workshop 模型目录，避免主动加载缺失
+           VTX/VVD 的模型并拖慢启动；实际使用的实体仍会按需加载资源。
+
+30. addon 3629952289 的 3 个 VMT 材质
+     修复：恢复被错误注释的 Proxies 键，解决 KeyValues 缺少大括号/递归解析错误。
+
+注意：缺失或损坏的模型文件本身不能通过 Lua 修复。若某个角色/武器实际使用这些
+模型，仍需补齐对应的 .vvd/.vtx 文件或替换为完整模型。材质重复变量警告主要来自
+第三方 Workshop addon，属于引擎兼容警告，不会阻止服务器运行。
+31. addons/[content]_260_content/lua/autorun/scp_new_hands.lua
+     修复：玩家模型编号 9 原来注册到不会使用且缺少 VVD/VTX 的
+           class_d_hacker_new.mdl，现改为已有完整的 class_d.mdl，保留编号兼容性。
+
+32. gamemodes/rxsend_breach/entities/weapons/weapon_scp_049_2_1.lua
+     修复：SCP-049-2-1 原来引用不存在的 weapon_breach_basemelee，
+           改为使用现有 breach_melee_base，避免 SWEP 继承失败。
+
+33. addons/[weapons]_cw_20/lua/cw/shared/cw_particles.lua
+     修复：移除不存在的 muzzleflashes_test.pcf 与 muzzleflashes_test_b.pcf
+           加载，仅保留实际存在的 cstm_muzzleflashes.pcf。
+
+34. gamemodes/rxsend_breach/gamemode/modules/sv_player.lua
+     修复：补齐 ApplyRoleStats 中 CanBeNeutral 条件的缺失 end，
+           避免整个服务端玩家模块编译失败。
+
+
+35. gamemodes/rxsend_breach/gamemode/modules/cl_music.lua
+     修复：恢复 BREACH.Music:GetVolume 定义，避免音乐模块加载中断，
+           修复 PlayMusic、FadeMusic、StopMusic 全部为 nil。
+
+36. cl_hud.lua / cl_hud_new.lua / cl_module.lua
+     修复：技能面板错误、回合结算面板跨回合残留和客户端面板清理。
+
+37. sh_player.lua / sv_rounds.lua / sv_module.lua
+     修复：增加背包模型骨骼索引保护、物品刷新失败重试及外部支援角色兜底，
+           避免背包白屏、物品不刷新和支援玩家进入西瓜占位模型。
+
+38. sv_player.lua
+     设置：SteamID64 <玩家SteamID64> 为永久高级会员。
+
+39. sv_rounds.lua / sv_module.lua / 地图配置
+     修复：StartSpecialRoleVote 未定义时不再触发定时器错误；移除地图配置中不存在的
+           swep_scp018，并为 SCP 物品创建增加 NULL 实体保护，避免 SpawnAllItems
+           中断导致物品、电网和弹药箱后续内容不刷新。
+
+40.【回归修复】sv_player.lua
+     问题：上一版为了让文件通过编译，在 ApplyRoleStats 里给多余的
+           "if CanBeNeutral(self) then" 补了一个 end，结果把设阵营、发武器、
+           设模型、设 bodygroup 整段都包进了该条件。绝大多数玩家 CanBeNeutral
+           为 false，这段被整体跳过，表现为：MTF 无装备、模型不更新、
+           ULX 存活换角色模型不变、上一轮 SCP/西瓜模型残留。
+     修复：删除那句多余的 if 与配套 end，恢复角色初始化正常执行。
+
+41.【回归修复】sv_player.lua — SetSpectator
+     问题：注释声称已移除西瓜模型，实际仍保留
+           self:SetModel("models/props_junk/watermelon01.mdl")，
+           导致观察者/死亡换角色出现西瓜实体。
+     修复：删除该行，观察者保持无实体（NoDraw + NotSolid + SOLID_NONE）。
+
+42.【回归修复】sv_player.lua — TeleportSpectatorRandom
+     问题：随机落点包含 SPAWN_OUTSIDE（设施外/B门撤离区），
+           进服观察者会被传送到 B 门通用撤离点。
+     修复：落点仅取设施内 SPAWN_CLASSD / SPAWN_GUARD / SPAWN_SCIENT。
+
+43.【根因修复】sh_class_breach.lua
+     问题：SetupDataTables 里写死 self.Player:SetNGTeam(1)，
+           而 TEAM_SCP = 1，所以玩家初始化后阵营就是 SCP，
+           进服击杀后表现为"SCP 阵营的观察者"。
+     修复：默认改为 SetNGTeam(TEAM_SPEC)。
+     注意：本文件是 sh_ 共享文件，客户端必须重连。
+
+44.【根因修复】sv_player.lua — ApplyRoleStats 伤害倍率键类型
+     问题：伤害逻辑读 ply.ScaleDamage[hitgroupstring]（字符串键，如
+           "HITGROUP_HEAD"），角色表 damage_modifiers 也是字符串键；
+           但无 damage_modifiers 角色走的兜底表用的是数字键 [HITGROUP_HEAD]，
+           于是 self.ScaleDamage["HITGROUP_HEAD"] 为 nil，
+           SetNWFloat 报错并中断 ApplyRoleStats。该行之后的
+           SetHealth / SetMaxHealth / SetModel / bodygroup / 头盔全部不执行。
+           全部保安（SECURITY_*）与全部 SCP 共 29 个角色受影响，表现为：
+           MTF/保安变成上一轮 SCP 模型、身上没装备、无法换装、打不死人。
+     修复：兜底表改用字符串键，并对读取加 tonumber 兜底。
+
+45.【回归修复】sv_player.lua — SetSpectator 不再强制传送
+     问题：上一版在 SetSpectator 里每次都调 TeleportSpectatorRandom，
+           且落点池含 SPAWN_CLASSD，导致死亡后视角被传到 D 级人员区。
+     修复：死亡/切观察者保留在原地观战；随机落点只用于"刚进服"。
+
+46.【根因修复】sv_player_hooks.lua — 进服强制观察者
+     问题：玩家连入时引擎已先在地图默认出生点（B门/撤离区）把他作为活人生成，
+           GM:PlayerSpawn 的 return true 无法阻止；只靠一次性 0.5s 定时器切
+           观察者不可靠（玩家未就绪或被 ULX uteam 的 PlayerSpawn 钩子干扰时失败），
+           失败后玩家一直活着卡在撤离点，有实体、能走能跑。
+     修复：抽出 ForceSpectator，并在进服后 4 秒内持续校正（每 0.5s，共 8 次）；
+           一旦分配到真实角色即停止校正，不干扰正常出生。
+
+47.【根因修复】不存在的实体类中断刷新链
+     问题：ENTITY_SPAWN_LIST_SHAKY 与掉落表的生成循环都没有 NULL 保护，
+           列表里只要有一个类不存在，ents.Create 返回 NULL，
+           后续 SetPos 报错，该循环剩下的实体全部不再生成。
+           实测缺失：endless_pizza_box、weapon_jailbird（均在武器柜之前），
+           cw_kk_ins2_bocchi、cw_kk_ins2_akalfa、cw_kk_ins2_abakan。
+           这就是"散落物品刷出来了，但换装室武器柜、保安武器库、
+           手枪库和地下武器库的子弹箱没刷"的原因（散落物品在该循环之前生成）。
+     修复：两处循环均加 IsValid 跳过并打日志；
+           从地图配置移除 endless_pizza_box 与 weapon_jailbird；
+           对 cw_kk_ins2_bocchi / scp_035_real / object_intercom 加保护。
+
+48.【根因修复】CI 没枪
+     问题：CI 小兵与 CI 指挥官的主武器 cw_kk_ins2_abakan / cw_kk_ins2_akalfa
+           在本资源包中没有任何 SWEP 定义，Give 失败，只剩配件没有枪；
+           这两个类名同时出现在掉落表里，被抽中还会中断 SpawnAllItems。
+     修复：小兵改 cw_kk_ins2_ak74，指挥官改 cw_kk_ins2_akm，
+           对应 ammo 表同步更新；掉落表两处引用一并替换。
+
+49.【内容删除】GOC 收容小队与 GOC 谈判员整体移除
+     原因：本资源包没有对应的 cheddar 角色模型，用不上。
+     处理：删除 sh_roles_scp.lua 里的 SCI_NegoGOC 角色，
+           并把 GOC_CONTAIMENTS 的 4 个收容角色整段注释，roles 变空表；
+           删除 addons\_adapter_models\models\player\cheddar\ 共 20 个模型文件。
+     保留：TEAM_GOC_CONTAIN 队伍编号与 GOC_CONTAIMENTS 表壳。该编号被 HUD、
+           友伤判定、核弹逻辑、SCP-409、F2 菜单等十余处引用，删掉会连带报错；
+           roles 空表等于永远刷不出来，效果相同且不崩。
+     保留：models\cultist\humans\goc\ 下的材质。普通 GOC 阵营仍在使用，
+           删掉会让普通 GOC 变紫格子。
+     附带：BREACH.PowerfulGOCSupport 的唯一入口是 obr_call2.lua，且只认
+           SCI_NegoGOC，谈判员移除后该支援从根上不会再被触发。
+
+50.【新增功能】force_support_wave 控制台指令
+     用途：超级管理员手动立即刷新一次支援波次，走的是与自动触发相同的
+           SupportSpawn()，行为与限制完全一致。
+     限制：仅超级管理员可用；核弹倒计时期间拒绝执行（与原有规则一致）；
+           每次执行在服务器控制台打印触发者。
+
+51.【根因修复】sv_player_data.lua — StoredData 为 nil
+     问题：UpdateData 的异步 onSuccess 回调直接索引 ply.StoredData，
+           但在 PlayerInitialSpawn 阶段 LoadPlayer 还没建好该表，
+           报 "attempt to index field 'StoredData' (a nil value)"。
+     修复：回调内加 ply.StoredData = ply.StoredData or {} 兜底；
+           同时把永久 VIP 的写库延后到玩家数据加载完成之后，避免竞态。
+
+52.【根因修复】sh_module.lua — GetRoleName 为 nil
+     问题：SetupMove 钩子里写的是 pl:GetRoleName()，而 pl 是 ply:GetTable()
+           返回的普通表，GetRoleName 是 Player 元表上的 NetworkVar 访问器，
+           不在该表上，每次移动都报错，SetupMove 后续逻辑全部失效。
+     修复：改为 ply:GetRoleName()，并在 NetworkVar 尚未注册时提前返回。
+
+53.【根因修复】cl_module.lua — 心跳音效使用 NULL 实体
+     问题：HeartbeatSound 定时器在地图切换/重连期间也会触发，此时
+           LocalPlayer() 是 NULL。原来的 LocalPlayer().Alive 检查能过，
+           紧接着调 :Alive() 就报 "Tried to use a NULL entity!"。
+     修复：先取局部变量并做 IsValid 判断。
+
+54.【回归修复】进服观察者仍有实体、能走能跑、能被 sslay
+     问题：上一版的校正定时器首次触发要等 0.5 秒，这段窗口内玩家是活人；
+           且只设了 SetNotSolid，引擎仍会做玩家 hull 的世界碰撞，所以穿不了墙。
+     修复：ForceSpectator 提为全局 RXSEND_ForceSpectator 并追加
+           SetSolid(SOLID_NONE)；进服时立即执行一次，不再等定时器；
+           校正频率改为每 0.1 秒共 6 秒；改用 RXSEND_PendingSpectator 标记，
+           PlayerSpawn 期间无条件压回观察态，直到 SetupNormal 真正分配角色时解锁。
+     配套：SetupNormal 里复位 SetSolid(SOLID_BBOX) / SetNotSolid(false) /
+           COLLISION_GROUP_PLAYER，否则真正出生后玩家能穿墙且不吃子弹。
+
+55.【根因修复】枪打不死原生 bot
+     问题：GM:ScalePlayerDamage 中有三处会抛错并中断整个函数，
+           伤害缩放因此全部丢失，表现为"打不死"：
+             a) hitpos 表里 ply:GetSequenceActivity(ply:LookupSequence("flinch_01"))
+                —— bot 用的默认模型没有 flinch_* 动作，LookupSequence 返回 -1，
+                GetSequenceActivity(-1) 必崩；
+             b) SCP096 分支直接索引 ply:GetActiveWeapon().victims，
+                对没跑过 ApplyRoleStats 的 bot，武器为 NULL 或没有 victims；
+             c) 攻击者带 NoDamage 时调用了一个根本不存在的全局函数
+                （原作者留下的俄文脏话占位符）。
+     修复：a) 加 SafeSeqAct 包装，动作不存在时返回 nil；
+           b) 补 IsValid + istable 前置判断；
+           c) 删除该无效调用，并在函数开头加 ply 有效性检查。
+
+56.【根因修复】A门停机坪飞机、C门装甲车不来
+     问题：EvacuationWarhead 里引用的全局 apc / heli 从来没有被创建过
+           （全代码库内没有任何 ents.Create("apc") / ents.Create("heli")），
+           IsValid(apc) / IsValid(heli) 永远为 false，撤离动画永远不播。
+           另有两个连带打断点：
+             a) ents.Create("portal") 若类未注册会返回 NULL，
+                紧接着 :Spawn() 抛错，直接中断整个 EvacuationWarhead，
+                后面的 PerformEscapeAnim_APC / _HELI 定时器根本不会被创建；
+             b) 直升机撤离结算里调用了从未定义的 goose_plz_fuck_off_heli()。
+     修复：在 EvacuationWarhead 中创建 apc 与 heli（两者的 ENT:Initialize
+           会自行摆到 AnimationFrames[1] 并启动进场动画，故不手动 SetPos）；
+           portal 加 IsValid 保护；对未定义函数加 isfunction 判断。
+
+57.【界面调整】主菜单创始人列表
+     只保留 Aurelia（<玩家SteamID64>，服务器创始人），移除其余 7 条。
+
+58.【新增功能】对讲机频道按阵营自动分组，频道号每局随机
+     新文件：gamemode\modules\sh_radio_channels.lua
+     分组规则：
+       · 基金会方共用一个频道：MTF（TEAM_NTF）、设施保安（TEAM_GUARD）、
+         安保部门（TEAM_SECURITY）、九尾狐（TEAM_QRT）、落锤（TEAM_OSN）。
+       · 未知单位各自独立频道：混沌分裂者、GOC、UIU、蛇之手、GRU-P、
+         破晓教团等，每支队伍一个。
+       · 未列入的阵营（D级、科研、SCP、观察者）不分配，保持出厂默认，
+         需要玩家自己手动调频。
+     频道号：每局回合开始时重新随机，范围 100.1–999.9，
+             保证各组之间不重复，且符合对讲机自身的格式校验。
+     行为：玩家拿到对讲机时自动调到本阵营频道；
+           玩家手动改频后打标记，之后不会再被覆盖（保留原有玩法）。
+     实现：频道号存在 GlobalFloat 上，客户端可直接读，无需额外网络消息。
+
+59.【新增功能】背包内中键查看枪支备弹
+     操作：打开背包，对着枪支按鼠标中键，聊天框返回
+           "[RXSEND] 剩余备弹：弹匣内/身上储备"。
+     覆盖：主槽位、可装备槽位、不可丢弃槽位三组全部生效。
+     说明：装备类物品与近战武器会提示"没有弹药"；
+           战利品箱预览里还没拿到手的武器读不到真实数字，同样按无弹药处理。
+     实现：不改动背包里 6 处重复的 DoClick/DoRightClick，
+           而是统一给槽位面板包一层 OnMousePressed，只拦截中键，
+           其余按键原样交回原处理逻辑。
+
+============================================================
+ 更新后请【重启服务器】；客户端必须【退出服务器后重连】，
+ 否则不会重新下载 cl_* 客户端文件。
+============================================================

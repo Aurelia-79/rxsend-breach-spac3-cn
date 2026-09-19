@@ -1,0 +1,52 @@
+Beep.ogg	gamemodes\rxsend_breach\gamemode\modules\sv_module.lua
+Mandeville.ogg	gamemodes\rxsend_breach\gamemode\modules\cl_sounds.lua
+ambient/machines/combine_shield_loop3.wav	gamemodes\rxsend_breach\entities\entities\ent_goc_shield.lua
+ambient/machines/teleport3.wav	gamemodes\rxsend_breach\entities\entities\dz_commander_portal.lua
+arknigts1.mp3	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+army_intro.ogg	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+buttons/button9.wav	gamemodes\rxsend_breach\gamemode\modules\cl_mainmenu.lua, gamemodes\rxsend_breach\gamemode\modules\cl_scoreboard.lua
+common/talk.wav	gamemodes\rxsend_breach\gamemode\modules\cl_hud_new.lua, gamemodes\rxsend_breach\gamemode\modules\cl_mainmenu.lua
+entrance_zone_1.ogg	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+entrance_zone_2.ogg	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+factions_spawn/chaos_theme.ogg	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+factions_spawn/cult_theme.ogg	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+factions_spawn/fbi_agent_spawn.wav	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+factions_spawn/goc_intro.ogg	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+factions_spawn/mtf_intro.ogg	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+factions_spawn/ntfspawntheme2.wav	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+factions_spawn/obr_intro.ogg	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+garrysmod/save_load1.wav	gamemodes\rxsend_breach\entities\weapons\taunt_gangnam.lua, gamemodes\rxsend_breach\entities\weapons\taunt_twerk.lua
+goc_intro3.ogg	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+gocmusic2.ogg	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+heavy_zone_2.ogg	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+heavy_zone_5.ogg	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+items/ammo_pickup.wav	gamemodes\rxsend_breach\gamemode\modules\sv_damage_death.lua
+light_zone_1.ogg	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+light_zone_2.ogg	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+mhy1.mp3	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+misc/countdownmusic.ogg	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+misc/goc_won.ogg	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+misc/pl_escaped.ogg	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+misc/uiu_mission_complete.ogg	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+misc/uiu_mission_failed.ogg	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+npc/antlion/shell_impact4.wav	gamemodes\rxsend_breach\entities\weapons\weapon_scp_062.lua, gamemodes\rxsend_breach\entities\weapons\weapon_scp_082.lua, gamemodes\rxsend_breach\entities\weapons\weapon_scp_1015ru.lua
+npc/zombie/claw_miss1.wav	gamemodes\rxsend_breach\entities\weapons\weapon_scp_049_2_1.lua
+npc/zombie/claw_strike1.wav	gamemodes\rxsend_breach\entities\weapons\weapon_scp_049_2_1.lua
+npc/zombie/claw_strike2.wav	gamemodes\rxsend_breach\entities\weapons\weapon_scp_049_2_1.lua
+npc/zombie/claw_strike3.wav	gamemodes\rxsend_breach\entities\weapons\weapon_scp_049_2_1.lua
+nukes/goc_nuke.ogg	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+physics/flesh/flesh_bloody_impact_hard1.wav	gamemodes\rxsend_breach\entities\effects\headshot.lua
+player/pl_drown1.wav	gamemodes\rxsend_breach\gamemode\modules\sv_damage_death.lua
+rxsend_music/cassie_no_scps2.mp3	gamemodes\rxsend_breach\gamemode\modules\sv_module.lua
+rxsend_music/friendly_goc_in.ogg	gamemodes\rxsend_breach\gamemode\modules\sv_module.lua
+rxsend_music/xinghong.MP3	gamemodes\rxsend_breach\gamemode\modules\sv_module.lua
+situational_song/death/death_1.ogg	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+situational_song/death/death_2.ogg	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+situational_song/fbi/fbi_action_loop.ogg	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+situational_song/fbi/fbi_action_start.ogg	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+situational_song/fbi/fbi_escape_loop.ogg	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+ui/buttonclick.wav	gamemodes\rxsend_breach\gamemode\modules\cl_scoreboard.lua
+ui/buttonclickrelease.wav	gamemodes\rxsend_breach\gamemode\modules\cl_scoreboard.lua
+uiu_mission_complete.ogg	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+uma1.mp3	gamemodes\rxsend_breach\gamemode\modules\config\music.lua
+ymca.mp3	gamemodes\rxsend_breach\gamemode\modules\config\music.lua

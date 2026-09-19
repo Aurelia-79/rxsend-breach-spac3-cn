@@ -1,0 +1,12 @@
+models/weapons/scpid_d.mdl	3074044716/models/cultist/items/id_cards/id_card_medic.mdl
+models/weapons/scpid_d_worldmodel.mdl	3074044716/models/cultist/items/id_cards/id_card_medic.mdl
+models/weapons/scpid_jan.mdl	3074044716/models/cultist/items/id_cards/id_card_guard.mdl
+models/weapons/scpid_jan_worldmodel.mdl	3074044716/models/cultist/items/id_cards/id_card_guard.mdl
+models/cultist/scp_items/409/w_.mdl	3074044716/models/cultist/scp_items/427/scp_427.mdl
+models/player/cheddar/ambassador/goc_male_07.mdl	3493961938/models/cultist/humans/goc/goc_new.mdl
+models/player/cheddar/goc/strike_team_soldier2/goc_striker_team.mdl	3493961938/models/cultist/humans/goc/goc_spy.mdl
+models/player/cheddar/goc_soldier/goc_field_operative.mdl	3074010797/models/cultist/humans/goc/goc.mdl
+models/player/cheddar/goc_soldier/goc_officer.mdl	3493961938/models/cultist/humans/goc/goc_new.mdl
+models/player/cheddar/suit/orange_suit/orangesuit.mdl	3074010797/models/cultist/humans/goc/goc.mdl
+models/player/april/the_goose.mdl	3074010797/models/cultist/humans/fbi/fbi_woman.mdl
+models/player/kerry/mikkelsen_player.mdl	3074010797/models/cultist/humans/mog/mog.mdl

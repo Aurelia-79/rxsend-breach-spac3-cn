@@ -1,0 +1,24 @@
+# ===== 第三方内容与二进制模块（不随仓库分发，获取方式见 README「依赖与获取」）=====
+addons/*/
+lua/bin/
+
+# ===== 服务器运行状态（运行时自动生成，含玩家数据）=====
+data/
+
+# ===== 本机工具目录 =====
+.claude/
+.codegraph/
+
+# ===== 发布产物 =====
+dist/
+*.zip
+*.7z
+*.rar
+
+# ===== 系统 / 工具噪声 =====
+*.log
+Thumbs.db
+desktop.ini
+.DS_Store
+__pycache__/
+*.pyc

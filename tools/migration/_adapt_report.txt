@@ -1,0 +1,1882 @@
+total refs: 1872
+adapted exact: 1479
+adapted prefix-swap: 47
+missing: 346
+
+=== ADAPTED EXACT ===
+models/Items/AR2_Grenade.mdl	<-	2840031720\models\items\tfa\ar2_grenade.mdl
+models/Items/sniper_round_box.mdl	<-	2840031720\models\items\sniper_round_box.mdl
+models/breach/items/ammocrate_full.mdl	<-	3074044716\models\breach\items\ammocrate_full.mdl
+models/bullets/w_pbullet1.mdl	<-	2840031720\models\bullets\w_pbullet1.mdl
+models/chemers/cheemer.mdl	<-	3074044716\models\chemers\cheemer.mdl
+models/chemers/v_cheemer.mdl	<-	3074044716\models\chemers\v_cheemer.mdl
+models/codbo/other/autoturret.mdl	<-	3074044716\models\codbo\other\autoturret.mdl
+models/comradealex/mgs5/hp-48/hp-48test.mdl	<-	3074044716\models\comradealex\mgs5\hp-48\hp-48test.mdl
+models/cult_props/entity/generator.mdl	<-	3074044716\models\cult_props\entity\generator.mdl
+models/cult_props/entity/workbench.mdl	<-	3074044716\models\cult_props\entity\workbench.mdl
+models/cult_props/gates/bunker_gates/bunker_door_left.mdl	<-	3074023535\models\cult_props\gates\bunker_gates\bunker_door_left.mdl
+models/cult_props/gates/bunker_gates/bunker_door_right.mdl	<-	3074023535\models\cult_props\gates\bunker_gates\bunker_door_right.mdl
+models/cult_props/tesla_new.mdl	<-	3074023535\models\cult_props\tesla_new.mdl
+models/cultist/armor_pickable/bone_merge/heavy_armor.mdl	<-	3074044716\models\cultist\armor_pickable\heavy_armor.mdl
+models/cultist/armor_pickable/bone_merge/light_armor.mdl	<-	3074044716\models\cultist\armor_pickable\light_armor.mdl
+models/cultist/armor_pickable/clothing.mdl	<-	3074044716\models\cultist\armor_pickable\clothing.mdl
+models/cultist/armory/armory.mdl	<-	3074044716\models\cultist\armory\armory.mdl
+models/cultist/backpacks/bonemerge/backpack_big.mdl	<-	3074044716\models\cultist\backpacks\bonemerge\backpack_big.mdl
+models/cultist/backpacks/bonemerge/backpack_small.mdl	<-	3074044716\models\cultist\backpacks\bonemerge\backpack_small.mdl
+models/cultist/backpacks/world/backpack_big.mdl	<-	3074044716\models\cultist\backpacks\bonemerge\backpack_big.mdl
+models/cultist/backpacks/world/backpack_small.mdl	<-	3074044716\models\cultist\backpacks\bonemerge\backpack_small.mdl
+models/cultist/heads/female/female_head_1.mdl	<-	3074041351\models\cultist\heads\female\female_head_1.mdl
+models/cultist/heads/female/hair/hair_2.mdl	<-	3074041351\models\cultist\heads\female\hair\hair_2.mdl
+models/cultist/heads/female/hair/hair_3.mdl	<-	3074041351\models\cultist\heads\female\hair\hair_3.mdl
+models/cultist/heads/female/hair/hair_4.mdl	<-	3074041351\models\cultist\heads\female\hair\hair_4.mdl
+models/cultist/heads/female/hair/hair_5.mdl	<-	3074041351\models\cultist\heads\female\hair\hair_5.mdl
+models/cultist/heads/female/hair/hair_6.mdl	<-	3074041351\models\cultist\heads\female\hair\hair_6.mdl
+models/cultist/heads/female/hair/hair_cleaner.mdl	<-	3074041351\models\cultist\heads\female\hair\hair_cleaner.mdl
+models/cultist/heads/gibs/gib_head.mdl	<-	3074010797\models\cultist\heads\gibs\gib_head.mdl
+models/cultist/heads/male/bor_heads/bor_head.mdl	<-	3074010797\models\cultist\heads\male\bor_heads\bor_head.mdl
+models/cultist/heads/male/fat_heads/male_fat_01.mdl	<-	3074010797\models\cultist\heads\male\fat_heads\male_fat_01.mdl
+models/cultist/heads/male/fat_heads/male_fat_02.mdl	<-	3074010797\models\cultist\heads\male\fat_heads\male_fat_02.mdl
+models/cultist/heads/male/fat_heads/male_fat_03.mdl	<-	3074010797\models\cultist\heads\male\fat_heads\male_fat_03.mdl
+models/cultist/heads/male/hair/hair_1.mdl	<-	3074041351\models\cultist\heads\male\hair\hair_1.mdl
+models/cultist/heads/male/hair/hair_2.mdl	<-	3074041351\models\cultist\heads\female\hair\hair_2.mdl
+models/cultist/heads/male/hair/hair_3.mdl	<-	3074041351\models\cultist\heads\female\hair\hair_3.mdl
+models/cultist/heads/male/hair/hair_4.mdl	<-	3074041351\models\cultist\heads\female\hair\hair_4.mdl
+models/cultist/heads/male/male_head_1.mdl	<-	3074041351\models\cultist\heads\male\male_head_1.mdl
+models/cultist/heads/male/male_head_165.mdl	<-	3074041351\models\cultist\heads\male\male_head_165.mdl
+models/cultist/heads/male/male_head_2.mdl	<-	3074041351\models\cultist\heads\male\male_head_2.mdl
+models/cultist/heads/male/male_head_213.mdl	<-	3074041351\models\cultist\heads\male\male_head_213.mdl
+models/cultist/heads/male/male_head_3.mdl	<-	3074041351\models\cultist\heads\male\male_head_3.mdl
+models/cultist/heads/male/male_head_6.mdl	<-	3074041351\models\cultist\heads\male\male_head_6.mdl
+models/cultist/humans/balaclavas/balaclava_full.mdl	<-	3074041351\models\cultist\humans\balaclavas_new\balaclava_full.mdl
+models/cultist/humans/balaclavas_new/balaclava_full.mdl	<-	3074041351\models\cultist\humans\balaclavas_new\balaclava_full.mdl
+models/cultist/humans/balaclavas_new/balaclava_half.mdl	<-	3074041351\models\cultist\humans\balaclavas_new\balaclava_half.mdl
+models/cultist/humans/balaclavas_new/head_balaclava_month.mdl	<-	3074041351\models\cultist\humans\balaclavas_new\head_balaclava_month.mdl
+models/cultist/humans/chaos/chaos.mdl	<-	3074010797\models\cultist\humans\chaos\chaos.mdl
+models/cultist/humans/chaos/fat/chaos_fat.mdl	<-	3074010797\models\cultist\humans\chaos\fat\chaos_fat.mdl
+models/cultist/humans/chaos/hands/c_arms_chaos.mdl	<-	3074010797\models\cultist\humans\chaos\hands\c_arms_chaos.mdl
+models/cultist/humans/chaos/head_gear/beret.mdl	<-	3074010797\models\cultist\humans\chaos\head_gear\beret.mdl
+models/cultist/humans/chaos/head_gear/helmet.mdl	<-	3074010797\models\cultist\humans\chaos\head_gear\helmet.mdl
+models/cultist/humans/chaos/items/claymore_mine.mdl	<-	3074010797\models\cultist\humans\chaos\items\claymore_mine.mdl
+models/cultist/humans/class_d/class_d.mdl	<-	3074010797\models\cultist\humans\class_d\class_d.mdl
+models/cultist/humans/class_d/class_d_bor_new.mdl	<-	3074010797\models\cultist\humans\class_d\class_d_bor_new.mdl
+models/cultist/humans/class_d/class_d_cleaner.mdl	<-	3074010797\models\cultist\humans\class_d\class_d_cleaner.mdl
+models/cultist/humans/class_d/class_d_cleaner_female.mdl	<-	3074010797\models\cultist\humans\class_d\class_d_cleaner_female.mdl
+models/cultist/humans/class_d/class_d_fat_new.mdl	<-	3074010797\models\cultist\humans\class_d\class_d_fat_new.mdl
+models/cultist/humans/class_d/class_d_female.mdl	<-	3074010797\models\cultist\humans\class_d\class_d_female.mdl
+models/cultist/humans/class_d/class_d_hacker_new.mdl	<-	3074010797\models\cultist\humans\class_d\class_d_hacker_new.mdl
+models/cultist/humans/class_d/hands/c_arms_class_d.mdl	<-	3074010797\models\cultist\humans\class_d\hands\c_arms_class_d.mdl
+models/cultist/humans/class_d/head_gear/hacker_hat.mdl	<-	3074010797\models\cultist\humans\class_d\head_gear\hacker_hat.mdl
+models/cultist/humans/class_d/shaky/class_d_bor_new.mdl	<-	3074010797\models\cultist\humans\class_d\class_d_bor_new.mdl
+models/cultist/humans/class_d/shaky/class_d_fat_new.mdl	<-	3074010797\models\cultist\humans\class_d\class_d_fat_new.mdl
+models/cultist/humans/corpse.mdl	<-	3074010797\models\cultist\humans\corpse.mdl
+models/cultist/humans/cultists/cultist.mdl	<-	3074010797\models\cultist\humans\cultists\cultist.mdl
+models/cultist/humans/cultists/hands/c_arms_cult.mdl	<-	3074010797\models\cultist\humans\cultists\hands\c_arms_cult.mdl
+models/cultist/humans/dz/dz.mdl	<-	3074010797\models\cultist\humans\dz\dz.mdl
+models/cultist/humans/dz/hands/c_arms_dz.mdl	<-	3074010797\models\cultist\humans\dz\hands\c_arms_dz.mdl
+models/cultist/humans/fbi/fbi.mdl	<-	3074010797\models\cultist\humans\fbi\fbi.mdl
+models/cultist/humans/fbi/fbi_agent.mdl	<-	3074010797\models\cultist\humans\fbi\fbi_agent.mdl
+models/cultist/humans/fbi/fbi_woman.mdl	<-	3219744427\models\cultist\humans\fbi\fbi_woman.mdl
+models/cultist/humans/fbi/hands/c_arms_fbi.mdl	<-	3074010797\models\cultist\humans\fbi\hands\c_arms_fbi.mdl
+models/cultist/humans/fbi/hands/c_arms_fbi_agent.mdl	<-	3074010797\models\cultist\humans\fbi\hands\c_arms_fbi_agent.mdl
+models/cultist/humans/fbi/head_gear/beret.mdl	<-	3074010797\models\cultist\humans\chaos\head_gear\beret.mdl
+models/cultist/humans/fbi/head_gear/cap_com.mdl	<-	3074010797\models\cultist\humans\fbi\head_gear\cap_com.mdl
+models/cultist/humans/fbi/head_gear/fbi_agent_hat.mdl	<-	3074010797\models\cultist\humans\fbi\head_gear\fbi_agent_hat.mdl
+models/cultist/humans/fbi/head_gear/helmet.mdl	<-	3074010797\models\cultist\humans\chaos\head_gear\helmet.mdl
+models/cultist/humans/fbi/heads/agent_specialist_head.mdl	<-	3074010797\models\cultist\humans\fbi\heads\agent_specialist_head.mdl
+models/cultist/humans/fbi/weapons/knife/v_knife_fbi.mdl	<-	3074010797\models\cultist\humans\fbi\weapons\knife\v_knife_fbi.mdl
+models/cultist/humans/fbi/weapons/knife/w_knife_fbi.mdl	<-	3074010797\models\cultist\humans\fbi\weapons\knife\w_knife_fbi.mdl
+models/cultist/humans/fbi/weapons/revolver/v_38rev.mdl	<-	3074010797\models\cultist\humans\fbi\weapons\revolver\v_38rev.mdl
+models/cultist/humans/fbi/weapons/revolver/w_38rev.mdl	<-	3074010797\models\cultist\humans\fbi\weapons\revolver\w_38rev.mdl
+models/cultist/humans/goc/goc.mdl	<-	3074010797\models\cultist\humans\goc\goc.mdl
+models/cultist/humans/goc/hands/c_arms_goc.mdl	<-	3074010797\models\cultist\humans\goc\hands\c_arms_goc.mdl
+models/cultist/humans/goc/head/helmet_1.mdl	<-	3074010797\models\cultist\humans\goc\head\helmet_1.mdl
+models/cultist/humans/goc/head/helmet_2.mdl	<-	3074010797\models\cultist\humans\goc\head\helmet_2.mdl
+models/cultist/humans/goc/head/helmet_3.mdl	<-	3074010797\models\cultist\humans\goc\head\helmet_3.mdl
+models/cultist/humans/goc/head/helmet_4.mdl	<-	3074010797\models\cultist\humans\goc\head\helmet_4.mdl
+models/cultist/humans/mog/dispatch_male.mdl	<-	3074010797\models\cultist\humans\mog\dispatch_male.mdl
+models/cultist/humans/mog/hands/c_arms_admin.mdl	<-	3074010797\models\cultist\humans\mog\hands\c_arms_admin.mdl
+models/cultist/humans/mog/hands/c_arms_hazmat.mdl	<-	3074010797\models\cultist\humans\mog\hands\c_arms_hazmat.mdl
+models/cultist/humans/mog/hands/c_arms_jagger.mdl	<-	3074010797\models\cultist\humans\mog\hands\c_arms_jagger.mdl
+models/cultist/humans/mog/hands/c_arms_mog.mdl	<-	3074010797\models\cultist\humans\mog\hands\c_arms_mog.mdl
+models/cultist/humans/mog/head_gear/cap_engi.mdl	<-	3074010797\models\cultist\humans\mog\head_gear\cap_engi.mdl
+models/cultist/humans/mog/head_gear/helmet_beret.mdl	<-	3074010797\models\cultist\humans\mog\head_gear\helmet_beret.mdl
+models/cultist/humans/mog/head_gear/jugger_helmet.mdl	<-	3074010797\models\cultist\humans\mog\head_gear\jugger_helmet.mdl
+models/cultist/humans/mog/head_gear/mog_helmet.mdl	<-	3074010797\models\cultist\humans\mog\head_gear\mog_helmet.mdl
+models/cultist/humans/mog/head_site.mdl	<-	3074010797\models\cultist\humans\mog\head_site.mdl
+models/cultist/humans/mog/mask/mask_gasmask.mdl	<-	3074010797\models\cultist\humans\mog\mask\mask_gasmask.mdl
+models/cultist/humans/mog/mog.mdl	<-	3074010797\models\cultist\humans\mog\mog.mdl
+models/cultist/humans/mog/mog_hazmat.mdl	<-	3074010797\models\cultist\humans\mog\mog_hazmat.mdl
+models/cultist/humans/mog/mog_jagger.mdl	<-	3074010797\models\cultist\humans\mog\mog_jagger.mdl
+models/cultist/humans/mog/sexy_mog_hazmat.mdl	<-	3074010797\models\cultist\humans\mog\sexy_mog_hazmat.mdl
+models/cultist/humans/mog/special_security.mdl	<-	3074010797\models\cultist\humans\mog\special_security.mdl
+models/cultist/humans/nazi/head_gear/helmet_1.mdl	<-	3074010797\models\cultist\humans\goc\head\helmet_1.mdl
+models/cultist/humans/ntf/hands/c_arms_ntf.mdl	<-	3074010797\models\cultist\humans\ntf\hands\c_arms_ntf.mdl
+models/cultist/humans/ntf/head_gear/head_helmet.mdl	<-	3074010797\models\cultist\humans\ntf\head_gear\head_helmet.mdl
+models/cultist/humans/ntf/head_gear/helmet_beret.mdl	<-	3074010797\models\cultist\humans\mog\head_gear\helmet_beret.mdl
+models/cultist/humans/ntf/head_gear/ntf_sniper_head.mdl	<-	3074010797\models\cultist\humans\ntf\head_gear\ntf_sniper_head.mdl
+models/cultist/humans/ntf/head_gear/ntf_special_head.mdl	<-	3074010797\models\cultist\humans\ntf\head_gear\ntf_special_head.mdl
+models/cultist/humans/ntf/heads/head_pilot.mdl	<-	3074010797\models\cultist\humans\ntf\heads\head_pilot.mdl
+models/cultist/humans/ntf/ntf.mdl	<-	3074010797\models\cultist\humans\ntf\ntf.mdl
+models/cultist/humans/obr/hands/c_arms_obr_new.mdl	<-	3074010797\models\cultist\humans\obr\hands\c_arms_obr_new.mdl
+models/cultist/humans/obr/head_gear/helmet_1.mdl	<-	3074010797\models\cultist\humans\goc\head\helmet_1.mdl
+models/cultist/humans/obr/head_gear/helmet_beret.mdl	<-	3074010797\models\cultist\humans\mog\head_gear\helmet_beret.mdl
+models/cultist/humans/obr/head_gear/helmet_cap.mdl	<-	3074010797\models\cultist\humans\obr\head_gear\helmet_cap.mdl
+models/cultist/humans/obr/obr_new.mdl	<-	3074010797\models\cultist\humans\obr\obr_new.mdl
+models/cultist/humans/osn/headgear/helmet_1.mdl	<-	3074010797\models\cultist\humans\goc\head\helmet_1.mdl
+models/cultist/humans/russian/hands/c_arms_russians.mdl	<-	3168756944\models\cultist\humans\gru\hands\c_arms_russians.mdl
+models/cultist/humans/russian/head_gear/helmet_1.mdl	<-	3074010797\models\cultist\humans\goc\head\helmet_1.mdl
+models/cultist/humans/russian/head_gear/helmet_2.mdl	<-	3074010797\models\cultist\humans\goc\head\helmet_2.mdl
+models/cultist/humans/russian/head_gear/helmet_beret.mdl	<-	3074010797\models\cultist\humans\mog\head_gear\helmet_beret.mdl
+models/cultist/humans/sci/class_d_bor.mdl	<-	3074010797\models\cultist\humans\sci\class_d_bor.mdl
+models/cultist/humans/sci/class_d_fat.mdl	<-	3074010797\models\cultist\humans\sci\class_d_fat.mdl
+models/cultist/humans/sci/dispatch.mdl	<-	3074010797\models\cultist\humans\sci\dispatch.mdl
+models/cultist/humans/sci/hands/c_arms_hazmat_1.mdl	<-	3074010797\models\cultist\humans\sci\hands\c_arms_hazmat_1.mdl
+models/cultist/humans/sci/hands/c_arms_hazmat_2.mdl	<-	3074010797\models\cultist\humans\sci\hands\c_arms_hazmat_2.mdl
+models/cultist/humans/sci/hands/c_arms_sci.mdl	<-	3074010797\models\cultist\humans\sci\hands\c_arms_sci.mdl
+models/cultist/humans/sci/hazmat_1.mdl	<-	3074010797\models\cultist\humans\sci\hazmat_1.mdl
+models/cultist/humans/sci/hazmat_2.mdl	<-	3074010797\models\cultist\humans\sci\hazmat_2.mdl
+models/cultist/humans/sci/scientist.mdl	<-	3074010797\models\cultist\humans\sci\scientist.mdl
+models/cultist/humans/sci/scientist_boss.mdl	<-	3074010797\models\cultist\humans\sci\scientist_boss.mdl
+models/cultist/humans/sci/scientist_female.mdl	<-	3074010797\models\cultist\humans\sci\scientist_female.mdl
+models/cultist/humans/scp_special_scp/special_1.mdl	<-	3074010797\models\cultist\humans\scp_special_scp\special_1.mdl
+models/cultist/humans/scp_special_scp/special_2.mdl	<-	3074010797\models\cultist\humans\scp_special_scp\special_2.mdl
+models/cultist/humans/scp_special_scp/special_3.mdl	<-	3074010797\models\cultist\humans\scp_special_scp\special_3.mdl
+models/cultist/humans/scp_special_scp/special_4.mdl	<-	3074010797\models\cultist\humans\scp_special_scp\special_4.mdl
+models/cultist/humans/scp_special_scp/special_5.mdl	<-	3074010797\models\cultist\humans\scp_special_scp\special_5.mdl
+models/cultist/humans/scp_special_scp/special_6.mdl	<-	3074010797\models\cultist\humans\scp_special_scp\special_6.mdl
+models/cultist/humans/scp_special_scp/special_7.mdl	<-	3074010797\models\cultist\humans\scp_special_scp\special_7.mdl
+models/cultist/humans/scp_special_scp/special_8.mdl	<-	3074010797\models\cultist\humans\scp_special_scp\special_8.mdl
+models/cultist/humans/scp_special_scp/special_9.mdl	<-	3074010797\models\cultist\humans\scp_special_scp\special_9.mdl
+models/cultist/humans/security/hands/c_arms_security.mdl	<-	3074010797\models\cultist\humans\security\hands\c_arms_security.mdl
+models/cultist/humans/security/head_gear/helmet.mdl	<-	3074010797\models\cultist\humans\chaos\head_gear\helmet.mdl
+models/cultist/humans/security/head_gear/helmet_beret.mdl	<-	3074010797\models\cultist\humans\mog\head_gear\helmet_beret.mdl
+models/cultist/humans/security/head_gear/helmet_cap.mdl	<-	3074010797\models\cultist\humans\obr\head_gear\helmet_cap.mdl
+models/cultist/humans/security/head_gear/helmet_glass.mdl	<-	3074010797\models\cultist\humans\security\head_gear\helmet_glass.mdl
+models/cultist/humans/security/security.mdl	<-	3074010797\models\cultist\humans\security\security.mdl
+models/cultist/humans/specialmod/american/headgear/helmet.mdl	<-	3074010797\models\cultist\humans\chaos\head_gear\helmet.mdl
+models/cultist/humans/specialmod/nazi/headgear/helmet.mdl	<-	3074010797\models\cultist\humans\chaos\head_gear\helmet.mdl
+models/cultist/items/adrenalin/v_adrenaline.mdl	<-	3074044716\models\cultist\items\adrenalin\v_adrenaline.mdl
+models/cultist/items/adrenalin/w_adrenaline.mdl	<-	3074044716\models\cultist\items\adrenalin\w_adrenaline.mdl
+models/cultist/items/ammo_boxes/ammo_box.mdl	<-	3074044716\models\cultist\items\ammo_boxes\ammo_box.mdl
+models/cultist/items/battery/battery.mdl	<-	3074044716\models\cultist\items\battery\battery.mdl
+models/cultist/items/blue_screwdriver/w_screwdriver.mdl	<-	3074044716\models\cultist\items\blue_screwdriver\w_screwdriver.mdl
+models/cultist/items/booster/v_syringe.mdl	<-	3074044716\models\cultist\items\booster\v_syringe.mdl
+models/cultist/items/booster/w_syringe.mdl	<-	3074044716\models\cultist\items\booster\w_syringe.mdl
+models/cultist/items/coffe/v_coffe.mdl	<-	3074044716\models\cultist\items\coffe\v_coffe.mdl
+models/cultist/items/coffe/w_coffe.mdl	<-	3074044716\models\cultist\items\coffe\w_coffe.mdl
+models/cultist/items/coin/coin.mdl	<-	3074044716\models\cultist\items\coin\coin.mdl
+models/cultist/items/danradio/c_radio.mdl	<-	3074044716\models\cultist\items\danradio\c_radio.mdl
+models/cultist/items/danradio/w_radio.mdl	<-	3074044716\models\cultist\items\danradio\w_radio.mdl
+models/cultist/items/defib/medic_difib.mdl	<-	3074044716\models\cultist\items\defib\medic_difib.mdl
+models/cultist/items/defib/v_defib.mdl	<-	3074044716\models\cultist\items\defib\v_defib.mdl
+models/cultist/items/defib/w_defib.mdl	<-	3074044716\models\cultist\items\defib\w_defib.mdl
+models/cultist/items/drinks/v_energy_drink.mdl	<-	3074044716\models\cultist\items\drinks\v_energy_drink.mdl
+models/cultist/items/drinks/w_energy_drink.mdl	<-	3074044716\models\cultist\items\drinks\w_energy_drink.mdl
+models/cultist/items/eyedrops/eyedrops.mdl	<-	3074044716\models\cultist\items\eyedrops\eyedrops.mdl
+models/cultist/items/flashlight/bonemerge.mdl	<-	3074044716\models\cultist\items\flashlight\bonemerge.mdl
+models/cultist/items/flashlight/v_item_maglite.mdl	<-	3074044716\models\cultist\items\flashlight\v_item_maglite.mdl
+models/cultist/items/flashlight/w_item_maglite.mdl	<-	3074044716\models\cultist\items\flashlight\w_item_maglite.mdl
+models/cultist/items/hacker_crack/v_hacker_hack.mdl	<-	3074044716\models\cultist\items\hacker_crack\v_hacker_hack.mdl
+models/cultist/items/hacker_crack/w_hacker_hack.mdl	<-	3074044716\models\cultist\items\hacker_crack\w_hacker_hack.mdl
+models/cultist/items/hamburger/v_hamburger.mdl	<-	3074044716\models\cultist\items\hamburger\v_hamburger.mdl
+models/cultist/items/hamburger/w_hamburger.mdl	<-	3074044716\models\cultist\items\hamburger\w_hamburger.mdl
+models/cultist/items/hand_keycard/hand_keycard.mdl	<-	3074044716\models\cultist\items\hand_keycard\hand_keycard.mdl
+models/cultist/items/id_cards/id_card_guard.mdl	<-	3074044716\models\cultist\items\id_cards\id_card_guard.mdl
+models/cultist/items/id_cards/id_card_medic.mdl	<-	3074044716\models\cultist\items\id_cards\id_card_medic.mdl
+models/cultist/items/id_cards/id_card_sci.mdl	<-	3074044716\models\cultist\items\id_cards\id_card_sci.mdl
+models/cultist/items/id_cards/id_w_card_guard.mdl	<-	3074044716\models\cultist\items\id_cards\id_w_card_guard.mdl
+models/cultist/items/id_cards/id_w_card_medic.mdl	<-	3074044716\models\cultist\items\id_cards\id_w_card_medic.mdl
+models/cultist/items/id_cards/id_w_card_sci.mdl	<-	3074044716\models\cultist\items\id_cards\id_w_card_sci.mdl
+models/cultist/items/keycards/v_keycard.mdl	<-	3074044716\models\cultist\items\keycards\v_keycard.mdl
+models/cultist/items/keycards/w_keycard.mdl	<-	3074044716\models\cultist\items\keycards\w_keycard.mdl
+models/cultist/items/medkit/v_medkit.mdl	<-	3074044716\models\cultist\items\medkit\v_medkit.mdl
+models/cultist/items/medkit/w_medkit.mdl	<-	3074044716\models\cultist\items\medkit\w_medkit.mdl
+models/cultist/items/nightvision/bonemerge_nvg_forface.mdl	<-	3074044716\models\cultist\items\nightvision\bonemerge_nvg_forface.mdl
+models/cultist/items/nightvision/v_night_vision.mdl	<-	3074044716\models\cultist\items\nightvision\v_night_vision.mdl
+models/cultist/items/nightvision/w_nvg_forface.mdl	<-	3074044716\models\cultist\items\nightvision\w_nvg_forface.mdl
+models/cultist/items/painpills/v_painpills.mdl	<-	3074044716\models\cultist\items\painpills\v_painpills.mdl
+models/cultist/items/painpills/w_painpills.mdl	<-	3074044716\models\cultist\items\painpills\w_painpills.mdl
+models/cultist/items/snav/snav.mdl	<-	3074044716\models\cultist\items\snav\snav.mdl
+models/cultist/items/taser/w_taser_small.mdl	<-	3074044716\models\cultist\items\taser\w_taser_small.mdl
+models/cultist/items/toolbox/tool_box.mdl	<-	3074044716\models\cultist\items\toolbox\tool_box.mdl
+models/cultist/items/uiu_agent_whgrenade/grenade.mdl	<-	3074044716\models\cultist\items\uiu_agent_whgrenade\grenade.mdl
+models/cultist/npc_scp/1499-1.mdl	<-	3074029785\models\cultist\npc_scp\1499-1.mdl
+models/cultist/npc_scp/303.mdl	<-	3074029785\models\cultist\npc_scp\303.mdl
+models/cultist/npc_scp/939.mdl	<-	3074029785\models\cultist\npc_scp\939.mdl
+models/cultist/scp/1015ru.mdl	<-	3074029785\models\cultist\scp\1015ru.mdl
+models/cultist/scp/1015ru_hands.mdl	<-	3074029785\models\cultist\scp\1015ru_hands.mdl
+models/cultist/scp/173.mdl	<-	3074029785\models\cultist\scp\173.mdl
+models/cultist/scp/811/811_puke_mine.mdl	<-	3074029785\models\cultist\scp\811\811_puke_mine.mdl
+models/cultist/scp/c_arms_062fr.mdl	<-	3074029785\models\cultist\scp\c_arms_062fr.mdl
+models/cultist/scp/c_arms_912.mdl	<-	3074029785\models\cultist\scp\c_arms_912.mdl
+models/cultist/scp/scarlet_king.mdl	<-	3074029785\models\cultist\scp\scarlet_king.mdl
+models/cultist/scp/scarlet_king_shaky.mdl	<-	3074029785\models\cultist\scp\scarlet_king_shaky.mdl
+models/cultist/scp/scp2012/crossbow_bolt.mdl	<-	3074029785\models\cultist\scp\scp2012\crossbow_bolt.mdl
+models/cultist/scp/scp2012/scp_2012.mdl	<-	3074029785\models\cultist\scp\scp2012\scp_2012.mdl
+models/cultist/scp/scp2012/scp_2012_arms.mdl	<-	3074029785\models\cultist\scp\scp2012\scp_2012_arms.mdl
+models/cultist/scp/scp2012/scp_shield.mdl	<-	3074029785\models\cultist\scp\scp2012\scp_shield.mdl
+models/cultist/scp/scp2012/scp_sword.mdl	<-	3074029785\models\cultist\scp\scp2012\scp_sword.mdl
+models/cultist/scp/scp2012/v_2h_sword.mdl	<-	3074029785\models\cultist\scp\scp2012\v_2h_sword.mdl
+models/cultist/scp/scp2012/v_crossbow.mdl	<-	3074029785\models\cultist\scp\scp2012\v_crossbow.mdl
+models/cultist/scp/scp2012/v_sword.mdl	<-	3074029785\models\cultist\scp\scp2012\v_sword.mdl
+models/cultist/scp/scp2012/w_crossbow.mdl	<-	3074029785\models\cultist\scp\scp2012\w_crossbow.mdl
+models/cultist/scp/scp638/scp_638.mdl	<-	3074029785\models\cultist\scp\scp638\scp_638.mdl
+models/cultist/scp/scp_035.mdl	<-	3074029785\models\cultist\scp\scp_035.mdl
+models/cultist/scp/scp_049.mdl	<-	3074029785\models\cultist\scp\scp_049.mdl
+models/cultist/scp/scp_049_2_hands.mdl	<-	3074029785\models\cultist\scp\scp_049_2_hands.mdl
+models/cultist/scp/scp_062de.mdl	<-	3074029785\models\cultist\scp\scp_062de.mdl
+models/cultist/scp/scp_062de_arms.mdl	<-	3074029785\models\cultist\scp\scp_062de_arms.mdl
+models/cultist/scp/scp_062fr_new.mdl	<-	3074029785\models\cultist\scp\scp_062fr_new.mdl
+models/cultist/scp/scp_076.mdl	<-	3074029785\models\cultist\scp\scp_076.mdl
+models/cultist/scp/scp_076_arms.mdl	<-	3074029785\models\cultist\scp\scp_076_arms.mdl
+models/cultist/scp/scp_082.mdl	<-	3074029785\models\cultist\scp\scp_082.mdl
+models/cultist/scp/scp_082_hands.mdl	<-	3074029785\models\cultist\scp\scp_082_hands.mdl
+models/cultist/scp/scp_096.mdl	<-	3074029785\models\cultist\scp\scp_096.mdl
+models/cultist/scp/scp_1027ru.mdl	<-	3074029785\models\cultist\scp\scp_1027ru.mdl
+models/cultist/scp/scp_106.mdl	<-	3074029785\models\cultist\scp\scp_106.mdl
+models/cultist/scp/scp_1903.mdl	<-	3074029785\models\cultist\scp\scp_1903.mdl
+models/cultist/scp/scp_457.mdl	<-	3074029785\models\cultist\scp\scp_457.mdl
+models/cultist/scp/scp_542.mdl	<-	3074029785\models\cultist\scp\scp_542.mdl
+models/cultist/scp/scp_682.mdl	<-	3074029785\models\cultist\scp\scp_682.mdl
+models/cultist/scp/scp_811.mdl	<-	3074029785\models\cultist\scp\scp_811.mdl
+models/cultist/scp/scp_860.mdl	<-	3074029785\models\cultist\scp\scp_860.mdl
+models/cultist/scp/scp_912.mdl	<-	3074029785\models\cultist\scp\scp_912.mdl
+models/cultist/scp/scp_939.mdl	<-	3074029785\models\cultist\scp\scp_939.mdl
+models/cultist/scp/scp_973/scp_973.mdl	<-	3074029785\models\cultist\scp\scp_973\scp_973.mdl
+models/cultist/scp/scp_973/scp_973_hands.mdl	<-	3074029785\models\cultist\scp\scp_973\scp_973_hands.mdl
+models/cultist/scp/scp_973/weapons/v_night_stick.mdl	<-	3074029785\models\cultist\scp\scp_973\weapons\v_night_stick.mdl
+models/cultist/scp/scp_973/weapons/v_shotgun.mdl	<-	3074029785\models\cultist\scp\scp_973\weapons\v_shotgun.mdl
+models/cultist/scp/scp_973/weapons/v_stun_batton.mdl	<-	3074029785\models\cultist\scp\scp_973\weapons\v_stun_batton.mdl
+models/cultist/scp/scp_973/weapons/w_night_stick.mdl	<-	3074029785\models\cultist\scp\scp_973\weapons\w_night_stick.mdl
+models/cultist/scp/scp_973/weapons/w_shotgun.mdl	<-	3074029785\models\cultist\scp\scp_973\weapons\w_shotgun.mdl
+models/cultist/scp/scp_973/weapons/w_stun_batton.mdl	<-	3074029785\models\cultist\scp\scp_973\weapons\w_stun_batton.mdl
+models/cultist/scp/scp_999_new.mdl	<-	3074029785\models\cultist\scp\scp_999_new.mdl
+models/cultist/scp_items/005/scp_005.mdl	<-	3074044716\models\cultist\scp_items\005\scp_005.mdl
+models/cultist/scp_items/005/v_scp_005.mdl	<-	3074044716\models\cultist\scp_items\005\v_scp_005.mdl
+models/cultist/scp_items/009/v_scp009.mdl	<-	3074044716\models\cultist\scp_items\009\v_scp009.mdl
+models/cultist/scp_items/009/w_scp_009.mdl	<-	3074044716\models\cultist\scp_items\009\w_scp_009.mdl
+models/cultist/scp_items/1033/scp_1033_ru.mdl	<-	3074044716\models\cultist\scp_items\1033\scp_1033_ru.mdl
+models/cultist/scp_items/1079/scp_1079.mdl	<-	3074044716\models\cultist\scp_items\1079\scp_1079.mdl
+models/cultist/scp_items/109/v_scp_109.mdl	<-	3074044716\models\cultist\scp_items\109\v_scp_109.mdl
+models/cultist/scp_items/109/w_scp_109.mdl	<-	3074044716\models\cultist\scp_items\109\w_scp_109.mdl
+models/cultist/scp_items/1499/v_1499.mdl	<-	3074044716\models\cultist\scp_items\1499\v_1499.mdl
+models/cultist/scp_items/1499/w_1499.mdl	<-	3074044716\models\cultist\scp_items\1499\w_1499.mdl
+models/cultist/scp_items/178/v_178.mdl	<-	3074044716\models\cultist\scp_items\178\v_178.mdl
+models/cultist/scp_items/178/w_178.mdl	<-	3074044716\models\cultist\scp_items\178\w_178.mdl
+models/cultist/scp_items/215/v_215.mdl	<-	3074044716\models\cultist\scp_items\215\v_215.mdl
+models/cultist/scp_items/215/w_215.mdl	<-	3074044716\models\cultist\scp_items\215\w_215.mdl
+models/cultist/scp_items/409/scp_409_big.mdl	<-	3074044716\models\cultist\scp_items\409\scp_409_big.mdl
+models/cultist/scp_items/409/v_scp_409.mdl	<-	3074044716\models\cultist\scp_items\409\v_scp_409.mdl
+models/cultist/scp_items/409/w_scp_409.mdl	<-	3074044716\models\cultist\scp_items\409\w_scp_409.mdl
+models/cultist/scp_items/427/scp_427.mdl	<-	3074044716\models\cultist\scp_items\427\scp_427.mdl
+models/cultist/scp_items/447/scp_447.mdl	<-	3074044716\models\cultist\scp_items\447\scp_447.mdl
+models/cultist/scp_items/500/scp500.mdl	<-	3074044716\models\cultist\scp_items\500\scp500.mdl
+models/cultist/scp_items/scp122/v_scp122.mdl	<-	3074044716\models\cultist\scp_items\scp122\v_scp122.mdl
+models/cultist/scp_items/scp122/w_scp122.mdl	<-	3074044716\models\cultist\scp_items\scp122\w_scp122.mdl
+models/cwkkdoi/upgrades/a_iron_m1a1_l.mdl	<-	3352951512\models\cwkkdoi\upgrades\a_iron_m1a1_l.mdl
+models/cwkkdoi/upgrades/a_iron_m1a1_s.mdl	<-	3352951512\models\cwkkdoi\upgrades\a_iron_m1a1_s.mdl
+models/cwkkdoi/upgrades/a_m1a1_bayonet.mdl	<-	3352951512\models\cwkkdoi\upgrades\a_m1a1_bayonet.mdl
+models/cwkkdoi/upgrades/a_magazine_m1a1_15.mdl	<-	3171580533\models\weapons\cw_cultist\dragunov\upgrades\a_magazine_m1a1_15.mdl
+models/cwkkdoi/upgrades/a_magazine_m1a1_30.mdl	<-	3171580533\models\weapons\cw_cultist\dragunov\upgrades\a_magazine_m1a1_30.mdl
+models/cwkkdoi/upgrades/a_sling_m1a1para.mdl	<-	3352951512\models\cwkkdoi\upgrades\a_sling_m1a1para.mdl
+models/cwkkdoi/upgrades/a_sling_m1carbine.mdl	<-	3352951512\models\cwkkdoi\upgrades\a_sling_m1carbine.mdl
+models/cwkkdoi/upgrades/w_bayonet_m1a1.mdl	<-	3352951512\models\cwkkdoi\upgrades\w_bayonet_m1a1.mdl
+models/cwkkdoi/upgrades/w_iron_m1a1_l.mdl	<-	3352951512\models\cwkkdoi\upgrades\w_iron_m1a1_l.mdl
+models/cwkkdoi/upgrades/w_iron_m1a1_s.mdl	<-	3352951512\models\cwkkdoi\upgrades\w_iron_m1a1_s.mdl
+models/cwkkdoi/upgrades/w_magazine_m1a1_15.mdl	<-	3171580533\models\weapons\cw_cultist\dragunov\upgrades\w_magazine_m1a1_15.mdl
+models/cwkkdoi/upgrades/w_magazine_m1a1_30.mdl	<-	3171580533\models\weapons\cw_cultist\dragunov\upgrades\w_magazine_m1a1_30.mdl
+models/cwkkdoi/w_cw_kk_doi_m1.mdl	<-	3171580533\models\weapons\w_cw_kk_doi_m1.mdl
+models/cwkkdoi/w_m1a1para.mdl	<-	3352951512\models\cwkkdoi\w_m1a1para.mdl
+models/cyox/mog/mog.mdl	<-	3074010797\models\cultist\humans\mog\mog.mdl
+models/cyox/scp/173.mdl	<-	3074029785\models\cultist\scp\173.mdl
+models/foundation/detail/drawer_small.mdl	<-	3074023535\models\foundation\detail\drawer_small.mdl
+models/foundation/detail/table.mdl	<-	3074023535\models\foundation\detail\table.mdl
+models/gibs/props_junk/coffeemug01b_p3.mdl	<-	3074023535\models\gibs\props_junk\coffeemug01b_p3.mdl
+models/gmod4phun/c_contagion_gasmask.mdl	<-	3074044716\models\gmod4phun\c_contagion_gasmask.mdl
+models/gmod4phun/c_ins_to_gmod_hands.mdl	<-	3074027601\models\gmod4phun\c_ins_to_gmod_hands.mdl
+models/gmod4phun/w_contagion_gasmask.mdl	<-	3074044716\models\gmod4phun\w_contagion_gasmask.mdl
+models/gmod4phun/w_contagion_gasmask_equipped.mdl	<-	3074044716\models\gmod4phun\w_contagion_gasmask_equipped.mdl
+models/goc_hands/c_arms_goc.mdl	<-	3074010797\models\cultist\humans\goc\hands\c_arms_goc.mdl
+models/hdweapons/rifleshell.mdl	<-	2840031720\models\tfa\rifleshell.mdl
+models/items/tfa/ar2_grenade.mdl	<-	2840031720\models\items\tfa\ar2_grenade.mdl
+models/items/tfa/boxar2grenades.mdl	<-	2840031720\models\items\tfa\boxar2grenades.mdl
+models/jessev92/weapons/unarmed_c.mdl	<-	3074044716\models\jessev92\weapons\unarmed_c.mdl
+models/mishka/models/scp1025.mdl	<-	3074044716\models\mishka\models\scp1025.mdl
+models/mishka/models/scp714.mdl	<-	3074044716\models\cultist\scp_items\714\scp714.mdl
+models/next_breach/entrance_button.mdl	<-	3074023535\models\next_breach\entrance_button.mdl
+models/next_breach/gas_monitor.mdl	<-	3074023535\models\next_breach\gas_monitor.mdl
+models/next_breach/hcz_keycard_panel.mdl	<-	3074023535\models\next_breach\hcz_keycard_panel.mdl
+models/next_breach/keycard_panel.mdl	<-	3074023535\models\next_breach\keycard_panel.mdl
+models/noundation/detail/crate_01.mdl	<-	3074023535\models\noundation\detail\crate_01.mdl
+models/noundation/detail/crate_02.mdl	<-	3074023535\models\noundation\detail\crate_02.mdl
+models/noundation/detail/crate_939.mdl	<-	3074023535\models\noundation\detail\crate_939.mdl
+models/noundation/detail/desk.mdl	<-	3074023535\models\noundation\detail\desk.mdl
+models/noundation/detail/fence_corner.mdl	<-	3074023535\models\noundation\detail\fence_corner.mdl
+models/noundation/detail/fence_gate.mdl	<-	3074023535\models\noundation\detail\fence_gate.mdl
+models/noundation/detail/fence_short_straight.mdl	<-	3074023535\models\noundation\detail\fence_short_straight.mdl
+models/noundation/detail/fence_straight.mdl	<-	3074023535\models\noundation\detail\fence_straight.mdl
+models/noundation/detail/pillar_gate_b.mdl	<-	3074023535\models\noundation\detail\pillar_gate_b.mdl
+models/noundation/detail/shelf.mdl	<-	3074023535\models\noundation\detail\shelf.mdl
+models/noundation/detail/shelf_large.mdl	<-	3074023535\models\noundation\detail\shelf_large.mdl
+models/noundation/detail/table.mdl	<-	3074023535\models\foundation\detail\table.mdl
+models/noundation/detail/table_cafeteria.mdl	<-	3074023535\models\noundation\detail\table_cafeteria.mdl
+models/noundation/doors/860_door.mdl	<-	3074023535\models\noundation\doors\860_door.mdl
+models/noundation/electronics/console01.mdl	<-	3074023535\models\noundation\electronics\console01.mdl
+models/noundation/electronics/console02.mdl	<-	3074023535\models\noundation\electronics\console02.mdl
+models/noundation/electronics/console173.mdl	<-	3074023535\models\noundation\electronics\console173.mdl
+models/noundation/electronics/console_office.mdl	<-	3074023535\models\noundation\electronics\console_office.mdl
+models/noundation/electronics/electrical_box.mdl	<-	3074023535\models\noundation\electronics\electrical_box.mdl
+models/noundation/electronics/flat_monitor.mdl	<-	3074023535\models\noundation\electronics\flat_monitor.mdl
+models/noundation/electronics/keyboard.mdl	<-	3074023535\models\noundation\electronics\keyboard.mdl
+models/noundation/electronics/server01.mdl	<-	3074023535\models\noundation\electronics\server01.mdl
+models/noundation/electronics/server02.mdl	<-	3074023535\models\noundation\electronics\server02.mdl
+models/noundation/electronics/server03.mdl	<-	3074023535\models\noundation\electronics\server03.mdl
+models/noundation/scps/895.mdl	<-	3074023535\models\noundation\scps\895.mdl
+models/props/cs_assault/consolepanelloadingbay.mdl	<-	3074023535\models\props\cs_assault\consolepanelloadingbay.mdl
+models/props/cs_assault/forklift.mdl	<-	3074023535\models\newmap_props\cs_assault\forklift.mdl
+models/props/cs_assault/ventilationduct02.mdl	<-	3074023535\models\props\cs_assault\ventilationduct02.mdl
+models/props/de_nuke/electricity_box.mdl	<-	3074023535\models\props\de_nuke\electricity_box.mdl
+models/props/de_nuke/equipment1.mdl	<-	3074023535\models\props\de_nuke\equipment1.mdl
+models/props/de_prodigy/pushcart.mdl	<-	3074023535\models\newmap_props\de_prodigy\pushcart.mdl
+models/props/de_train/pallet_barrels.mdl	<-	3074023535\models\props\de_train\pallet_barrels.mdl
+models/props/scp_vendor.mdl	<-	3074023535\models\props\scp_vendor.mdl
+models/props_beneric/bm_batteryradio01.mdl	<-	3074023535\models\props_beneric\bm_batteryradio01.mdl
+models/props_beneric/crate_48x48.mdl	<-	3074023535\models\props_beneric\crate_48x48.mdl
+models/props_beneric/crate_64x96.mdl	<-	3074023535\models\props_beneric\crate_64x96.mdl
+models/props_beneric/hand_dryer.mdl	<-	3074023535\models\props_beneric\hand_dryer.mdl
+models/props_beneric/ledindicator_large.mdl	<-	3074023535\models\props_beneric\ledindicator_large.mdl
+models/props_beneric/plant_office.mdl	<-	3074023535\models\props_beneric\plant_office.mdl
+models/props_beneric/storage_cabinet.mdl	<-	3074023535\models\props_beneric\storage_cabinet.mdl
+models/props_beneric/storage_cabinet_static.mdl	<-	3074023535\models\props_beneric\storage_cabinet_static.mdl
+models/props_beneric/storage_shelf.mdl	<-	3074023535\models\props_beneric\storage_shelf.mdl
+models/props_beneric/trashbin002.mdl	<-	3074023535\models\props_beneric\trashbin002.mdl
+models/props_beneric/wallmonitors.mdl	<-	3074023535\models\props_beneric\wallmonitors.mdl
+models/props_blackmesa/securitycamera.mdl	<-	3074023535\models\props_glackmesa\securitycamera.mdl
+models/props_blastpit/silo_monitor.mdl	<-	3074023535\models\props_blastpit\silo_monitor.mdl
+models/props_breach/goc_shield.mdl	<-	3074044716\models\props_breach\goc_shield.mdl
+models/props_canteen/backlit_sign.mdl	<-	3074023535\models\props_canteen\backlit_sign.mdl
+models/props_canteen/canteenbin.mdl	<-	3074023535\models\props_canteen\canteenbin.mdl
+models/props_canteen/vendingmachine01.mdl	<-	3074023535\models\props_canteen\vendingmachine01.mdl
+models/props_construction/constructioncone_stack3.mdl	<-	3074023535\models\props_construction\constructioncone_stack3.mdl
+models/props_construction/light_floodlight01a.mdl	<-	3074023535\models\props_construction\light_floodlight01a.mdl
+models/props_equipment/case_lights.mdl	<-	3074023535\models\props_equipment\case_lights.mdl
+models/props_equipment/hardcase_01a.mdl	<-	3074023535\models\props_equipment\hardcase_01a.mdl
+models/props_equipment/specimencontainer01b.mdl	<-	3074023535\models\props_equipment\specimencontainer01b.mdl
+models/props_equipment/storagetrunk01a.mdl	<-	3074023535\models\props_equipment\storagetrunk01a.mdl
+models/props_equipment/storagetrunk01b.mdl	<-	3074023535\models\props_equipment\storagetrunk01b.mdl
+models/props_equipment/storagetrunk01b_lid.mdl	<-	3074023535\models\props_equipment\storagetrunk01b_lid.mdl
+models/props_foliage/small-tree01.mdl	<-	3074023535\models\props_foliage\small-tree01.mdl
+models/props_gab/console01a.mdl	<-	3074023535\models\props_gab\console01a.mdl
+models/props_gab/console01b.mdl	<-	3074023535\models\props_gab\console01b.mdl
+models/props_gab/console01c.mdl	<-	3074023535\models\props_gab\console01c.mdl
+models/props_gab/console02a.mdl	<-	3074023535\models\props_gab\console02a.mdl
+models/props_gab/console02b.mdl	<-	3074023535\models\props_gab\console02b.mdl
+models/props_gab/console02c.mdl	<-	3074023535\models\props_gab\console02c.mdl
+models/props_gab/console03a.mdl	<-	3074023535\models\props_gab\console03a.mdl
+models/props_gab/console03b.mdl	<-	3074023535\models\props_gab\console03b.mdl
+models/props_gab/console03c.mdl	<-	3074023535\models\props_gab\console03c.mdl
+models/props_gab/lab_stool.mdl	<-	3074023535\models\props_gab\lab_stool.mdl
+models/props_gab/labcupboard_tall01a.mdl	<-	3074023535\models\props_gab\labcupboard_tall01a.mdl
+models/props_gab/labcupboard_tall01b.mdl	<-	3074023535\models\props_gab\labcupboard_tall01b.mdl
+models/props_gab/lockers.mdl	<-	3074023535\models\props_gab\lockers.mdl
+models/props_gab/mobiletable01.mdl	<-	3074023535\models\props_gab\mobiletable01.mdl
+models/props_gab/mobiletable01_static.mdl	<-	3074023535\models\props_gab\mobiletable01_static.mdl
+models/props_gab/panel_safe.mdl	<-	3074023535\models\props_gab\panel_safe.mdl
+models/props_gab/reciever_cart.mdl	<-	3074023535\models\props_gab\reciever_cart.mdl
+models/props_gab/server_rack.mdl	<-	3074023535\models\props_gab\server_rack.mdl
+models/props_gab/tuberack01.mdl	<-	3074023535\models\props_gab\tuberack01.mdl
+models/props_gab/tuberack01_gib01.mdl	<-	3074023535\models\props_gab\tuberack01_gib01.mdl
+models/props_gab/wallunit_control.mdl	<-	3074023535\models\props_gab\wallunit_control.mdl
+models/props_gab/wallunit_tech.mdl	<-	3074023535\models\props_gab\wallunit_tech.mdl
+models/props_garines/ammo_crate.mdl	<-	3074023535\models\props_garines\ammo_crate.mdl
+models/props_garines/ammo_crate02.mdl	<-	3074023535\models\props_garines\ammo_crate02.mdl
+models/props_garines/ammo_crate02_static.mdl	<-	3074023535\models\props_garines\ammo_crate02_static.mdl
+models/props_garines/ammobox01.mdl	<-	3074023535\models\props_garines\ammobox01.mdl
+models/props_garines/ammocrate01.mdl	<-	3074023535\models\props_garines\ammocrate01.mdl
+models/props_garines/ammocrate01_static.mdl	<-	3074023535\models\props_garines\ammocrate01_static.mdl
+models/props_garines/missile_crate.mdl	<-	3074023535\models\props_garines\missile_crate.mdl
+models/props_garines/ordnance_crate.mdl	<-	3074023535\models\props_garines\ordnance_crate.mdl
+models/props_gasworks/gasworks_pipes_128.mdl	<-	3074023535\models\props_gasworks\gasworks_pipes_128.mdl
+models/props_gasworks/train_signalbox_01.mdl	<-	3074023535\models\props_gasworks\train_signalbox_01.mdl
+models/props_gffice/books_1.mdl	<-	3074023535\models\props_gffice\books_1.mdl
+models/props_gffice/c1a2c_foodcrate_01.mdl	<-	3074023535\models\props_gffice\c1a2c_foodcrate_01.mdl
+models/props_gffice/c1a2c_foodcrate_02.mdl	<-	3074023535\models\props_gffice\c1a2c_foodcrate_02.mdl
+models/props_gffice/c1a2c_foodcrate_03.mdl	<-	3074023535\models\props_gffice\c1a2c_foodcrate_03.mdl
+models/props_gffice/calculator.mdl	<-	3074023535\models\props_gffice\calculator.mdl
+models/props_gffice/closed_laptop.mdl	<-	3074023535\models\props_gffice\closed_laptop.mdl
+models/props_gffice/coffe_machine.mdl	<-	3074023535\models\props_gffice\coffe_machine.mdl
+models/props_gffice/coffe_pot.mdl	<-	3074023535\models\props_gffice\coffe_pot.mdl
+models/props_gffice/computer_desktop01.mdl	<-	3074023535\models\props_gffice\computer_desktop01.mdl
+models/props_gffice/computer_desktop02.mdl	<-	3074023535\models\props_gffice\computer_desktop02.mdl
+models/props_gffice/computer_desktop03.mdl	<-	3074023535\models\props_gffice\computer_desktop03.mdl
+models/props_gffice/computer_keyboard02.mdl	<-	3074023535\models\props_gffice\computer_keyboard02.mdl
+models/props_gffice/computer_monitor03.mdl	<-	3074023535\models\props_gffice\computer_monitor03.mdl
+models/props_gffice/computer_monitor04.mdl	<-	3074023535\models\props_gffice\computer_monitor04.mdl
+models/props_gffice/computer_mouse01.mdl	<-	3074023535\models\props_gffice\computer_mouse01.mdl
+models/props_gffice/copy_machine.mdl	<-	3074023535\models\props_gffice\copy_machine.mdl
+models/props_gffice/desk_cantilever01a.mdl	<-	3074023535\models\props_gffice\desk_cantilever01a.mdl
+models/props_gffice/desk_cantilever01c.mdl	<-	3074023535\models\props_gffice\desk_cantilever01c.mdl
+models/props_gffice/desk_corner01.mdl	<-	3074023535\models\props_gffice\desk_corner01.mdl
+models/props_gffice/desk_corner01_cupboard.mdl	<-	3074023535\models\props_gffice\desk_corner01_cupboard.mdl
+models/props_gffice/deskfan.mdl	<-	3074023535\models\props_gffice\deskfan.mdl
+models/props_gffice/file_cabinet_large_static.mdl	<-	3074023535\models\props_gffice\file_cabinet_large_static.mdl
+models/props_gffice/folder.mdl	<-	3074023535\models\props_gffice\folder.mdl
+models/props_gffice/metalbin01.mdl	<-	3074023535\models\props_gffice\metalbin01.mdl
+models/props_gffice/notepad_office.mdl	<-	3074023535\models\props_gffice\notepad_office.mdl
+models/props_gffice/noticeboard01.mdl	<-	3074023535\models\props_gffice\noticeboard01.mdl
+models/props_gffice/oc_shelf01.mdl	<-	3074023535\models\props_gffice\oc_shelf01.mdl
+models/props_gffice/oc_shelf03.mdl	<-	3074023535\models\props_gffice\oc_shelf03.mdl
+models/props_gffice/oc_shelf03b.mdl	<-	3074023535\models\props_gffice\oc_shelf03b.mdl
+models/props_gffice/oc_shelf_short.mdl	<-	3074023535\models\props_gffice\oc_shelf_short.mdl
+models/props_gffice/office_chair_static.mdl	<-	3074023535\models\props_gffice\office_chair_static.mdl
+models/props_gffice/office_phone.mdl	<-	3074023535\models\props_gffice\office_phone.mdl
+models/props_gffice/officefilecabinet.mdl	<-	3074023535\models\props_gffice\officefilecabinet.mdl
+models/props_gffice/officefilecabinet_static.mdl	<-	3074023535\models\props_gffice\officefilecabinet_static.mdl
+models/props_gffice/open_laptop.mdl	<-	3074023535\models\props_gffice\open_laptop.mdl
+models/props_gffice/paperfolder01.mdl	<-	3074023535\models\props_gffice\paperfolder01.mdl
+models/props_gffice/pictureframe01a.mdl	<-	3074023535\models\props_gffice\pictureframe01a.mdl
+models/props_gffice/pictureframe01b.mdl	<-	3074023535\models\props_gffice\pictureframe01b.mdl
+models/props_gffice/pictureframe02.mdl	<-	3074023535\models\props_gffice\pictureframe02.mdl
+models/props_gffice/pictureframe03.mdl	<-	3074023535\models\props_gffice\pictureframe03.mdl
+models/props_gffice/pictureframe04.mdl	<-	3074023535\models\props_gffice\pictureframe04.mdl
+models/props_gffice/sofa_casual.mdl	<-	3074023535\models\props_gffice\sofa_casual.mdl
+models/props_gffice/table_square.mdl	<-	3074023535\models\props_gffice\table_square.mdl
+models/props_gffice/taxidermy_roadrunner.mdl	<-	3074023535\models\props_gffice\taxidermy_roadrunner.mdl
+models/props_gffice/tv_small.mdl	<-	3074023535\models\props_gffice\tv_small.mdl
+models/props_gffice/vcr.mdl	<-	3074023535\models\props_gffice\vcr.mdl
+models/props_gffice/videocassette.mdl	<-	3074023535\models\props_gffice\videocassette.mdl
+models/props_gffice/waterdispencer.mdl	<-	3074023535\models\props_gffice\waterdispencer.mdl
+models/props_glackmesa/alarmbox.mdl	<-	3074023535\models\props_glackmesa\alarmbox.mdl
+models/props_glackmesa/barrel01.mdl	<-	3074023535\models\props_glackmesa\barrel01.mdl
+models/props_glackmesa/barrel_buoyant.mdl	<-	3074023535\models\props_glackmesa\barrel_buoyant.mdl
+models/props_glackmesa/bms_metalcrate_48x48.mdl	<-	3074023535\models\props_glackmesa\bms_metalcrate_48x48.mdl
+models/props_glackmesa/bms_metalcrate_64x96.mdl	<-	3074023535\models\props_glackmesa\bms_metalcrate_64x96.mdl
+models/props_glackmesa/bms_metalcrate_tarp.mdl	<-	3074023535\models\props_glackmesa\bms_metalcrate_tarp.mdl
+models/props_glackmesa/bms_pushable_crate.mdl	<-	3074023535\models\props_glackmesa\bms_pushable_crate.mdl
+models/props_glackmesa/console01.mdl	<-	3074023535\models\noundation\electronics\console01.mdl
+models/props_glackmesa/exit_sign.mdl	<-	3074023535\models\props_glackmesa\exit_sign.mdl
+models/props_glackmesa/firealarm_light.mdl	<-	3074023535\models\props_glackmesa\firealarm_light.mdl
+models/props_glackmesa/fireescape_sign.mdl	<-	3074023535\models\props_glackmesa\fireescape_sign.mdl
+models/props_glackmesa/fireextinguisher.mdl	<-	3074023535\models\props_glackmesa\fireextinguisher.mdl
+models/props_glackmesa/juntionbox_set01.mdl	<-	3074023535\models\props_glackmesa\juntionbox_set01.mdl
+models/props_glackmesa/light_wall03.mdl	<-	3074023535\models\props_glackmesa\light_wall03.mdl
+models/props_glackmesa/metalcrate01.mdl	<-	3074023535\models\props_glackmesa\metalcrate01.mdl
+models/props_glackmesa/metalcrate01_static.mdl	<-	3074023535\models\props_glackmesa\metalcrate01_static.mdl
+models/props_glackmesa/powermetrebox01.mdl	<-	3074023535\models\props_glackmesa\powermetrebox01.mdl
+models/props_glackmesa/rotatingdisplay.mdl	<-	3074023535\models\props_glackmesa\rotatingdisplay.mdl
+models/props_glackmesa/seating01.mdl	<-	3074023535\models\props_glackmesa\seating01.mdl
+models/props_glackmesa/securitycamera.mdl	<-	3074023535\models\props_glackmesa\securitycamera.mdl
+models/props_glackmesa/shelves01.mdl	<-	3074023535\models\props_glackmesa\shelves01.mdl
+models/props_gm/am_chamber_console.mdl	<-	3074023535\models\props_gm\am_chamber_console.mdl
+models/props_gm/am_critical_cabinet.mdl	<-	3074023535\models\props_gm\am_critical_cabinet.mdl
+models/props_gm/am_front_desk.mdl	<-	3074023535\models\props_gm\am_front_desk.mdl
+models/props_gm/am_servers4a.mdl	<-	3074023535\models\props_gm\am_servers4a.mdl
+models/props_gm/am_servers4b.mdl	<-	3074023535\models\props_gm\am_servers4b.mdl
+models/props_gm/gadget01.mdl	<-	3074023535\models\props_gm\gadget01.mdl
+models/props_gm/gadget03.mdl	<-	3074023535\models\props_gm\gadget03.mdl
+models/props_gm/post_board.mdl	<-	3074023535\models\props_gm\post_board.mdl
+models/props_gm/powerbox.mdl	<-	3074023535\models\props_gm\powerbox.mdl
+models/props_guestionableethics/console_large_01.mdl	<-	3074023535\models\props_guestionableethics\console_large_01.mdl
+models/props_guestionableethics/console_wide.mdl	<-	3074023535\models\props_guestionableethics\console_wide.mdl
+models/props_guestionableethics/qe_console_large.mdl	<-	3074023535\models\props_guestionableethics\qe_console_large.mdl
+models/props_guestionableethics/qe_console_tall.mdl	<-	3074023535\models\props_guestionableethics\qe_console_tall.mdl
+models/props_guestionableethics/qe_console_wide.mdl	<-	3074023535\models\props_guestionableethics\qe_console_wide.mdl
+models/props_guestionableethics/qe_console_wide2.mdl	<-	3074023535\models\props_guestionableethics\qe_console_wide2.mdl
+models/props_guestionableethics/qe_console_wide3.mdl	<-	3074023535\models\props_guestionableethics\qe_console_wide3.mdl
+models/props_guestionableethics/qe_dissection_array.mdl	<-	3074023535\models\props_guestionableethics\qe_dissection_array.mdl
+models/props_guestionableethics/qe_jenn0desk.mdl	<-	3074023535\models\props_guestionableethics\qe_jenn0desk.mdl
+models/props_guestionableethics/snark_pen_console.mdl	<-	3074023535\models\props_guestionableethics\snark_pen_console.mdl
+models/props_inbound/fiberglass_ladder.mdl	<-	3074023535\models\props_inbound\fiberglass_ladder.mdl
+models/props_inbound/tray_truck.mdl	<-	3074023535\models\props_inbound\tray_truck.mdl
+models/props_industrial/cagelight03a.mdl	<-	3074023535\models\props_industrial\cagelight03a.mdl
+models/props_industrial/control_console_001.mdl	<-	3074023535\models\props_industrial\control_console_001.mdl
+models/props_industrial/cylinder_store.mdl	<-	3074023535\models\props_industrial\cylinder_store.mdl
+models/props_industrial/desk_console1.mdl	<-	3074023535\models\props_industrial\desk_console1.mdl
+models/props_industrial/faf_lever_box.mdl	<-	3074023535\models\props_industrial\faf_lever_box.mdl
+models/props_industrial/floodlight.mdl	<-	3074023535\models\props_industrial\floodlight.mdl
+models/props_industrial/largetoolbox.mdl	<-	3074023535\models\props_industrial\largetoolbox.mdl
+models/props_industrial/service_terminal.mdl	<-	3074023535\models\props_industrial\service_terminal.mdl
+models/props_industrial/steelshelf01.mdl	<-	3074023535\models\props_industrial\steelshelf01.mdl
+models/props_industrial/steelshelf01_static.mdl	<-	3074023535\models\props_industrial\steelshelf01_static.mdl
+models/props_industrial/wall_console1.mdl	<-	3074023535\models\props_industrial\wall_console1.mdl
+models/props_industrial/wall_console_sm.mdl	<-	3074023535\models\props_industrial\wall_console_sm.mdl
+models/props_industrial/warehouse_rack_infosign.mdl	<-	3074023535\models\props_industrial\warehouse_rack_infosign.mdl
+models/props_industrial/warehouse_shelf001.mdl	<-	3074023535\models\props_industrial\warehouse_shelf001.mdl
+models/props_industrial/welder.mdl	<-	3074023535\models\props_industrial\welder.mdl
+models/props_interiors/chair_office2.mdl	<-	3074023535\models\props_interiors\chair_office2.mdl
+models/props_junk/coffeemug01b.mdl	<-	3074023535\models\props_junk\coffeemug01b.mdl
+models/props_junk/junk_earmuffs.mdl	<-	3074023535\models\props_junk\junk_earmuffs.mdl
+models/props_junk/mopbucket01.mdl	<-	3074023535\models\props_junk\mopbucket01.mdl
+models/props_junk/propanecanister001a.mdl	<-	3074023535\models\props_junk\propanecanister001a.mdl
+models/props_junk/warehouse_pallet01.mdl	<-	3074023535\models\props_junk\warehouse_pallet01.mdl
+models/props_junk/warehouse_pallet02.mdl	<-	3074023535\models\props_junk\warehouse_pallet02.mdl
+models/props_junk/warehouse_pallet03.mdl	<-	3074023535\models\props_junk\warehouse_pallet03.mdl
+models/props_junk/wetfloorsign.mdl	<-	3074023535\models\props_junk\wetfloorsign.mdl
+models/props_lab/keypad.mdl	<-	3074023535\models\noundation\electronics\keypad.mdl
+models/props_mill/pipeset32d_corner128d_001a.mdl	<-	3074023535\models\props_mill\pipeset32d_corner128d_001a.mdl
+models/props_oar/jbox_24.mdl	<-	3074023535\models\props_oar\jbox_24.mdl
+models/props_oar/jbox_48.mdl	<-	3074023535\models\props_oar\jbox_48.mdl
+models/props_pipes/gaspipe01_256.mdl	<-	3074023535\models\props_pipes\gaspipe01_256.mdl
+models/props_pipes/gaspipe01_512.mdl	<-	3074023535\models\props_pipes\gaspipe01_512.mdl
+models/props_pipes/gaspipe01_64.mdl	<-	3074023535\models\props_pipes\gaspipe01_64.mdl
+models/props_pipes/gasworks_pipesystem04.mdl	<-	3074023535\models\props_pipes\gasworks_pipesystem04.mdl
+models/props_pipes/pipe02_90degree01.mdl	<-	3074023535\models\props_pipes\pipe02_90degree01.mdl
+models/props_pipes/pipe02_connector01.mdl	<-	3074023535\models\props_pipes\pipe02_connector01.mdl
+models/props_pipes/pipe02_lcurve02_short.mdl	<-	3074023535\models\props_pipes\pipe02_lcurve02_short.mdl
+models/props_pipes/pipe02_scurve01_long.mdl	<-	3074023535\models\props_pipes\pipe02_scurve01_long.mdl
+models/props_pipes/pipe02_straight01_long.mdl	<-	3074023535\models\props_pipes\pipe02_straight01_long.mdl
+models/props_pipes/pipe02_straight01_short.mdl	<-	3074023535\models\props_pipes\pipe02_straight01_short.mdl
+models/props_pipes/pipe02_tjoint01.mdl	<-	3074023535\models\props_pipes\pipe02_tjoint01.mdl
+models/props_pipes/pipe03_90degree01.mdl	<-	3074023535\models\props_pipes\pipe03_90degree01.mdl
+models/props_pipes/pipe03_connector01.mdl	<-	3074023535\models\props_pipes\pipe03_connector01.mdl
+models/props_pipes/pipe03_straight01_long.mdl	<-	3074023535\models\props_pipes\pipe03_straight01_long.mdl
+models/props_pipes/pipeset08d_512_001a.mdl	<-	3074023535\models\newmap_props\props_pipes\pipeset08d_512_001a.mdl
+models/props_pipes/pipeset32d_corner128d_001a.mdl	<-	3074023535\models\props_mill\pipeset32d_corner128d_001a.mdl
+models/props_pipes/xen_factorypipe01_turn90x16.mdl	<-	3074023535\models\props_pipes\xen_factorypipe01_turn90x16.mdl
+models/props_pipes/xen_factorypipe01a_64x16.mdl	<-	3074023535\models\props_pipes\xen_factorypipe01a_64x16.mdl
+models/props_residue/trashcan01.mdl	<-	3074023535\models\props_residue\trashcan01.mdl
+models/props_skybox/van.mdl	<-	3074023535\models\props_skybox\van.mdl
+models/props_stalkyard/sy_pallet.mdl	<-	3074023535\models\props_stalkyard\sy_pallet.mdl
+models/props_stalkyard/sy_plankcrate_short.mdl	<-	3074023535\models\props_stalkyard\sy_plankcrate_short.mdl
+models/props_stalkyard/sy_plankcrate_small_48.mdl	<-	3074023535\models\props_stalkyard\sy_plankcrate_small_48.mdl
+models/props_stalkyard/sy_plankcrate_small_64.mdl	<-	3074023535\models\props_stalkyard\sy_plankcrate_small_64.mdl
+models/props_stalkyard/sy_plankcrate_tarp.mdl	<-	3074023535\models\props_stalkyard\sy_plankcrate_tarp.mdl
+models/props_stalkyard/sy_plywoodcrate_tarp.mdl	<-	3074023535\models\props_stalkyard\sy_plywoodcrate_tarp.mdl
+models/props_stu/kiosk.mdl	<-	3074023535\models\props_stu\kiosk.mdl
+models/props_uc/c1a1c_thermometer.mdl	<-	3074023535\models\props_uc\c1a1c_thermometer.mdl
+models/scp_chaos_jeep/chaos_jeep.mdl	<-	3074044716\models\scp_chaos_jeep\chaos_jeep.mdl
+models/scp_documents/secret_document.mdl	<-	3074044716\models\scp_documents\secret_document.mdl
+models/scp_helicopter/resque_helicopter.mdl	<-	3074044716\models\scp_helicopter\resque_helicopter.mdl
+models/scp_items/scp268/scp268.mdl	<-	3074044716\models\scp_items\scp268\scp268.mdl
+models/scp_trap/hunter_trap.mdl	<-	3074044716\models\scp_trap\hunter_trap.mdl
+models/scpcars/scpp_wrangler_fnf.mdl	<-	3074044716\models\scpcars\scpp_wrangler_fnf.mdl
+models/shaky/breach/gift.mdl	<-	3074044716\models\shaky\breach\gift.mdl
+models/shaky/goc_teleporter.mdl	<-	3074044716\models\shaky\goc_teleporter.mdl
+models/shaky/heads/head_gp.mdl	<-	3074010797\models\shaky\heads\head_gp.mdl
+models/shaky/humans/class_d/head_gear/cleaner_cap.mdl	<-	3074010797\models\cultist\humans\class_d\head_gear\cleaner_cap.mdl
+models/shaky/items/scp/scp294/v_scp294.mdl	<-	3074044716\models\shaky\items\scp\scp294\v_scp294.mdl
+models/shaky/scp/scp2012/scp_2012.mdl	<-	3074029785\models\cultist\scp\scp2012\scp_2012.mdl
+models/special_sci_props/mine.mdl	<-	3074044716\models\special_sci_props\mine.mdl
+models/static/wallchair/lavka.mdl	<-	3074023535\models\static\wallchair\lavka.mdl
+models/tfa/pistolshell.mdl	<-	2840031720\models\tfa\pistolshell.mdl
+models/tfa/rifleshell.mdl	<-	2840031720\models\tfa\rifleshell.mdl
+models/tfa/shotgunshell.mdl	<-	2840031720\models\tfa\shotgunshell.mdl
+models/vinrax/props/cup_294.mdl	<-	3074044716\models\vinrax\props\cup_294.mdl
+models/vinrax/props/rubber_duck.mdl	<-	3074023535\models\vinrax\props\rubber_duck.mdl
+models/vinrax/scp294/scp294_lg.mdl	<-	3074044716\models\vinrax\scp294\scp294_lg.mdl
+models/weapons/aof/v_flashgun.mdl	<-	3171580533\models\weapons\aof\v_flashgun.mdl
+models/weapons/aof/v_m79.mdl	<-	3171580533\models\weapons\aof\v_m79.mdl
+models/weapons/aof/w_flashgun.mdl	<-	3171580533\models\weapons\aof\w_flashgun.mdl
+models/weapons/aof/w_m79.mdl	<-	3171580533\models\weapons\aof\w_m79.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_acog.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_acog.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_acog_m.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_acog_m.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_anpeq_band.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_anpeq_band.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_anpeq_band_l.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_anpeq_band_l.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_anpeq_rail.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_anpeq_rail.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_anpeq_ring.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_anpeq_ring.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_anpeq_shotgun.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_anpeq_shotgun.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_barska.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_barska.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_barska_l.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_barska_l.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_barska_m.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_barska_m.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_barska_xl.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_barska_xl.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_cmore.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_cmore.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_cmore_l.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_cmore_l.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_cmore_m.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_cmore_m.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_compm4s.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_compm4s.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_compm4s_2x.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_compm4s_2x.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_compm4s_l.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_compm4s_l.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_compm4s_l_2x.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_compm4s_l_2x.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_compm4s_m.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_compm4s_m.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_compm4s_m_2x.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_compm4s_m_2x.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_eotechxps.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_eotechxps.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_eotechxps_2x.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_eotechxps_2x.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_eotechxps_l.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_eotechxps_l.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_eotechxps_l_2x.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_eotechxps_l_2x.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_eotechxps_m.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_eotechxps_m.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_eotechxps_m_2x.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_eotechxps_m_2x.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_eotechxps_xl.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_eotechxps_xl.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_m6x.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_m6x.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_microt1.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_microt1.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_microt1_M.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_microt1_m.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_microt1_l.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_microt1_l.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_microt1_m.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_microt1_m.mdl
+models/weapons/attachments/v_cw_kk_ins2_cstm_pgo7.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_cstm_pgo7.mdl
+models/weapons/attachments/v_cw_kk_ins2_flipsight.mdl	<-	3171580533\models\weapons\attachments\v_cw_kk_ins2_flipsight.mdl
+models/weapons/attachments/v_iron_enfield_up.mdl	<-	3171580533\models\weapons\attachments\v_iron_enfield_up.mdl
+models/weapons/attachments/w_cw_kk_ins2_cstm_acog.mdl	<-	3171580533\models\weapons\attachments\w_cw_kk_ins2_cstm_acog.mdl
+models/weapons/attachments/w_cw_kk_ins2_cstm_cmore.mdl	<-	3171580533\models\weapons\attachments\w_cw_kk_ins2_cstm_cmore.mdl
+models/weapons/attachments/w_cw_kk_ins2_cstm_eotechxps.mdl	<-	3171580533\models\weapons\attachments\w_cw_kk_ins2_cstm_eotechxps.mdl
+models/weapons/attachments/w_cw_kk_ins2_flipsight.mdl	<-	3171580533\models\weapons\attachments\w_cw_kk_ins2_flipsight.mdl
+models/weapons/aug/a_aug_heavybarrel.mdl	<-	3171580533\models\weapons\aug\a_aug_heavybarrel.mdl
+models/weapons/aug/a_aug_rail.mdl	<-	3171580533\models\weapons\aug\a_aug_rail.mdl
+models/weapons/aug/a_aug_standard.mdl	<-	3171580533\models\weapons\aug\a_aug_standard.mdl
+models/weapons/aug/a_aug_standardbarrel.mdl	<-	3171580533\models\weapons\aug\a_aug_standardbarrel.mdl
+models/weapons/aug/a_augextmag.mdl	<-	3171580533\models\weapons\aug\a_augextmag.mdl
+models/weapons/aug/a_augmag.mdl	<-	3171580533\models\weapons\aug\a_augmag.mdl
+models/weapons/aug/v_aug.mdl	<-	3171580533\models\weapons\aug\v_aug.mdl
+models/weapons/aug/w_aug.mdl	<-	3171580533\models\weapons\w_aug.mdl
+models/weapons/aug/w_augrail.mdl	<-	3171580533\models\weapons\aug\w_augrail.mdl
+models/weapons/aug/w_augscope.mdl	<-	3171580533\models\weapons\aug\w_augscope.mdl
+models/weapons/breach_melee/v_crowbar.mdl	<-	3074044716\models\weapons\breach_melee\v_crowbar.mdl
+models/weapons/breach_melee/v_fireaxe.mdl	<-	3074044716\models\weapons\breach_melee\v_fireaxe.mdl
+models/weapons/breach_melee/v_hammer.mdl	<-	3074044716\models\weapons\breach_melee\v_hammer.mdl
+models/weapons/breach_melee/v_pipe.mdl	<-	3074044716\models\weapons\breach_melee\v_pipe.mdl
+models/weapons/breach_melee/w_crowbar.mdl	<-	3074044716\models\weapons\breach_melee\w_crowbar.mdl
+models/weapons/breach_melee/w_fireaxe.mdl	<-	3074044716\models\weapons\breach_melee\w_fireaxe.mdl
+models/weapons/breach_melee/w_hammer.mdl	<-	3074044716\models\weapons\breach_melee\w_hammer.mdl
+models/weapons/breach_melee/w_pipe.mdl	<-	3074044716\models\weapons\breach_melee\w_pipe.mdl
+models/weapons/c_handlooker.mdl	<-	3074044716\models\weapons\c_handlooker.mdl
+models/weapons/carkeys/c_key.mdl	<-	3171580533\models\weapons\carkeys\c_key.mdl
+models/weapons/carkeys/w_key.mdl	<-	3171580533\models\weapons\carkeys\w_key.mdl
+models/weapons/cw_cultist/acr/v_acr.mdl	<-	3171580533\models\weapons\cw_cultist\acr\v_acr.mdl
+models/weapons/cw_cultist/acr/w_acr.mdl	<-	3171580533\models\weapons\cw_cultist\acr\w_acr.mdl
+models/weapons/cw_cultist/ak117/v_ak117.mdl	<-	3171580533\models\weapons\cw_cultist\ak117\v_ak117.mdl
+models/weapons/cw_cultist/ak117/w_ak117.mdl	<-	3171580533\models\weapons\cw_cultist\ak117\w_ak117.mdl
+models/weapons/cw_cultist/ak12/upgrades/a_woodgrips_ak74.mdl	<-	3171580533\models\weapons\cw_cultist\ak117\upgrades\a_woodgrips_ak74.mdl
+models/weapons/cw_cultist/ak12/v_ak12.mdl	<-	3171580533\models\weapons\cw_cultist\ak12\v_ak12.mdl
+models/weapons/cw_cultist/ak12/w_ak12.mdl	<-	3171580533\models\weapons\cw_cultist\ak12\w_ak12.mdl
+models/weapons/cw_cultist/ak12/weapons/upgrades/w_foregrip_wood_2.mdl	<-	3171580533\models\weapons\cw_cultist\ak117\upgrades\w_foregrip_wood_2.mdl
+models/weapons/cw_cultist/aks74_modern/upgrades/a_woodgrips_aks74u.mdl	<-	3171580533\models\weapons\cw_cultist\aks74_modern\upgrades\a_woodgrips_aks74u.mdl
+models/weapons/cw_cultist/aks74_modern/upgrades/w_foregrip_aks74u.mdl	<-	3171580533\models\weapons\cw_cultist\aks74_modern\upgrades\w_foregrip_aks74u.mdl
+models/weapons/cw_cultist/aks74_modern/v_aks74_modern.mdl	<-	3171580533\models\weapons\cw_cultist\aks74_modern\v_aks74_modern.mdl
+models/weapons/cw_cultist/aks74_modern/w_aks74_modern.mdl	<-	3171580533\models\weapons\cw_cultist\aks74_modern\w_aks74_modern.mdl
+models/weapons/cw_cultist/arx/upgrades/a_standard2_mk18.mdl	<-	3171580533\models\weapons\cw_cultist\arx\upgrades\a_standard2_mk18.mdl
+models/weapons/cw_cultist/arx/upgrades/a_standard3_mk18.mdl	<-	3171580533\models\weapons\cw_cultist\arx\upgrades\a_standard3_mk18.mdl
+models/weapons/cw_cultist/arx/upgrades/a_standard_mk18.mdl	<-	3171580533\models\weapons\cw_cultist\acr\upgrades\a_standard_mk18.mdl
+models/weapons/cw_cultist/arx/v_arx.mdl	<-	3171580533\models\weapons\cw_cultist\arx\v_arx.mdl
+models/weapons/cw_cultist/arx/w_arx.mdl	<-	3171580533\models\weapons\cw_cultist\arx\w_arx.mdl
+models/weapons/cw_cultist/asval/v_asval.mdl	<-	3171580533\models\weapons\cw_cultist\asval\v_asval.mdl
+models/weapons/cw_cultist/asval/w_asval.mdl	<-	3171580533\models\weapons\cw_cultist\asval\w_asval.mdl
+models/weapons/cw_cultist/barrett/v_barrett.mdl	<-	3171580533\models\weapons\cw_cultist\barrett\v_barrett.mdl
+models/weapons/cw_cultist/barrett/w_barrett.mdl	<-	3171580533\models\weapons\cw_cultist\barrett\w_barrett.mdl
+models/weapons/cw_cultist/blackout/upgrades/a_carryhandle_m4.mdl	<-	3171580533\models\weapons\cw_cultist\blackout\upgrades\a_carryhandle_m4.mdl
+models/weapons/cw_cultist/blackout/upgrades/w_flipup3.mdl	<-	3171580533\models\weapons\cw_cultist\blackout\upgrades\w_flipup3.mdl
+models/weapons/cw_cultist/blackout/v_blackout.mdl	<-	3171580533\models\weapons\cw_cultist\blackout\v_blackout.mdl
+models/weapons/cw_cultist/blackout/w_blackout.mdl	<-	3171580533\models\weapons\cw_cultist\blackout\w_blackout.mdl
+models/weapons/cw_cultist/d4/upgrades/a_standard2_mk18.mdl	<-	3171580533\models\weapons\cw_cultist\arx\upgrades\a_standard2_mk18.mdl
+models/weapons/cw_cultist/d4/upgrades/a_standard_mk18.mdl	<-	3171580533\models\weapons\cw_cultist\acr\upgrades\a_standard_mk18.mdl
+models/weapons/cw_cultist/d4/upgrades/w_flipup2.mdl	<-	3171580533\models\weapons\cw_cultist\acr\upgrades\w_flipup2.mdl
+models/weapons/cw_cultist/d4/v_d4.mdl	<-	3171580533\models\weapons\cw_cultist\d4\v_d4.mdl
+models/weapons/cw_cultist/d4/w_d4.mdl	<-	3171580533\models\weapons\cw_cultist\d4\w_d4.mdl
+models/weapons/cw_cultist/deagle/upgrades/a_magazine_m45_15.mdl	<-	3171580533\models\weapons\cw_cultist\deagle\upgrades\a_magazine_m45_15.mdl
+models/weapons/cw_cultist/deagle/upgrades/a_magazine_m45_8.mdl	<-	3171580533\models\weapons\cw_cultist\deagle\upgrades\a_magazine_m45_8.mdl
+models/weapons/cw_cultist/deagle/v_deagle.mdl	<-	3171580533\models\weapons\cw_cultist\deagle\v_deagle.mdl
+models/weapons/cw_cultist/deagle/w_deagle.mdl	<-	3171580533\models\weapons\cw_cultist\deagle\w_deagle.mdl
+models/weapons/cw_cultist/dmr25/v_dmr25.mdl	<-	3171580533\models\weapons\cw_cultist\dmr25\v_dmr25.mdl
+models/weapons/cw_cultist/dmr25/w_dmr25.mdl	<-	3171580533\models\weapons\cw_cultist\dmr25\w_dmr25.mdl
+models/weapons/cw_cultist/dragunov/upgrades/a_magazine_m1a1_15.mdl	<-	3171580533\models\weapons\cw_cultist\dragunov\upgrades\a_magazine_m1a1_15.mdl
+models/weapons/cw_cultist/dragunov/upgrades/a_magazine_m1a1_30.mdl	<-	3171580533\models\weapons\cw_cultist\dragunov\upgrades\a_magazine_m1a1_30.mdl
+models/weapons/cw_cultist/dragunov/upgrades/a_modkit_m1a1.mdl	<-	3171580533\models\weapons\cw_cultist\dragunov\upgrades\a_modkit_m1a1.mdl
+models/weapons/cw_cultist/dragunov/upgrades/w_magazine_m1a1_15.mdl	<-	3171580533\models\weapons\cw_cultist\dragunov\upgrades\w_magazine_m1a1_15.mdl
+models/weapons/cw_cultist/dragunov/upgrades/w_magazine_m1a1_30.mdl	<-	3171580533\models\weapons\cw_cultist\dragunov\upgrades\w_magazine_m1a1_30.mdl
+models/weapons/cw_cultist/dragunov/upgrades/w_modkit_m1a1.mdl	<-	3171580533\models\weapons\cw_cultist\dragunov\upgrades\w_modkit_m1a1.mdl
+models/weapons/cw_cultist/dragunov/v_dragunov.mdl	<-	3171580533\models\weapons\cw_cultist\dragunov\v_dragunov.mdl
+models/weapons/cw_cultist/dragunov/w_dragunov.mdl	<-	3171580533\models\weapons\cw_cultist\dragunov\w_dragunov.mdl
+models/weapons/cw_cultist/dvl10/v_dvl10.mdl	<-	3171580533\models\weapons\cw_cultist\dvl10\v_dvl10.mdl
+models/weapons/cw_cultist/dvl10/w_dvl10.mdl	<-	3171580533\models\weapons\cw_cultist\dvl10\w_dvl10.mdl
+models/weapons/cw_cultist/fate/upgrades/a_bipod_fal.mdl	<-	3171580533\models\weapons\cw_cultist\fate\upgrades\a_bipod_fal.mdl
+models/weapons/cw_cultist/fate/upgrades/a_modkit_fal.mdl	<-	3171580533\models\weapons\cw_cultist\fate\upgrades\a_modkit_fal.mdl
+models/weapons/cw_cultist/fate/upgrades/a_standard_fal.mdl	<-	3171580533\models\weapons\cw_cultist\fate\upgrades\a_standard_fal.mdl
+models/weapons/cw_cultist/fate/v_fate.mdl	<-	3171580533\models\weapons\cw_cultist\fate\v_fate.mdl
+models/weapons/cw_cultist/fate/w_fate.mdl	<-	3171580533\models\weapons\cw_cultist\fate\w_fate.mdl
+models/weapons/cw_cultist/freedom/upgrades/a_standard2_mk18.mdl	<-	3171580533\models\weapons\cw_cultist\arx\upgrades\a_standard2_mk18.mdl
+models/weapons/cw_cultist/freedom/upgrades/a_standard3_mk18.mdl	<-	3171580533\models\weapons\cw_cultist\arx\upgrades\a_standard3_mk18.mdl
+models/weapons/cw_cultist/freedom/upgrades/a_standard_mk18.mdl	<-	3171580533\models\weapons\cw_cultist\acr\upgrades\a_standard_mk18.mdl
+models/weapons/cw_cultist/freedom/v_freedom.mdl	<-	3171580533\models\weapons\cw_cultist\freedom\v_freedom.mdl
+models/weapons/cw_cultist/freedom/w_freedom.mdl	<-	3171580533\models\weapons\cw_cultist\freedom\w_freedom.mdl
+models/weapons/cw_cultist/golmagnum/upgrades/a_standard_m40.mdl	<-	3171580533\models\weapons\cw_cultist\golmagnum\upgrades\a_standard_m40.mdl
+models/weapons/cw_cultist/golmagnum/v_golmagnum.mdl	<-	3171580533\models\weapons\cw_cultist\golmagnum\v_golmagnum.mdl
+models/weapons/cw_cultist/golmagnum/w_golmagnum.mdl	<-	3171580533\models\weapons\cw_cultist\golmagnum\w_golmagnum.mdl
+models/weapons/cw_cultist/groza/upgrades/a_standard_aks74u.mdl	<-	3171580533\models\weapons\cw_cultist\groza\upgrades\a_standard_aks74u.mdl
+models/weapons/cw_cultist/groza/upgrades/a_suppressor_aks.mdl	<-	3171580533\models\weapons\cw_cultist\groza\upgrades\a_suppressor_aks.mdl
+models/weapons/cw_cultist/groza/upgrades/a_woodgrips_aks74u.mdl	<-	3171580533\models\weapons\cw_cultist\aks74_modern\upgrades\a_woodgrips_aks74u.mdl
+models/weapons/cw_cultist/groza/upgrades/upgrades/a_modkit_07.mdl	<-	3171580533\models\weapons\cw_cultist\groza\upgrades\a_modkit_07.mdl
+models/weapons/cw_cultist/groza/upgrades/w_foregrip_aks74u.mdl	<-	3171580533\models\weapons\cw_cultist\aks74_modern\upgrades\w_foregrip_aks74u.mdl
+models/weapons/cw_cultist/groza/upgrades/w_modkit_7.mdl	<-	3171580533\models\weapons\cw_cultist\groza\upgrades\w_modkit_7.mdl
+models/weapons/cw_cultist/groza/upgrades/w_standard_aks74u.mdl	<-	3171580533\models\weapons\cw_cultist\groza\upgrades\w_standard_aks74u.mdl
+models/weapons/cw_cultist/groza/v_groza.mdl	<-	3171580533\models\weapons\cw_cultist\groza\v_groza.mdl
+models/weapons/cw_cultist/groza/w_groza.mdl	<-	3171580533\models\weapons\cw_cultist\groza\w_groza.mdl
+models/weapons/cw_cultist/hk416c/upgrades/a_standard_mk18.mdl	<-	3171580533\models\weapons\cw_cultist\acr\upgrades\a_standard_mk18.mdl
+models/weapons/cw_cultist/hk416c/upgrades/w_flipup2.mdl	<-	3171580533\models\weapons\cw_cultist\acr\upgrades\w_flipup2.mdl
+models/weapons/cw_cultist/hk416c/v_hk416c.mdl	<-	3171580533\models\weapons\cw_cultist\hk416c\v_hk416c.mdl
+models/weapons/cw_cultist/hk416c/w_hk416c.mdl	<-	3171580533\models\weapons\cw_cultist\hk416c\w_hk416c.mdl
+models/weapons/cw_cultist/imbel/upgrades/a_standard2_mk18.mdl	<-	3171580533\models\weapons\cw_cultist\arx\upgrades\a_standard2_mk18.mdl
+models/weapons/cw_cultist/imbel/upgrades/a_standard3_mk18.mdl	<-	3171580533\models\weapons\cw_cultist\arx\upgrades\a_standard3_mk18.mdl
+models/weapons/cw_cultist/imbel/upgrades/a_standard_mk18.mdl	<-	3171580533\models\weapons\cw_cultist\acr\upgrades\a_standard_mk18.mdl
+models/weapons/cw_cultist/imbel/upgrades/w_flipup2.mdl	<-	3171580533\models\weapons\cw_cultist\acr\upgrades\w_flipup2.mdl
+models/weapons/cw_cultist/imbel/v_imbel.mdl	<-	3171580533\models\weapons\cw_cultist\imbel\v_imbel.mdl
+models/weapons/cw_cultist/imbel/w_imbel.mdl	<-	3171580533\models\weapons\cw_cultist\imbel\w_imbel.mdl
+models/weapons/cw_cultist/ithaca37/v_ithaca37.mdl	<-	3171580533\models\weapons\cw_cultist\ithaca37\v_ithaca37.mdl
+models/weapons/cw_cultist/ithaca37/w_ithaca37.mdl	<-	3171580533\models\weapons\cw_cultist\ithaca37\w_ithaca37.mdl
+models/weapons/cw_cultist/jrd90/upgrades/a_standard_m40.mdl	<-	3171580533\models\weapons\cw_cultist\golmagnum\upgrades\a_standard_m40.mdl
+models/weapons/cw_cultist/jrd90/v_jrd90.mdl	<-	3171580533\models\weapons\cw_cultist\jrd90\v_jrd90.mdl
+models/weapons/cw_cultist/jrd90/w_jrd90.mdl	<-	3171580533\models\weapons\cw_cultist\jrd90\w_jrd90.mdl
+models/weapons/cw_cultist/karma/v_karma.mdl	<-	3171580533\models\weapons\cw_cultist\karma\v_karma.mdl
+models/weapons/cw_cultist/karma/w_karma.mdl	<-	3171580533\models\weapons\cw_cultist\karma\w_karma.mdl
+models/weapons/cw_cultist/keltec/upgrades/a_magazine_keltec_20.mdl	<-	3171580533\models\weapons\cw_cultist\keltec\upgrades\a_magazine_keltec_20.mdl
+models/weapons/cw_cultist/keltec/v_keltec.mdl	<-	3171580533\models\weapons\cw_cultist\keltec\v_keltec.mdl
+models/weapons/cw_cultist/keltec/w_keltec.mdl	<-	3171580533\models\weapons\cw_cultist\keltec\w_keltec.mdl
+models/weapons/cw_cultist/m200/upgrades/a_bipod_m40.mdl	<-	3171580533\models\weapons\cw_cultist\m200\upgrades\a_bipod_m40.mdl
+models/weapons/cw_cultist/m200/upgrades/a_optic_m40.mdl	<-	3171580533\models\weapons\cw_cultist\m200\upgrades\a_optic_m40.mdl
+models/weapons/cw_cultist/m200/upgrades/a_standard_m40.mdl	<-	3171580533\models\weapons\cw_cultist\golmagnum\upgrades\a_standard_m40.mdl
+models/weapons/cw_cultist/m200/upgrades/w_scope_m40.mdl	<-	3171580533\models\weapons\cw_cultist\m200\upgrades\w_scope_m40.mdl
+models/weapons/cw_cultist/m200/v_m200.mdl	<-	3171580533\models\weapons\cw_cultist\m200\v_m200.mdl
+models/weapons/cw_cultist/m200/w_m200.mdl	<-	3171580533\models\weapons\cw_cultist\m200\w_m200.mdl
+models/weapons/cw_cultist/m23/v_m23.mdl	<-	3171580533\models\weapons\cw_cultist\m23\v_m23.mdl
+models/weapons/cw_cultist/m23/w_m23.mdl	<-	3171580533\models\weapons\cw_cultist\m23\w_m23.mdl
+models/weapons/cw_cultist/m4a1_tech/upgrades/a_carryhandle_m4.mdl	<-	3171580533\models\weapons\cw_cultist\blackout\upgrades\a_carryhandle_m4.mdl
+models/weapons/cw_cultist/m4a1_tech/v_m4a1_tech.mdl	<-	3171580533\models\weapons\cw_cultist\m4a1_tech\v_m4a1_tech.mdl
+models/weapons/cw_cultist/m60/v_m60.mdl	<-	3171580533\models\weapons\cw_cultist\m60\v_m60.mdl
+models/weapons/cw_cultist/m60/w_m60.mdl	<-	3171580533\models\weapons\cw_cultist\m60\w_m60.mdl
+models/weapons/cw_cultist/m72/v_m72.mdl	<-	3171580533\models\weapons\cw_cultist\m72\v_m72.mdl
+models/weapons/cw_cultist/m72/w_m72.mdl	<-	3171580533\models\weapons\cw_cultist\m72\w_m72.mdl
+models/weapons/cw_cultist/mg36/v_mg36.mdl	<-	3171580533\models\weapons\cw_cultist\mg36\v_mg36.mdl
+models/weapons/cw_cultist/mg36/w_mg36.mdl	<-	3171580533\models\weapons\cw_cultist\mg36\w_mg36.mdl
+models/weapons/cw_cultist/minimi/v_minimi.mdl	<-	3171580533\models\weapons\cw_cultist\minimi\v_minimi.mdl
+models/weapons/cw_cultist/minimi/w_minimi.mdl	<-	3171580533\models\weapons\cw_cultist\minimi\w_minimi.mdl
+models/weapons/cw_cultist/mk14/v_mk14.mdl	<-	3171580533\models\weapons\cw_cultist\mk14\v_mk14.mdl
+models/weapons/cw_cultist/mk14/w_mk14.mdl	<-	3171580533\models\weapons\cw_cultist\mk14\w_mk14.mdl
+models/weapons/cw_cultist/msr/upgrades/a_bipod_m40.mdl	<-	3171580533\models\weapons\cw_cultist\m200\upgrades\a_bipod_m40.mdl
+models/weapons/cw_cultist/msr/upgrades/a_optic_m40.mdl	<-	3171580533\models\weapons\cw_cultist\m200\upgrades\a_optic_m40.mdl
+models/weapons/cw_cultist/msr/upgrades/w_bipod_m40.mdl	<-	3171580533\models\weapons\cw_cultist\m200\upgrades\w_bipod_m40.mdl
+models/weapons/cw_cultist/msr/upgrades/w_scope_m40.mdl	<-	3171580533\models\weapons\cw_cultist\m200\upgrades\w_scope_m40.mdl
+models/weapons/cw_cultist/msr/v_msr.mdl	<-	3171580533\models\weapons\cw_cultist\msr\v_msr.mdl
+models/weapons/cw_cultist/msr/w_msr.mdl	<-	3171580533\models\weapons\cw_cultist\msr\w_msr.mdl
+models/weapons/cw_cultist/nv4/upgrades/a_carryhandle_m4.mdl	<-	3171580533\models\weapons\cw_cultist\blackout\upgrades\a_carryhandle_m4.mdl
+models/weapons/cw_cultist/nv4/upgrades/w_flipup3.mdl	<-	3171580533\models\weapons\cw_cultist\blackout\upgrades\w_flipup3.mdl
+models/weapons/cw_cultist/nv4/v_nv4.mdl	<-	3171580533\models\weapons\cw_cultist\nv4\v_nv4.mdl
+models/weapons/cw_cultist/nv4/w_nv4.mdl	<-	3171580533\models\weapons\cw_cultist\nv4\w_nv4.mdl
+models/weapons/cw_cultist/pecheneg/v_pecheneg.mdl	<-	3171580533\models\weapons\cw_cultist\pecheneg\v_pecheneg.mdl
+models/weapons/cw_cultist/pecheneg/w_pecheneg.mdl	<-	3171580533\models\weapons\cw_cultist\pecheneg\w_pecheneg.mdl
+models/weapons/cw_cultist/qbz/upgrades/a_standard2_mk18.mdl	<-	3171580533\models\weapons\cw_cultist\arx\upgrades\a_standard2_mk18.mdl
+models/weapons/cw_cultist/qbz/upgrades/a_standard3_mk18.mdl	<-	3171580533\models\weapons\cw_cultist\arx\upgrades\a_standard3_mk18.mdl
+models/weapons/cw_cultist/qbz/v_qbz.mdl	<-	3171580533\models\weapons\cw_cultist\qbz\v_qbz.mdl
+models/weapons/cw_cultist/qbz/w_qbz.mdl	<-	3171580533\models\weapons\cw_cultist\qbz\w_qbz.mdl
+models/weapons/cw_cultist/r3k/v_r3k.mdl	<-	3171580533\models\weapons\cw_cultist\r3k\v_r3k.mdl
+models/weapons/cw_cultist/r3k/w_r3k.mdl	<-	3171580533\models\weapons\cw_cultist\r3k\w_r3k.mdl
+models/weapons/cw_cultist/rpk74/v_rpk74.mdl	<-	3171580533\models\weapons\cw_cultist\rpk74\v_rpk74.mdl
+models/weapons/cw_cultist/sq300/upgrades/a_standard2_mk18.mdl	<-	3171580533\models\weapons\cw_cultist\arx\upgrades\a_standard2_mk18.mdl
+models/weapons/cw_cultist/sq300/upgrades/a_standard3_mk18.mdl	<-	3171580533\models\weapons\cw_cultist\arx\upgrades\a_standard3_mk18.mdl
+models/weapons/cw_cultist/sq300/upgrades/a_standard_mk18.mdl	<-	3171580533\models\weapons\cw_cultist\acr\upgrades\a_standard_mk18.mdl
+models/weapons/cw_cultist/sq300/upgrades/a_suppressor_sec2.mdl	<-	3171580533\models\weapons\cw_cultist\sq300\upgrades\a_suppressor_sec2.mdl
+models/weapons/cw_cultist/sq300/v_sq300.mdl	<-	3171580533\models\weapons\cw_cultist\sq300\v_sq300.mdl
+models/weapons/cw_cultist/sq300/w_sq300.mdl	<-	3171580533\models\weapons\cw_cultist\sq300\w_sq300.mdl
+models/weapons/cw_cultist/sr25/upgrades/a_foregrip_sec2.mdl	<-	3171580533\models\weapons\cw_cultist\sr25\upgrades\a_foregrip_sec2.mdl
+models/weapons/cw_cultist/sr25/v_sr25.mdl	<-	3171580533\models\weapons\cw_cultist\sr25\v_sr25.mdl
+models/weapons/cw_cultist/sr25/w_sr25.mdl	<-	3171580533\models\weapons\cw_cultist\sr25\w_sr25.mdl
+models/weapons/cw_cultist/svd/v_svd.mdl	<-	3171580533\models\weapons\cw_cultist\svd\v_svd.mdl
+models/weapons/cw_cultist/svd/w_svd.mdl	<-	3171580533\models\weapons\cw_cultist\svd\w_svd.mdl
+models/weapons/cw_cultist/uar556/upgrades/a_carryhandle_m4.mdl	<-	3171580533\models\weapons\cw_cultist\blackout\upgrades\a_carryhandle_m4.mdl
+models/weapons/cw_cultist/uar556/upgrades/a_standard2_m4a1.mdl	<-	3171580533\models\weapons\upgrades\a_standard2_m4a1.mdl
+models/weapons/cw_cultist/uar556/upgrades/a_standard_m4a1.mdl	<-	3171580533\models\weapons\cw_cultist\d4\upgrades\a_standard_m4a1.mdl
+models/weapons/cw_cultist/uar556/upgrades/w_flipup3.mdl	<-	3171580533\models\weapons\cw_cultist\blackout\upgrades\w_flipup3.mdl
+models/weapons/cw_cultist/uar556/v_uar556.mdl	<-	3171580533\models\weapons\cw_cultist\uar556\v_uar556.mdl
+models/weapons/cw_cultist/uar556/w_uar556.mdl	<-	3171580533\models\weapons\cw_cultist\uar556\w_uar556.mdl
+models/weapons/cw_cultist/upgrades/a_standard_mk18.mdl	<-	3171580533\models\weapons\cw_cultist\acr\upgrades\a_standard_mk18.mdl
+models/weapons/cw_cultist/upgrades/w_flipup2.mdl	<-	3171580533\models\weapons\cw_cultist\acr\upgrades\w_flipup2.mdl
+models/weapons/cw_cultist/usr/upgrades/a_standard_m40.mdl	<-	3171580533\models\weapons\cw_cultist\golmagnum\upgrades\a_standard_m40.mdl
+models/weapons/cw_cultist/usr/v_usr.mdl	<-	3171580533\models\weapons\cw_cultist\usr\v_usr.mdl
+models/weapons/cw_cultist/usr/w_usr.mdl	<-	3171580533\models\weapons\cw_cultist\usr\w_usr.mdl
+models/weapons/cw_cultist/volk/upgrades/a_woodgrips_akm.mdl	<-	3171580533\models\weapons\cw_cultist\volk\upgrades\a_woodgrips_akm.mdl
+models/weapons/cw_cultist/volk/v_volk.mdl	<-	3171580533\models\weapons\cw_cultist\volk\v_volk.mdl
+models/weapons/cw_cultist/volk/w_volk.mdl	<-	3171580533\models\weapons\cw_cultist\volk\w_volk.mdl
+models/weapons/cw_cultist/vss/v_vss.mdl	<-	3171580533\models\weapons\cw_cultist\vss\v_vss.mdl
+models/weapons/cw_cultist/vss/w_vss.mdl	<-	3171580533\models\weapons\cw_cultist\vss\w_vss.mdl
+models/weapons/cw_kk_doi/v_anm14.mdl	<-	3171580533\models\weapons\v_anm14.mdl
+models/weapons/cw_kk_doi/v_bar.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_bar.mdl
+models/weapons/cw_kk_doi/v_bazooka.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_bazooka.mdl
+models/weapons/cw_kk_doi/v_binoculars_american.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_binoculars_american.mdl
+models/weapons/cw_kk_doi/v_binoculars_british.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_binoculars_british.mdl
+models/weapons/cw_kk_doi/v_binoculars_german.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_binoculars_german.mdl
+models/weapons/cw_kk_doi/v_bren.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_bren.mdl
+models/weapons/cw_kk_doi/v_browninghp.mdl	<-	3171580533\models\weapons\browninghp\v_browninghp.mdl
+models/weapons/cw_kk_doi/v_c96.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_c96.mdl
+models/weapons/cw_kk_doi/v_c96_carbine.mdl	<-	3171580533\models\weapons\cw_kk_doi_c054\v_c96_carbine.mdl
+models/weapons/cw_kk_doi/v_compb_allied.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_compb_allied.mdl
+models/weapons/cw_kk_doi/v_compb_axis.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_compb_axis.mdl
+models/weapons/cw_kk_doi/v_enfield_bayonet.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_enfield_bayonet.mdl
+models/weapons/cw_kk_doi/v_enfield_oldgl.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_enfield_oldgl.mdl
+models/weapons/cw_kk_doi/v_fg42.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_fg42.mdl
+models/weapons/cw_kk_doi/v_flame_eintoss46.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_flame_eintoss46.mdl
+models/weapons/cw_kk_doi/v_flame_lifebuoy.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_flame_lifebuoy.mdl
+models/weapons/cw_kk_doi/v_flame_mk2.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_flame_mk2.mdl
+models/weapons/cw_kk_doi/v_flame_werfer41.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_flame_werfer41.mdl
+models/weapons/cw_kk_doi/v_g43.mdl	<-	3171580533\models\weapons\cw_kk_doi\v_g43.mdl
+models/weapons/cw_kk_doi/v_garand.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_garand.mdl
+models/weapons/cw_kk_doi/v_garand_bayonet.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_garand_bayonet.mdl
+models/weapons/cw_kk_doi/v_ithaca.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_ithaca.mdl
+models/weapons/cw_kk_doi/v_k98kbayonet.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_k98kbayonet.mdl
+models/weapons/cw_kk_doi/v_kar98k_oldgl.mdl	<-	3171580533\models\weapons\cw_kk_doi\v_kar98k_oldgl.mdl
+models/weapons/cw_kk_doi/v_lugerp08.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_lugerp08.mdl
+models/weapons/cw_kk_doi/v_m18.mdl	<-	3171580533\models\weapons\v_m18.mdl
+models/weapons/cw_kk_doi/v_m1911.mdl	<-	3171580533\models\weapons\v_m1911.mdl
+models/weapons/cw_kk_doi/v_m1919.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_m1919.mdl
+models/weapons/cw_kk_doi/v_m1a1.mdl	<-	3171580533\models\weapons\v_m1a1.mdl
+models/weapons/cw_kk_doi/v_m1a1para.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_m1a1para.mdl
+models/weapons/cw_kk_doi/v_m3greasegun.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_m3greasegun.mdl
+models/weapons/cw_kk_doi/v_marinebayonet.mdl	<-	3171580533\models\weapons\v_marinebayonet.mdl
+models/weapons/cw_kk_doi/v_mg34.mdl	<-	3352951512\models\weapons\v_mg34.mdl
+models/weapons/cw_kk_doi/v_mg42.mdl	<-	3352951512\models\weapons\v_mg42.mdl
+models/weapons/cw_kk_doi/v_mills.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_mills.mdl
+models/weapons/cw_kk_doi/v_mk2.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_mk2.mdl
+models/weapons/cw_kk_doi/v_mp40.mdl	<-	3171580533\models\weapons\v_mp40.mdl
+models/weapons/cw_kk_doi/v_nebelhandgranate.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_nebelhandgranate.mdl
+models/weapons/cw_kk_doi/v_no69.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_no69.mdl
+models/weapons/cw_kk_doi/v_no77.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_no77.mdl
+models/weapons/cw_kk_doi/v_no79.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_no79.mdl
+models/weapons/cw_kk_doi/v_owen.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_owen.mdl
+models/weapons/cw_kk_doi/v_p38.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_p38.mdl
+models/weapons/cw_kk_doi/v_panzerfaust.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_panzerfaust.mdl
+models/weapons/cw_kk_doi/v_panzerschreck.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_panzerschreck.mdl
+models/weapons/cw_kk_doi/v_piat.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_piat.mdl
+models/weapons/cw_kk_doi/v_ppk.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_ppk.mdl
+models/weapons/cw_kk_doi/v_springfield.mdl	<-	3171580533\models\weapons\cw_kk_doi\v_springfield.mdl
+models/weapons/cw_kk_doi/v_sten_mk2.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_sten_mk2.mdl
+models/weapons/cw_kk_doi/v_sten_mk5.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_sten_mk5.mdl
+models/weapons/cw_kk_doi/v_stg44.mdl	<-	3352951512\models\weapons\v_stg44.mdl
+models/weapons/cw_kk_doi/v_stielhandgranate.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_stielhandgranate.mdl
+models/weapons/cw_kk_doi/v_sw1917.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_sw1917.mdl
+models/weapons/cw_kk_doi/v_thompson.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_thompson.mdl
+models/weapons/cw_kk_doi/v_thompson_m1a1.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_thompson_m1a1.mdl
+models/weapons/cw_kk_doi/v_vickers.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_vickers.mdl
+models/weapons/cw_kk_doi/v_webley.mdl	<-	3352951512\models\weapons\british\v_webley.mdl
+models/weapons/cw_kk_doi/v_welrod.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_welrod.mdl
+models/weapons/cw_kk_doi_c054/v_brassknuckles.mdl	<-	3171580533\models\weapons\cw_kk_doi_c054\v_brassknuckles.mdl
+models/weapons/cw_kk_doi_c054/v_c96_carbine.mdl	<-	3171580533\models\weapons\cw_kk_doi_c054\v_c96_carbine.mdl
+models/weapons/cw_kk_doi_c054/v_fairbairn.mdl	<-	3171580533\models\weapons\cw_kk_doi_c054\v_fairbairn.mdl
+models/weapons/cw_kk_doi_c054/v_gravityknife.mdl	<-	3171580533\models\weapons\cw_kk_doi_c054\v_gravityknife.mdl
+models/weapons/cw_kk_doi_c054/v_hatchet.mdl	<-	3171580533\models\weapons\cw_kk_doi_c054\v_hatchet.mdl
+models/weapons/cw_kk_doi_c054/v_owen_mk2.mdl	<-	3171580533\models\weapons\cw_kk_doi_c054\v_owen_mk2.mdl
+models/weapons/cw_kk_doi_c054/v_stiletto.mdl	<-	3171580533\models\weapons\cw_kk_doi_c054\v_stiletto.mdl
+models/weapons/gaus/c_gauss.mdl	<-	3074044716\models\weapons\gaus\c_gauss.mdl
+models/weapons/gaus/w_gauss_fixed_2.mdl	<-	3074044716\models\weapons\gaus\w_gauss_fixed_2.mdl
+models/weapons/glock/a_magazine_glock_extended.mdl	<-	3171580533\models\weapons\glock\a_magazine_glock_extended.mdl
+models/weapons/glock/a_magazine_glock_standard.mdl	<-	3171580533\models\weapons\glock\a_magazine_glock_standard.mdl
+models/weapons/glock/v_glock17.mdl	<-	3171580533\models\weapons\glock\v_glock17.mdl
+models/weapons/glock/v_glock18.mdl	<-	3171580533\models\weapons\glock\v_glock18.mdl
+models/weapons/glock/w_glock17.mdl	<-	3171580533\models\weapons\glock\w_glock17.mdl
+models/weapons/glock/w_glock18.mdl	<-	3171580533\models\weapons\glock\w_glock18.mdl
+models/weapons/glock/w_glockextmag.mdl	<-	3171580533\models\weapons\glock\w_glockextmag.mdl
+models/weapons/glock/w_glockmag.mdl	<-	3171580533\models\weapons\glock\w_glockmag.mdl
+models/weapons/horizon/v_csgo_stiletto.mdl	<-	3074044716\models\weapons\horizon\v_csgo_stiletto.mdl
+models/weapons/horizon/w_csgo_stiletto.mdl	<-	3074044716\models\weapons\horizon\w_csgo_stiletto.mdl
+models/weapons/kk_doi/v_brassknuckles.mdl	<-	3171580533\models\weapons\cw_kk_doi_c054\v_brassknuckles.mdl
+models/weapons/kk_doi/v_etool_brit.mdl	<-	3352951512\models\weapons\kk_doi\v_etool_brit.mdl
+models/weapons/kk_doi/v_etool_ger.mdl	<-	3352951512\models\weapons\kk_doi\v_etool_ger.mdl
+models/weapons/kk_doi/v_etool_us.mdl	<-	3352951512\models\weapons\kk_doi\v_etool_us.mdl
+models/weapons/kk_doi/v_lewis.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_lewis.mdl
+models/weapons/kk_doi/w_marinebayonet.mdl	<-	3171580533\models\weapons\w_marinebayonet.mdl
+models/weapons/l85/a_grippod.mdl	<-	3171580533\models\weapons\l85\a_grippod.mdl
+models/weapons/l85/a_l85barrel.mdl	<-	3171580533\models\weapons\l85\a_l85barrel.mdl
+models/weapons/l85/a_l85forend.mdl	<-	3171580533\models\weapons\l85\a_l85forend.mdl
+models/weapons/l85/a_l85longbarrel.mdl	<-	3171580533\models\weapons\l85\a_l85longbarrel.mdl
+models/weapons/l85/a_l85modkit.mdl	<-	3171580533\models\weapons\l85\a_l85modkit.mdl
+models/weapons/l85/a_l85sight.mdl	<-	3171580533\models\weapons\l85\a_l85sight.mdl
+models/weapons/l85/a_optic_susat.mdl	<-	3171580533\models\weapons\l85\a_optic_susat.mdl
+models/weapons/l85/a_ugl.mdl	<-	3171580533\models\weapons\l85\a_ugl.mdl
+models/weapons/l85/v_l85.mdl	<-	3171580533\models\weapons\l85\v_l85.mdl
+models/weapons/l85/w_l85.mdl	<-	3171580533\models\weapons\l85\w_l85.mdl
+models/weapons/l85/w_l85barrel.mdl	<-	3171580533\models\weapons\l85\w_l85barrel.mdl
+models/weapons/l85/w_l85forend.mdl	<-	3171580533\models\weapons\l85\w_l85forend.mdl
+models/weapons/l85/w_l85longbarrel.mdl	<-	3171580533\models\weapons\l85\w_l85longbarrel.mdl
+models/weapons/l85/w_l85mag.mdl	<-	3171580533\models\weapons\l85\w_l85mag.mdl
+models/weapons/l85/w_l85sight.mdl	<-	3171580533\models\weapons\l85\w_l85sight.mdl
+models/weapons/m1014/a_magazine_m1014_extended.mdl	<-	3171580533\models\weapons\m1014\a_magazine_m1014_extended.mdl
+models/weapons/m1014/a_magazine_m1014_standard.mdl	<-	3171580533\models\weapons\m1014\a_magazine_m1014_standard.mdl
+models/weapons/m1014/a_shell_m1014_standard.mdl	<-	3171580533\models\weapons\m1014\a_shell_m1014_standard.mdl
+models/weapons/m1014/v_m1014.mdl	<-	3171580533\models\weapons\m1014\v_m1014.mdl
+models/weapons/m1014/w_m1014.mdl	<-	3171580533\models\weapons\m1014\w_m1014.mdl
+models/weapons/misc/v_cw_kk_ins2_parallax.mdl	<-	3171580533\models\weapons\misc\v_cw_kk_ins2_parallax.mdl
+models/weapons/rifleshell.mdl	<-	2840031720\models\tfa\rifleshell.mdl
+models/weapons/scar/a_bipod_scar.mdl	<-	3171580533\models\weapons\scar\a_bipod_scar.mdl
+models/weapons/scar/a_flashlight_scar.mdl	<-	3171580533\models\weapons\scar\a_flashlight_scar.mdl
+models/weapons/scar/a_scar_extendedmag.mdl	<-	3171580533\models\weapons\scar\a_scar_extendedmag.mdl
+models/weapons/scar/a_scar_folded.mdl	<-	3171580533\models\weapons\scar\a_scar_folded.mdl
+models/weapons/scar/a_scar_heavybarrel.mdl	<-	3171580533\models\weapons\scar\a_scar_heavybarrel.mdl
+models/weapons/scar/a_scar_standard.mdl	<-	3171580533\models\weapons\scar\a_scar_standard.mdl
+models/weapons/scar/a_scar_standardbarrel.mdl	<-	3171580533\models\weapons\scar\a_scar_standardbarrel.mdl
+models/weapons/scar/a_scar_standardmag.mdl	<-	3171580533\models\weapons\scar\a_scar_standardmag.mdl
+models/weapons/scar/v_scar.mdl	<-	3171580533\models\weapons\scar\v_scar.mdl
+models/weapons/scar/w_scar.mdl	<-	3171580533\models\weapons\scar\w_scar.mdl
+models/weapons/sg552/a_sig_mag.mdl	<-	3171580533\models\weapons\ethereal\sg552\a_sig_mag.mdl
+models/weapons/sg552/v_sg552.mdl	<-	3171580533\models\weapons\ethereal\sg552\v_sg552.mdl
+models/weapons/sg552/w_sg552.mdl	<-	3171580533\models\weapons\ethereal\sg552\w_sg552.mdl
+models/weapons/shaky/breach_items/battery/v_battery.mdl	<-	3074044716\models\weapons\shaky\breach_items\battery\v_battery.mdl
+models/weapons/shaky/breach_items/tazer/v_tazer.mdl	<-	3074044716\models\weapons\shaky\breach_items\tazer\v_tazer.mdl
+models/weapons/shaky/scp_items/scp_268/v_scp_268.mdl	<-	3074044716\models\weapons\shaky\scp_items\scp_268\v_scp_268.mdl
+models/weapons/shells/12guage.mdl	<-	3171580533\models\weapons\shells\12guage.mdl
+models/weapons/shells/30-06_link.mdl	<-	3352951512\models\weapons\shells\30-06_link.mdl
+models/weapons/shells/40mm.mdl	<-	3171580533\models\weapons\shells\40mm.mdl
+models/weapons/shells/45apc.mdl	<-	3171580533\models\weapons\shells\45apc.mdl
+models/weapons/shells/545x39.mdl	<-	3171580533\models\weapons\shells\545x39.mdl
+models/weapons/shells/556x45.mdl	<-	3171580533\models\weapons\shells\556x45.mdl
+models/weapons/shells/556x45_link.mdl	<-	3171580533\models\weapons\shells\556x45_link.mdl
+models/weapons/shells/762x33.mdl	<-	3171580533\models\weapons\shells\762x33.mdl
+models/weapons/shells/762x39.mdl	<-	3171580533\models\weapons\shells\762x39.mdl
+models/weapons/shells/762x51.mdl	<-	3171580533\models\weapons\shells\762x51.mdl
+models/weapons/shells/762x54.mdl	<-	3171580533\models\weapons\shells\762x54.mdl
+models/weapons/shells/9x19.mdl	<-	3171580533\models\weapons\shells\9x19.mdl
+models/weapons/shells/garand_clip.mdl	<-	3352951512\models\weapons\shells\garand_clip.mdl
+models/weapons/shield/w_shield.mdl	<-	3171580533\models\weapons\shield\w_shield.mdl
+models/weapons/shuriken/shuriken.mdl	<-	3171580533\models\weapons\shuriken\shuriken.mdl
+models/weapons/suomi/a_suomi_drum.mdl	<-	3171580533\models\weapons\suomi\a_suomi_drum.mdl
+models/weapons/suomi/a_suomi_mag.mdl	<-	3171580533\models\weapons\suomi\a_suomi_mag.mdl
+models/weapons/suomi/v_suomi.mdl	<-	3171580533\models\weapons\suomi\v_suomi.mdl
+models/weapons/suomi/w_suomi.mdl	<-	3171580533\models\weapons\suomi\w_suomi.mdl
+models/weapons/suomi/w_suomi_drum.mdl	<-	3171580533\models\weapons\suomi\w_suomi_drum.mdl
+models/weapons/suomi/w_suomi_mag.mdl	<-	3171580533\models\weapons\suomi\w_suomi_mag.mdl
+models/weapons/svd/v_svd.mdl	<-	3171580533\models\weapons\cw_cultist\svd\v_svd.mdl
+models/weapons/tfa_l4d2/c_kf2_katana.mdl	<-	3074044716\models\weapons\tfa_l4d2\c_kf2_katana.mdl
+models/weapons/tfa_l4d2/w_kf2_katana.mdl	<-	3074044716\models\weapons\tfa_l4d2\w_kf2_katana.mdl
+models/weapons/upgraded/a_flashlight_rail.mdl	<-	3171580533\models\weapons\upgrades\a_flashlight_rail.mdl
+models/weapons/upgrades/a_barrel_c96_long.mdl	<-	3352951512\models\weapons\upgrades\a_barrel_c96_long.mdl
+models/weapons/upgrades/a_barrel_c96_short.mdl	<-	3352951512\models\weapons\upgrades\a_barrel_c96_short.mdl
+models/weapons/upgrades/a_bipod_ar.mdl	<-	3171580533\models\weapons\upgrades\a_bipod_ar.mdl
+models/weapons/upgrades/a_bipod_bar.mdl	<-	3352951512\models\weapons\upgrades\a_bipod_bar.mdl
+models/weapons/upgrades/a_bipod_fal.mdl	<-	3171580533\models\weapons\cw_cultist\fate\upgrades\a_bipod_fal.mdl
+models/weapons/upgrades/a_bipod_galil.mdl	<-	3171580533\models\weapons\customupgrades\a_bipod_galil.mdl
+models/weapons/upgrades/a_bipod_m14.mdl	<-	3171580533\models\weapons\upgrades\a_bipod_m14.mdl
+models/weapons/upgrades/a_bipod_m40.mdl	<-	3171580533\models\weapons\cw_cultist\m200\upgrades\a_bipod_m40.mdl
+models/weapons/upgrades/a_bipod_mosin.mdl	<-	3171580533\models\weapons\ethereal\upgrades\a_bipod_mosin.mdl
+models/weapons/upgrades/a_bipod_scar.mdl	<-	3171580533\models\weapons\scar\a_bipod_scar.mdl
+models/weapons/upgrades/a_bipod_sks.mdl	<-	3171580533\models\weapons\upgrades\a_bipod_sks.mdl
+models/weapons/upgrades/a_bolt_springfield.mdl	<-	3352951512\models\weapons\upgrades\a_bolt_springfield.mdl
+models/weapons/upgrades/a_bolt_springfield_ext.mdl	<-	3352951512\models\weapons\upgrades\a_bolt_springfield_ext.mdl
+models/weapons/upgrades/a_carryhandle_l85.mdl	<-	3171580533\models\weapons\upgrades\a_carryhandle_l85.mdl
+models/weapons/upgrades/a_carryhandle_m16.mdl	<-	3171580533\models\weapons\upgrades\a_carryhandle_m16.mdl
+models/weapons/upgrades/a_carryhandle_m4.mdl	<-	3171580533\models\weapons\cw_cultist\blackout\upgrades\a_carryhandle_m4.mdl
+models/weapons/upgrades/a_clips_sw1917.mdl	<-	3352951512\models\weapons\upgrades\a_clips_sw1917.mdl
+models/weapons/upgrades/a_clothwrap_enfield.mdl	<-	3352951512\models\weapons\upgrades\a_clothwrap_enfield.mdl
+models/weapons/upgrades/a_clothwrap_g43.mdl	<-	3352951512\models\weapons\upgrades\a_clothwrap_g43.mdl
+models/weapons/upgrades/a_clothwrap_garand.mdl	<-	3352951512\models\weapons\upgrades\a_clothwrap_garand.mdl
+models/weapons/upgrades/a_clothwrap_kar98k.mdl	<-	3352951512\models\weapons\upgrades\a_clothwrap_kar98k.mdl
+models/weapons/upgrades/a_clothwrap_springfield.mdl	<-	3352951512\models\weapons\upgrades\a_clothwrap_springfield.mdl
+models/weapons/upgrades/a_cobraloader_rev.mdl	<-	3171580533\models\weapons\upgrades\a_cobraloader_rev.mdl
+models/weapons/upgrades/a_compensator_browninghp.mdl	<-	3352951512\models\weapons\upgrades\a_compensator_browninghp.mdl
+models/weapons/upgrades/a_enfield_bayonet.mdl	<-	3352951512\models\weapons\upgrades\a_enfield_bayonet.mdl
+models/weapons/upgrades/a_enfield_bayonet_spike.mdl	<-	3352951512\models\weapons\upgrades\a_enfield_bayonet_spike.mdl
+models/weapons/upgrades/a_enfield_gl.mdl	<-	3352951512\models\weapons\upgrades\a_enfield_gl.mdl
+models/weapons/upgrades/a_enfield_stripper_clip.mdl	<-	3352951512\models\weapons\upgrades\a_enfield_stripper_clip.mdl
+models/weapons/upgrades/a_extendedmag_stanag.mdl	<-	3171580533\models\weapons\upgrades\a_extendedmag_stanag.mdl
+models/weapons/upgrades/a_fg42_bayonet.mdl	<-	3352951512\models\weapons\upgrades\a_fg42_bayonet.mdl
+models/weapons/upgrades/a_fg42_bayonet_default.mdl	<-	3352951512\models\weapons\upgrades\a_fg42_bayonet_default.mdl
+models/weapons/upgrades/a_flash_hider_m3.mdl	<-	3352951512\models\weapons\upgrades\a_flash_hider_m3.mdl
+models/weapons/upgrades/a_flashlight_band.mdl	<-	3171580533\models\weapons\upgrades\a_flashlight_band.mdl
+models/weapons/upgrades/a_flashlight_ins_shotgun.mdl	<-	3171580533\models\weapons\upgrades\a_flashlight_ins_shotgun.mdl
+models/weapons/upgrades/a_flashlight_m9.mdl	<-	3171580533\models\weapons\browninghp\upgrades\a_flashlight_m9.mdl
+models/weapons/upgrades/a_flashlight_mak.mdl	<-	3171580533\models\weapons\upgrades\a_flashlight_mak.mdl
+models/weapons/upgrades/a_flashlight_rail.mdl	<-	3171580533\models\weapons\upgrades\a_flashlight_rail.mdl
+models/weapons/upgrades/a_flashlight_scar.mdl	<-	3171580533\models\weapons\scar\a_flashlight_scar.mdl
+models/weapons/upgrades/a_flashlight_sec_shotgun.mdl	<-	3171580533\models\weapons\upgrades\a_flashlight_sec_shotgun.mdl
+models/weapons/upgrades/a_flashlight_sterling.mdl	<-	3171580533\models\weapons\ethereal\pernach_upgrades\a_flashlight_sterling.mdl
+models/weapons/upgrades/a_foregrip_ins.mdl	<-	3171580533\models\weapons\upgrades\a_foregrip_ins.mdl
+models/weapons/upgrades/a_foregrip_ins2.mdl	<-	3171580533\models\weapons\upgrades\a_foregrip_ins2.mdl
+models/weapons/upgrades/a_foregrip_scar.mdl	<-	3171580533\models\weapons\upgrades\a_foregrip_scar.mdl
+models/weapons/upgrades/a_foregrip_sec.mdl	<-	3171580533\models\weapons\upgrades\a_foregrip_sec.mdl
+models/weapons/upgrades/a_foregrip_sec2.mdl	<-	3171580533\models\weapons\cw_cultist\sr25\upgrades\a_foregrip_sec2.mdl
+models/weapons/upgrades/a_garand_bayonet.mdl	<-	3352951512\models\weapons\upgrades\a_garand_bayonet.mdl
+models/weapons/upgrades/a_garand_gl.mdl	<-	3352951512\models\weapons\upgrades\a_garand_gl.mdl
+models/weapons/upgrades/a_gl_gp25.mdl	<-	3171580533\models\weapons\upgrades\a_gl_gp25.mdl
+models/weapons/upgrades/a_gl_m203.mdl	<-	3171580533\models\weapons\upgrades\a_gl_m203.mdl
+models/weapons/upgrades/a_gl_m320.mdl	<-	3171580533\models\weapons\upgrades\a_gl_m320.mdl
+models/weapons/upgrades/a_iron_enfield.mdl	<-	3352951512\models\weapons\upgrades\a_iron_enfield.mdl
+models/weapons/upgrades/a_iron_fg42_default.mdl	<-	3352951512\models\weapons\upgrades\a_iron_fg42_default.mdl
+models/weapons/upgrades/a_iron_fg42_down.mdl	<-	3352951512\models\weapons\upgrades\a_iron_fg42_down.mdl
+models/weapons/upgrades/a_iron_garand_l.mdl	<-	3352951512\models\weapons\upgrades\a_iron_garand_l.mdl
+models/weapons/upgrades/a_iron_garand_s.mdl	<-	3352951512\models\weapons\upgrades\a_iron_garand_s.mdl
+models/weapons/upgrades/a_iron_ithaca.mdl	<-	3352951512\models\weapons\upgrades\a_iron_ithaca.mdl
+models/weapons/upgrades/a_iron_springfield.mdl	<-	3171580533\models\weapons\upgrades\a_iron_springfield.mdl
+models/weapons/upgrades/a_iron_thompson_l.mdl	<-	3352951512\models\weapons\upgrades\a_iron_thompson_l.mdl
+models/weapons/upgrades/a_iron_thompson_m1a1_1.mdl	<-	3352951512\models\weapons\upgrades\a_iron_thompson_m1a1_1.mdl
+models/weapons/upgrades/a_iron_thompson_m1a1_2.mdl	<-	3352951512\models\weapons\upgrades\a_iron_thompson_m1a1_2.mdl
+models/weapons/upgrades/a_iron_thompson_s.mdl	<-	3352951512\models\weapons\upgrades\a_iron_thompson_s.mdl
+models/weapons/upgrades/a_ithaca_bayonet.mdl	<-	3352951512\models\weapons\upgrades\a_ithaca_bayonet.mdl
+models/weapons/upgrades/a_ithaca_namonet.mdl	<-	3171580533\models\weapons\upgrades\a_ithaca_namonet.mdl
+models/weapons/upgrades/a_kar98k_bayonet.mdl	<-	3171580533\models\weapons\upgrades\a_kar98k_bayonet.mdl
+models/weapons/upgrades/a_kar98k_gl.mdl	<-	3352951512\models\weapons\upgrades\a_kar98k_gl.mdl
+models/weapons/upgrades/a_kar98k_stripper_clip.mdl	<-	3352951512\models\weapons\upgrades\a_kar98k_stripper_clip.mdl
+models/weapons/upgrades/a_laser_band.mdl	<-	3171580533\models\weapons\upgrades\a_laser_band.mdl
+models/weapons/upgrades/a_laser_ins_shotgun.mdl	<-	3171580533\models\weapons\upgrades\a_laser_ins_shotgun.mdl
+models/weapons/upgrades/a_laser_m9.mdl	<-	3171580533\models\weapons\browninghp\upgrades\a_laser_m9.mdl
+models/weapons/upgrades/a_laser_mak.mdl	<-	3171580533\models\weapons\upgrades\a_laser_mak.mdl
+models/weapons/upgrades/a_laser_rail.mdl	<-	3171580533\models\weapons\upgrades\a_laser_rail.mdl
+models/weapons/upgrades/a_laser_sec_shotgun.mdl	<-	3171580533\models\weapons\upgrades\a_laser_sec_shotgun.mdl
+models/weapons/upgrades/a_laser_sterling.mdl	<-	3171580533\models\weapons\ethereal\pernach_upgrades\a_laser_sterling.mdl
+models/weapons/upgrades/a_m14_scope.mdl	<-	3171580533\models\weapons\ethereal\upgrades\a_m14_scope.mdl
+models/weapons/upgrades/a_magazikk_makag19_15.mdl	<-	3171580533\models\weapons\upgrades\a_magazikk_makag19_15.mdl
+models/weapons/upgrades/a_magazikk_makag19_8.mdl	<-	3171580533\models\weapons\upgrades\a_magazikk_makag19_8.mdl
+models/weapons/upgrades/a_magazine_1911_15.mdl	<-	3171580533\models\weapons\ethereal\tokarev_upgrades\a_magazine_1911_15.mdl
+models/weapons/upgrades/a_magazine_1911_8.mdl	<-	3171580533\models\weapons\ethereal\tokarev_upgrades\a_magazine_1911_8.mdl
+models/weapons/upgrades/a_magazine_c96_20.mdl	<-	3352951512\models\weapons\upgrades\a_magazine_c96_20.mdl
+models/weapons/upgrades/a_magazine_c96_40.mdl	<-	3352951512\models\weapons\upgrades\a_magazine_c96_40.mdl
+models/weapons/upgrades/a_magazine_colt_15.mdl	<-	3171580533\models\weapons\upgrades\a_magazine_colt_15.mdl
+models/weapons/upgrades/a_magazine_colt_30.mdl	<-	3171580533\models\weapons\upgrades\a_magazine_colt_30.mdl
+models/weapons/upgrades/a_magazine_fal_20.mdl	<-	3171580533\models\weapons\edge\upgrades\a_magazine_fal_20.mdl
+models/weapons/upgrades/a_magazine_fal_l1a1_30.mdl	<-	3171580533\models\weapons\edge\upgrades\a_magazine_fal_l1a1_30.mdl
+models/weapons/upgrades/a_magazine_galil_35.mdl	<-	3171580533\models\weapons\customupgrades\a_magazine_galil_35.mdl
+models/weapons/upgrades/a_magazine_galil_75.mdl	<-	3171580533\models\weapons\customupgrades\a_magazine_galil_75.mdl
+models/weapons/upgrades/a_magazine_l1a1_20.mdl	<-	3171580533\models\weapons\edge\upgrades\a_magazine_l1a1_20.mdl
+models/weapons/upgrades/a_magazine_m1a1_15.mdl	<-	3171580533\models\weapons\cw_cultist\dragunov\upgrades\a_magazine_m1a1_15.mdl
+models/weapons/upgrades/a_magazine_m1a1_30.mdl	<-	3171580533\models\weapons\cw_cultist\dragunov\upgrades\a_magazine_m1a1_30.mdl
+models/weapons/upgrades/a_magazine_m45_15.mdl	<-	3171580533\models\weapons\cw_cultist\deagle\upgrades\a_magazine_m45_15.mdl
+models/weapons/upgrades/a_magazine_m45_8.mdl	<-	3171580533\models\weapons\cw_cultist\deagle\upgrades\a_magazine_m45_8.mdl
+models/weapons/upgrades/a_magazine_makarov_15.mdl	<-	3171580533\models\weapons\upgrades\a_magazine_makarov_15.mdl
+models/weapons/upgrades/a_magazine_makarov_8.mdl	<-	3171580533\models\weapons\upgrades\a_magazine_makarov_8.mdl
+models/weapons/upgrades/a_modkit_02.mdl	<-	3171580533\models\weapons\upgrades\a_modkit_02.mdl
+models/weapons/upgrades/a_modkit_04.mdl	<-	3171580533\models\weapons\cw_cultist\svd\upgrades\a_modkit_04.mdl
+models/weapons/upgrades/a_modkit_05.mdl	<-	3171580533\models\weapons\upgrades\a_modkit_05.mdl
+models/weapons/upgrades/a_modkit_06.mdl	<-	3171580533\models\weapons\ethereal\ak74z_upgrades\a_modkit_06.mdl
+models/weapons/upgrades/a_modkit_07.mdl	<-	3171580533\models\weapons\cw_cultist\groza\upgrades\a_modkit_07.mdl
+models/weapons/upgrades/a_modkit_colt.mdl	<-	3171580533\models\weapons\upgrades\a_modkit_colt.mdl
+models/weapons/upgrades/a_modkit_fal.mdl	<-	3171580533\models\weapons\cw_cultist\fate\upgrades\a_modkit_fal.mdl
+models/weapons/upgrades/a_modkit_l1a1.mdl	<-	3171580533\models\weapons\edge\upgrades\a_modkit_l1a1.mdl
+models/weapons/upgrades/a_modkit_m1a1.mdl	<-	3171580533\models\weapons\cw_cultist\dragunov\upgrades\a_modkit_m1a1.mdl
+models/weapons/upgrades/a_modkit_mosin.mdl	<-	3171580533\models\weapons\ethereal\upgrades\a_modkit_mosin.mdl
+models/weapons/upgrades/a_modkit_spas12.mdl	<-	3171580533\models\weapons\upgrades\a_modkit_spas12.mdl
+models/weapons/upgrades/a_modkit_sterling.mdl	<-	3171580533\models\weapons\ethereal\pernach_upgrades\a_modkit_sterling.mdl
+models/weapons/upgrades/a_mount_galil.mdl	<-	3171580533\models\weapons\customupgrades\a_mount_galil.mdl
+models/weapons/upgrades/a_optic_aimp2x.mdl	<-	3171580533\models\weapons\upgrades\a_optic_aimp2x.mdl
+models/weapons/upgrades/a_optic_aimp2x_l.mdl	<-	3171580533\models\weapons\upgrades\a_optic_aimp2x_l.mdl
+models/weapons/upgrades/a_optic_aimp2x_m.mdl	<-	3171580533\models\weapons\upgrades\a_optic_aimp2x_m.mdl
+models/weapons/upgrades/a_optic_aimpoint.mdl	<-	3171580533\models\weapons\upgrades\a_optic_aimpoint.mdl
+models/weapons/upgrades/a_optic_aimpoint_l.mdl	<-	3171580533\models\weapons\upgrades\a_optic_aimpoint_l.mdl
+models/weapons/upgrades/a_optic_aimpoint_m.mdl	<-	3171580533\models\weapons\upgrades\a_optic_aimpoint_m.mdl
+models/weapons/upgrades/a_optic_elcan.mdl	<-	3171580533\models\weapons\upgrades\a_optic_elcan.mdl
+models/weapons/upgrades/a_optic_elcan_m.mdl	<-	3171580533\models\weapons\upgrades\a_optic_elcan_m.mdl
+models/weapons/upgrades/a_optic_enfield.mdl	<-	3352951512\models\weapons\upgrades\a_optic_enfield.mdl
+models/weapons/upgrades/a_optic_enfield_7x.mdl	<-	3352951512\models\weapons\upgrades\a_optic_enfield_7x.mdl
+models/weapons/upgrades/a_optic_eotech.mdl	<-	3171580533\models\weapons\upgrades\a_optic_eotech.mdl
+models/weapons/upgrades/a_optic_eotech_l.mdl	<-	3171580533\models\weapons\upgrades\a_optic_eotech_l.mdl
+models/weapons/upgrades/a_optic_eotech_m.mdl	<-	3171580533\models\weapons\upgrades\a_optic_eotech_m.mdl
+models/weapons/upgrades/a_optic_eotech_xl.mdl	<-	3171580533\models\weapons\upgrades\a_optic_eotech_xl.mdl
+models/weapons/upgrades/a_optic_fg42.mdl	<-	3352951512\models\weapons\upgrades\a_optic_fg42.mdl
+models/weapons/upgrades/a_optic_garand.mdl	<-	3352951512\models\weapons\upgrades\a_optic_garand.mdl
+models/weapons/upgrades/a_optic_kar98k.mdl	<-	3352951512\models\weapons\upgrades\a_optic_kar98k.mdl
+models/weapons/upgrades/a_optic_kar98k_4x.mdl	<-	3352951512\models\weapons\upgrades\a_optic_kar98k_4x.mdl
+models/weapons/upgrades/a_optic_kk_zf41.mdl	<-	3171580533\models\weapons\upgrades\a_optic_kk_zf41.mdl
+models/weapons/upgrades/a_optic_kobra.mdl	<-	3171580533\models\weapons\upgrades\a_optic_kobra.mdl
+models/weapons/upgrades/a_optic_kobra_l.mdl	<-	3171580533\models\weapons\upgrades\a_optic_kobra_l.mdl
+models/weapons/upgrades/a_optic_kobra_xl.mdl	<-	3171580533\models\weapons\upgrades\a_optic_kobra_xl.mdl
+models/weapons/upgrades/a_optic_m40.mdl	<-	3171580533\models\weapons\cw_cultist\m200\upgrades\a_optic_m40.mdl
+models/weapons/upgrades/a_optic_m40_l.mdl	<-	3171580533\models\weapons\upgrades\a_optic_m40_l.mdl
+models/weapons/upgrades/a_optic_micro_large.mdl	<-	3171580533\models\weapons\upgrades\a_optic_micro_large.mdl
+models/weapons/upgrades/a_optic_mosin.mdl	<-	3171580533\models\weapons\upgrades\a_optic_mosin.mdl
+models/weapons/upgrades/a_optic_mosin_l.mdl	<-	3171580533\models\weapons\upgrades\a_optic_mosin_l.mdl
+models/weapons/upgrades/a_optic_mosin_m.mdl	<-	3171580533\models\weapons\upgrades\a_optic_mosin_m.mdl
+models/weapons/upgrades/a_optic_po4x24.mdl	<-	3171580533\models\weapons\upgrades\a_optic_po4x24.mdl
+models/weapons/upgrades/a_optic_po4x24_l.mdl	<-	3171580533\models\weapons\upgrades\a_optic_po4x24_l.mdl
+models/weapons/upgrades/a_optic_po4x24_m.mdl	<-	3171580533\models\weapons\upgrades\a_optic_po4x24_m.mdl
+models/weapons/upgrades/a_optic_scar.mdl	<-	3171580533\models\weapons\upgrades\a_optic_scar.mdl
+models/weapons/upgrades/a_optic_springfield.mdl	<-	3352951512\models\weapons\upgrades\a_optic_springfield.mdl
+models/weapons/upgrades/a_optic_springfield_7x.mdl	<-	3352951512\models\weapons\upgrades\a_optic_springfield_7x.mdl
+models/weapons/upgrades/a_optic_susat.mdl	<-	3171580533\models\weapons\l85\a_optic_susat.mdl
+models/weapons/upgrades/a_optic_zf4.mdl	<-	3352951512\models\weapons\upgrades\a_optic_zf4.mdl
+models/weapons/upgrades/a_projectile_gp25.mdl	<-	3171580533\models\weapons\upgrades\a_projectile_gp25.mdl
+models/weapons/upgrades/a_projectile_m203.mdl	<-	3171580533\models\weapons\upgrades\a_projectile_m203.mdl
+models/weapons/upgrades/a_slide_alt_browninghp.mdl	<-	3352951512\models\weapons\upgrades\a_slide_alt_browninghp.mdl
+models/weapons/upgrades/a_slide_base_browninghp.mdl	<-	3352951512\models\weapons\upgrades\a_slide_base_browninghp.mdl
+models/weapons/upgrades/a_sling_bar.mdl	<-	3352951512\models\weapons\upgrades\a_sling_bar.mdl
+models/weapons/upgrades/a_sling_bren.mdl	<-	3352951512\models\weapons\upgrades\a_sling_bren.mdl
+models/weapons/upgrades/a_sling_c96.mdl	<-	3352951512\models\weapons\upgrades\a_sling_c96.mdl
+models/weapons/upgrades/a_sling_enfield.mdl	<-	3352951512\models\weapons\upgrades\a_sling_enfield.mdl
+models/weapons/upgrades/a_sling_fg42.mdl	<-	3352951512\models\weapons\upgrades\a_sling_fg42.mdl
+models/weapons/upgrades/a_sling_g43.mdl	<-	3352951512\models\weapons\upgrades\a_sling_g43.mdl
+models/weapons/upgrades/a_sling_garand.mdl	<-	3352951512\models\weapons\upgrades\a_sling_garand.mdl
+models/weapons/upgrades/a_sling_ithaca.mdl	<-	3352951512\models\weapons\upgrades\a_sling_ithaca.mdl
+models/weapons/upgrades/a_sling_k98.mdl	<-	3352951512\models\weapons\upgrades\a_sling_k98.mdl
+models/weapons/upgrades/a_sling_m1a1para.mdl	<-	3352951512\models\cwkkdoi\upgrades\a_sling_m1a1para.mdl
+models/weapons/upgrades/a_sling_m3.mdl	<-	3352951512\models\weapons\upgrades\a_sling_m3.mdl
+models/weapons/upgrades/a_sling_mp40.mdl	<-	3352951512\models\weapons\upgrades\a_sling_mp40.mdl
+models/weapons/upgrades/a_sling_owen.mdl	<-	3352951512\models\weapons\upgrades\a_sling_owen.mdl
+models/weapons/upgrades/a_sling_springfield.mdl	<-	3352951512\models\weapons\upgrades\a_sling_springfield.mdl
+models/weapons/upgrades/a_sling_stenmk2.mdl	<-	3352951512\models\weapons\upgrades\a_sling_stenmk2.mdl
+models/weapons/upgrades/a_sling_stenmk5.mdl	<-	3352951512\models\weapons\upgrades\a_sling_stenmk5.mdl
+models/weapons/upgrades/a_sling_stg44.mdl	<-	3352951512\models\weapons\upgrades\a_sling_stg44.mdl
+models/weapons/upgrades/a_sling_thompson_m1a1.mdl	<-	3352951512\models\weapons\upgrades\a_sling_thompson_m1a1.mdl
+models/weapons/upgrades/a_speedloader_rev.mdl	<-	3074010797\models\cultist\humans\fbi\weapons\revolver\upgrades\a_speedloader_rev.mdl
+models/weapons/upgrades/a_speedloader_webley.mdl	<-	3352951512\models\weapons\upgrades\a_speedloader_webley.mdl
+models/weapons/upgrades/a_springfield_bayonet.mdl	<-	3352951512\models\weapons\upgrades\a_springfield_bayonet.mdl
+models/weapons/upgrades/a_springfield_gl.mdl	<-	3352951512\models\weapons\upgrades\a_springfield_gl.mdl
+models/weapons/upgrades/a_springfield_stripper_clip.mdl	<-	3352951512\models\weapons\upgrades\a_springfield_stripper_clip.mdl
+models/weapons/upgrades/a_standard2_m16a4.mdl	<-	3171580533\models\weapons\cw_cultist\d4\upgrades\a_standard2_m16a4.mdl
+models/weapons/upgrades/a_standard2_m4a1.mdl	<-	3171580533\models\weapons\upgrades\a_standard2_m4a1.mdl
+models/weapons/upgrades/a_standard2_mk18.mdl	<-	3171580533\models\weapons\cw_cultist\arx\upgrades\a_standard2_mk18.mdl
+models/weapons/upgrades/a_standard3_m4a1.mdl	<-	3171580533\models\weapons\upgrades\a_standard3_m4a1.mdl
+models/weapons/upgrades/a_standard3_mk18.mdl	<-	3171580533\models\weapons\cw_cultist\arx\upgrades\a_standard3_mk18.mdl
+models/weapons/upgrades/a_standard4_m4a1.mdl	<-	3171580533\models\weapons\upgrades\a_standard4_m4a1.mdl
+models/weapons/upgrades/a_standard5_m4a1.mdl	<-	3171580533\models\weapons\upgrades\a_standard5_m4a1.mdl
+models/weapons/upgrades/a_standard6_m4a1.mdl	<-	3171580533\models\weapons\upgrades\a_standard6_m4a1.mdl
+models/weapons/upgrades/a_standard_ak74.mdl	<-	3171580533\models\weapons\ethereal\ak74z_upgrades\a_standard_ak74.mdl
+models/weapons/upgrades/a_standard_akm.mdl	<-	3171580533\models\weapons\ethereal\akmconc_upgrades\a_standard_akm.mdl
+models/weapons/upgrades/a_standard_aks74u.mdl	<-	3171580533\models\weapons\cw_cultist\groza\upgrades\a_standard_aks74u.mdl
+models/weapons/upgrades/a_standard_aug.mdl	<-	3171580533\models\weapons\upgrades\a_standard_aug.mdl
+models/weapons/upgrades/a_standard_br99.mdl	<-	3171580533\models\weapons\ethereal\upgrades\a_standard_br99.mdl
+models/weapons/upgrades/a_standard_fal.mdl	<-	3171580533\models\weapons\cw_cultist\fate\upgrades\a_standard_fal.mdl
+models/weapons/upgrades/a_standard_galil.mdl	<-	3171580533\models\weapons\customupgrades\a_standard_galil.mdl
+models/weapons/upgrades/a_standard_garand.mdl	<-	3352951512\models\weapons\upgrades\a_standard_garand.mdl
+models/weapons/upgrades/a_standard_ksg.mdl	<-	3171580533\models\weapons\upgrades\a_standard_ksg.mdl
+models/weapons/upgrades/a_standard_l1a1.mdl	<-	3171580533\models\weapons\edge\upgrades\a_standard_l1a1.mdl
+models/weapons/upgrades/a_standard_m16a4.mdl	<-	3171580533\models\weapons\upgrades\a_standard_m16a4.mdl
+models/weapons/upgrades/a_standard_m1a1.mdl	<-	3171580533\models\weapons\cw_cultist\dragunov\upgrades\a_standard_m1a1.mdl
+models/weapons/upgrades/a_standard_m40.mdl	<-	3171580533\models\weapons\cw_cultist\golmagnum\upgrades\a_standard_m40.mdl
+models/weapons/upgrades/a_standard_m4a1.mdl	<-	3171580533\models\weapons\cw_cultist\d4\upgrades\a_standard_m4a1.mdl
+models/weapons/upgrades/a_standard_m590.mdl	<-	3171580533\models\weapons\ethereal\ithaca37_upgrades\a_standard_m590.mdl
+models/weapons/upgrades/a_standard_mk18.mdl	<-	3171580533\models\weapons\cw_cultist\acr\upgrades\a_standard_mk18.mdl
+models/weapons/upgrades/a_standard_sterling.mdl	<-	3171580533\models\weapons\ethereal\pernach_upgrades\a_standard_sterling.mdl
+models/weapons/upgrades/a_standardmag_stanag.mdl	<-	3171580533\models\weapons\upgrades\a_standardmag_stanag.mdl
+models/weapons/upgrades/a_sten_foregrip.mdl	<-	3352951512\models\weapons\upgrades\a_sten_foregrip.mdl
+models/weapons/upgrades/a_stenmk2_barrel_standard.mdl	<-	3352951512\models\weapons\upgrades\a_stenmk2_barrel_standard.mdl
+models/weapons/upgrades/a_stenmk2_silencer.mdl	<-	3352951512\models\weapons\upgrades\a_stenmk2_silencer.mdl
+models/weapons/upgrades/a_stenmk5_barrel_standard.mdl	<-	3352951512\models\weapons\upgrades\a_stenmk5_barrel_standard.mdl
+models/weapons/upgrades/a_stenmk5_foregrip.mdl	<-	3352951512\models\weapons\upgrades\a_stenmk5_foregrip.mdl
+models/weapons/upgrades/a_stenmk5_silencer.mdl	<-	3352951512\models\weapons\upgrades\a_stenmk5_silencer.mdl
+models/weapons/upgrades/a_stock_browninghp.mdl	<-	3352951512\models\weapons\upgrades\a_stock_browninghp.mdl
+models/weapons/upgrades/a_stock_c96.mdl	<-	3352951512\models\weapons\upgrades\a_stock_c96.mdl
+models/weapons/upgrades/a_stock_collapsed_m3.mdl	<-	3352951512\models\weapons\upgrades\a_stock_collapsed_m3.mdl
+models/weapons/upgrades/a_stock_extended_m3.mdl	<-	3352951512\models\weapons\upgrades\a_stock_extended_m3.mdl
+models/weapons/upgrades/a_suppressor_12ga.mdl	<-	3171580533\models\weapons\upgrades\a_suppressor_12ga.mdl
+models/weapons/upgrades/a_suppressor_ak.mdl	<-	3171580533\models\weapons\upgrades\a_suppressor_ak.mdl
+models/weapons/upgrades/a_suppressor_aks.mdl	<-	3171580533\models\weapons\cw_cultist\groza\upgrades\a_suppressor_aks.mdl
+models/weapons/upgrades/a_suppressor_ins.mdl	<-	3171580533\models\weapons\upgrades\a_suppressor_ins.mdl
+models/weapons/upgrades/a_suppressor_pistol.mdl	<-	3171580533\models\weapons\upgrades\a_suppressor_pistol.mdl
+models/weapons/upgrades/a_suppressor_sec.mdl	<-	3171580533\models\weapons\upgrades\a_suppressor_sec.mdl
+models/weapons/upgrades/a_suppressor_sec2.mdl	<-	3171580533\models\weapons\cw_cultist\sq300\upgrades\a_suppressor_sec2.mdl
+models/weapons/upgrades/a_suppressor_sten.mdl	<-	3171580533\models\weapons\upgrades\a_suppressor_sten.mdl
+models/weapons/upgrades/a_suppressor_sterling.mdl	<-	3171580533\models\weapons\ethereal\pernach_upgrades\a_suppressor_sterling.mdl
+models/weapons/upgrades/a_thompson_foregrip.mdl	<-	3352951512\models\weapons\upgrades\a_thompson_foregrip.mdl
+models/weapons/upgrades/a_thompson_mag_20.mdl	<-	3352951512\models\weapons\upgrades\a_thompson_mag_20.mdl
+models/weapons/upgrades/a_thompson_mag_30.mdl	<-	3352951512\models\weapons\upgrades\a_thompson_mag_30.mdl
+models/weapons/upgrades/a_thompson_mag_50.mdl	<-	3352951512\models\weapons\upgrades\a_thompson_mag_50.mdl
+models/weapons/upgrades/a_thompson_standard.mdl	<-	3352951512\models\weapons\upgrades\a_thompson_standard.mdl
+models/weapons/upgrades/a_warhead_bazooka_1.mdl	<-	3352951512\models\weapons\upgrades\a_warhead_bazooka_1.mdl
+models/weapons/upgrades/a_warhead_bazooka_2.mdl	<-	3352951512\models\weapons\upgrades\a_warhead_bazooka_2.mdl
+models/weapons/upgrades/a_woodgrips_ak74.mdl	<-	3171580533\models\weapons\cw_cultist\ak117\upgrades\a_woodgrips_ak74.mdl
+models/weapons/upgrades/a_woodgrips_akm.mdl	<-	3171580533\models\weapons\cw_cultist\volk\upgrades\a_woodgrips_akm.mdl
+models/weapons/upgrades/a_woodgrips_aks74u.mdl	<-	3171580533\models\weapons\cw_cultist\aks74_modern\upgrades\a_woodgrips_aks74u.mdl
+models/weapons/upgrades/a_woodgrips_aug.mdl	<-	3171580533\models\weapons\upgrades\a_woodgrips_aug.mdl
+models/weapons/upgrades/insguns_a_augflash.mdl	<-	3171580533\models\weapons\upgrades\insguns_a_augflash.mdl
+models/weapons/upgrades/insguns_a_auglaser.mdl	<-	3171580533\models\weapons\upgrades\insguns_a_auglaser.mdl
+models/weapons/upgrades/w_aimpoint.mdl	<-	3171580533\models\weapons\upgrades\w_aimpoint.mdl
+models/weapons/upgrades/w_barrel_standard_mk2.mdl	<-	3352951512\models\weapons\upgrades\w_barrel_standard_mk2.mdl
+models/weapons/upgrades/w_barrel_standard_mk5.mdl	<-	3352951512\models\weapons\upgrades\w_barrel_standard_mk5.mdl
+models/weapons/upgrades/w_bipod_bar.mdl	<-	3352951512\models\weapons\upgrades\w_bipod_bar.mdl
+models/weapons/upgrades/w_bipod_galil.mdl	<-	3171580533\models\weapons\customupgrades\w_bipod_galil.mdl
+models/weapons/upgrades/w_bipod_m40.mdl	<-	3171580533\models\weapons\cw_cultist\m200\upgrades\w_bipod_m40.mdl
+models/weapons/upgrades/w_bipod_mosin.mdl	<-	3171580533\models\weapons\upgrades\w_bipod_mosin.mdl
+models/weapons/upgrades/w_c96carbine_mag_20.mdl	<-	3352951512\models\weapons\upgrades\w_c96carbine_mag_20.mdl
+models/weapons/upgrades/w_c96carbine_mag_40.mdl	<-	3352951512\models\weapons\upgrades\w_c96carbine_mag_40.mdl
+models/weapons/upgrades/w_clothwrap_enfield.mdl	<-	3352951512\models\weapons\upgrades\w_clothwrap_enfield.mdl
+models/weapons/upgrades/w_clothwrap_g43.mdl	<-	3352951512\models\weapons\upgrades\w_clothwrap_g43.mdl
+models/weapons/upgrades/w_clothwrap_garand.mdl	<-	3352951512\models\weapons\upgrades\w_clothwrap_garand.mdl
+models/weapons/upgrades/w_clothwrap_kar98k.mdl	<-	3352951512\models\weapons\upgrades\w_clothwrap_kar98k.mdl
+models/weapons/upgrades/w_clothwrap_springfield.mdl	<-	3352951512\models\weapons\upgrades\w_clothwrap_springfield.mdl
+models/weapons/upgrades/w_elcan.mdl	<-	3171580533\models\weapons\upgrades\w_elcan.mdl
+models/weapons/upgrades/w_enfield_bayonet.mdl	<-	3352951512\models\weapons\upgrades\w_enfield_bayonet.mdl
+models/weapons/upgrades/w_enfield_bayonet_spike.mdl	<-	3352951512\models\weapons\upgrades\w_enfield_bayonet_spike.mdl
+models/weapons/upgrades/w_enfield_gl.mdl	<-	3352951512\models\weapons\upgrades\w_enfield_gl.mdl
+models/weapons/upgrades/w_eotech.mdl	<-	3171580533\models\weapons\upgrades\w_eotech.mdl
+models/weapons/upgrades/w_fg42_bayonet_default.mdl	<-	3352951512\models\weapons\upgrades\w_fg42_bayonet_default.mdl
+models/weapons/upgrades/w_fg42_bayonet_deployed.mdl	<-	3352951512\models\weapons\upgrades\w_fg42_bayonet_deployed.mdl
+models/weapons/upgrades/w_fg42_irons.mdl	<-	3352951512\models\weapons\upgrades\w_fg42_irons.mdl
+models/weapons/upgrades/w_fg42_scope.mdl	<-	3352951512\models\weapons\upgrades\w_fg42_scope.mdl
+models/weapons/upgrades/w_flipup1.mdl	<-	3171580533\models\weapons\upgrades\w_flipup1.mdl
+models/weapons/upgrades/w_flipup2.mdl	<-	3171580533\models\weapons\cw_cultist\acr\upgrades\w_flipup2.mdl
+models/weapons/upgrades/w_flipup3.mdl	<-	3171580533\models\weapons\cw_cultist\blackout\upgrades\w_flipup3.mdl
+models/weapons/upgrades/w_flipup85.mdl	<-	3171580533\models\weapons\upgrades\w_flipup85.mdl
+models/weapons/upgrades/w_flipup_br99.mdl	<-	3171580533\models\weapons\ethereal\upgrades\w_flipup_br99.mdl
+models/weapons/upgrades/w_flipup_m40.mdl	<-	3171580533\models\weapons\upgrades\w_flipup_m40.mdl
+models/weapons/upgrades/w_foregrip_aks74u.mdl	<-	3171580533\models\weapons\cw_cultist\aks74_modern\upgrades\w_foregrip_aks74u.mdl
+models/weapons/upgrades/w_foregrip_sec1.mdl	<-	3171580533\models\weapons\upgrades\w_foregrip_sec1.mdl
+models/weapons/upgrades/w_foregrip_sec2.mdl	<-	3171580533\models\weapons\upgrades\w_foregrip_sec2.mdl
+models/weapons/upgrades/w_foregrip_wood_1.mdl	<-	3171580533\models\weapons\upgrades\w_foregrip_wood_1.mdl
+models/weapons/upgrades/w_foregrip_wood_2.mdl	<-	3171580533\models\weapons\cw_cultist\ak117\upgrades\w_foregrip_wood_2.mdl
+models/weapons/upgrades/w_garand_bayonet.mdl	<-	3352951512\models\weapons\upgrades\w_garand_bayonet.mdl
+models/weapons/upgrades/w_gp25.mdl	<-	3171580533\models\weapons\upgrades\w_gp25.mdl
+models/weapons/upgrades/w_grenade_kar98k.mdl	<-	3352951512\models\weapons\upgrades\w_grenade_kar98k.mdl
+models/weapons/upgrades/w_ins_foregrip.mdl	<-	3171580533\models\weapons\upgrades\w_ins_foregrip.mdl
+models/weapons/upgrades/w_iron_springfield.mdl	<-	3171580533\models\weapons\upgrades\w_iron_springfield.mdl
+models/weapons/upgrades/w_ithaca_bayonet.mdl	<-	3352951512\models\weapons\upgrades\w_ithaca_bayonet.mdl
+models/weapons/upgrades/w_kar98k_bayonet.mdl	<-	3171580533\models\weapons\upgrades\w_kar98k_bayonet.mdl
+models/weapons/upgrades/w_kobra.mdl	<-	3171580533\models\weapons\upgrades\w_kobra.mdl
+models/weapons/upgrades/w_laser_ins.mdl	<-	3171580533\models\weapons\upgrades\w_laser_ins.mdl
+models/weapons/upgrades/w_laser_sec.mdl	<-	3171580533\models\weapons\upgrades\w_laser_sec.mdl
+models/weapons/upgrades/w_m14_scope.mdl	<-	3171580533\models\weapons\ethereal\upgrades\w_m14_scope.mdl
+models/weapons/upgrades/w_m203.mdl	<-	3171580533\models\weapons\upgrades\w_m203.mdl
+models/weapons/upgrades/w_magaim.mdl	<-	3171580533\models\weapons\upgrades\w_magaim.mdl
+models/weapons/upgrades/w_magazikk_makag19_15.mdl	<-	3171580533\models\weapons\upgrades\w_magazikk_makag19_15.mdl
+models/weapons/upgrades/w_magazikk_makag19_8.mdl	<-	3171580533\models\weapons\upgrades\w_magazikk_makag19_8.mdl
+models/weapons/upgrades/w_magazine_1911_15.mdl	<-	3171580533\models\weapons\upgrades\w_magazine_1911_15.mdl
+models/weapons/upgrades/w_magazine_1911_8.mdl	<-	3171580533\models\weapons\upgrades\w_magazine_1911_8.mdl
+models/weapons/upgrades/w_magazine_colt_15.mdl	<-	3171580533\models\weapons\upgrades\w_magazine_colt_15.mdl
+models/weapons/upgrades/w_magazine_colt_30.mdl	<-	3171580533\models\weapons\upgrades\w_magazine_colt_30.mdl
+models/weapons/upgrades/w_magazine_galil_35.mdl	<-	3171580533\models\weapons\customupgrades\w_magazine_galil_35.mdl
+models/weapons/upgrades/w_magazine_galil_75.mdl	<-	3171580533\models\weapons\customupgrades\w_magazine_galil_75.mdl
+models/weapons/upgrades/w_magazine_m1a1_15.mdl	<-	3171580533\models\weapons\cw_cultist\dragunov\upgrades\w_magazine_m1a1_15.mdl
+models/weapons/upgrades/w_magazine_m1a1_30.mdl	<-	3171580533\models\weapons\cw_cultist\dragunov\upgrades\w_magazine_m1a1_30.mdl
+models/weapons/upgrades/w_magazine_m45_15.mdl	<-	3171580533\models\weapons\upgrades\w_magazine_m45_15.mdl
+models/weapons/upgrades/w_magazine_m45_8.mdl	<-	3171580533\models\weapons\upgrades\w_magazine_m45_8.mdl
+models/weapons/upgrades/w_magazine_makarov_15.mdl	<-	3171580533\models\weapons\upgrades\w_magazine_makarov_15.mdl
+models/weapons/upgrades/w_magazine_makarov_8.mdl	<-	3171580533\models\weapons\upgrades\w_magazine_makarov_8.mdl
+models/weapons/upgrades/w_modkit_4.mdl	<-	3171580533\models\weapons\upgrades\w_modkit_4.mdl
+models/weapons/upgrades/w_modkit_5.mdl	<-	3171580533\models\weapons\upgrades\w_modkit_5.mdl
+models/weapons/upgrades/w_modkit_6.mdl	<-	3171580533\models\weapons\ethereal\ak74z_upgrades\w_modkit_6.mdl
+models/weapons/upgrades/w_modkit_7.mdl	<-	3171580533\models\weapons\cw_cultist\groza\upgrades\w_modkit_7.mdl
+models/weapons/upgrades/w_modkit_colt.mdl	<-	3171580533\models\weapons\upgrades\w_modkit_colt.mdl
+models/weapons/upgrades/w_modkit_m1a1.mdl	<-	3171580533\models\weapons\cw_cultist\dragunov\upgrades\w_modkit_m1a1.mdl
+models/weapons/upgrades/w_modkit_mosin.mdl	<-	3171580533\models\weapons\upgrades\w_modkit_mosin.mdl
+models/weapons/upgrades/w_modkit_sterling.mdl	<-	3171580533\models\weapons\ethereal\pernach_upgrades\w_modkit_sterling.mdl
+models/weapons/upgrades/w_mount_galil.mdl	<-	3171580533\models\weapons\customupgrades\w_mount_galil.mdl
+models/weapons/upgrades/w_optic_enfield.mdl	<-	3352951512\models\weapons\upgrades\w_optic_enfield.mdl
+models/weapons/upgrades/w_optic_kar98k.mdl	<-	3352951512\models\weapons\upgrades\w_optic_kar98k.mdl
+models/weapons/upgrades/w_optic_springfield.mdl	<-	3352951512\models\weapons\upgrades\w_optic_springfield.mdl
+models/weapons/upgrades/w_po.mdl	<-	3171580533\models\weapons\upgrades\w_po.mdl
+models/weapons/upgrades/w_scope_g43.mdl	<-	3352951512\models\weapons\upgrades\w_scope_g43.mdl
+models/weapons/upgrades/w_scope_garand.mdl	<-	3352951512\models\weapons\upgrades\w_scope_garand.mdl
+models/weapons/upgrades/w_scope_m40.mdl	<-	3171580533\models\weapons\cw_cultist\m200\upgrades\w_scope_m40.mdl
+models/weapons/upgrades/w_scope_mosin.mdl	<-	3171580533\models\weapons\upgrades\w_scope_mosin.mdl
+models/weapons/upgrades/w_sil_ins1.mdl	<-	3171580533\models\weapons\upgrades\w_sil_ins1.mdl
+models/weapons/upgrades/w_sil_pistol.mdl	<-	3171580533\models\weapons\upgrades\w_sil_pistol.mdl
+models/weapons/upgrades/w_sil_sec1.mdl	<-	3171580533\models\weapons\upgrades\w_sil_sec1.mdl
+models/weapons/upgrades/w_sil_sec2.mdl	<-	3171580533\models\weapons\upgrades\w_sil_sec2.mdl
+models/weapons/upgrades/w_sil_sterling.mdl	<-	3171580533\models\weapons\ethereal\pernach_upgrades\w_sil_sterling.mdl
+models/weapons/upgrades/w_silencer_sten.mdl	<-	3352951512\models\weapons\upgrades\w_silencer_sten.mdl
+models/weapons/upgrades/w_springfield_gl.mdl	<-	3352951512\models\weapons\upgrades\w_springfield_gl.mdl
+models/weapons/upgrades/w_standard_ak74.mdl	<-	3171580533\models\weapons\ethereal\ak74z_upgrades\w_standard_ak74.mdl
+models/weapons/upgrades/w_standard_akm.mdl	<-	3171580533\models\weapons\upgrades\w_standard_akm.mdl
+models/weapons/upgrades/w_standard_aks74u.mdl	<-	3171580533\models\weapons\cw_cultist\groza\upgrades\w_standard_aks74u.mdl
+models/weapons/upgrades/w_standard_m1a1.mdl	<-	3171580533\models\weapons\cw_cultist\dragunov\upgrades\w_standard_m1a1.mdl
+models/weapons/upgrades/w_standard_sterling.mdl	<-	3171580533\models\weapons\ethereal\pernach_upgrades\w_standard_sterling.mdl
+models/weapons/upgrades/w_thompson_foregrip.mdl	<-	3352951512\models\weapons\upgrades\w_thompson_foregrip.mdl
+models/weapons/upgrades/w_thompson_mag_20.mdl	<-	3352951512\models\weapons\upgrades\w_thompson_mag_20.mdl
+models/weapons/upgrades/w_thompson_mag_30.mdl	<-	3352951512\models\weapons\upgrades\w_thompson_mag_30.mdl
+models/weapons/upgrades/w_thompson_mag_50.mdl	<-	3352951512\models\weapons\upgrades\w_thompson_mag_50.mdl
+models/weapons/upgrades/w_thompson_standard.mdl	<-	3352951512\models\weapons\upgrades\w_thompson_standard.mdl
+models/weapons/usp/v_usp.mdl	<-	3171580533\models\weapons\usp\v_usp.mdl
+models/weapons/usp/w_usp.mdl	<-	3171580533\models\weapons\usp\w_usp.mdl
+models/weapons/usp/w_uspmag.mdl	<-	3171580533\models\weapons\usp\w_uspmag.mdl
+models/weapons/v_38rev.mdl	<-	3074010797\models\cultist\humans\fbi\weapons\revolver\v_38rev.mdl
+models/weapons/v_ak74.mdl	<-	3171580533\models\weapons\v_ak74.mdl
+models/weapons/v_akm.mdl	<-	3171580533\models\weapons\v_akm.mdl
+models/weapons/v_aks74u.mdl	<-	3171580533\models\weapons\v_aks74u.mdl
+models/weapons/v_anm14.mdl	<-	3171580533\models\weapons\v_anm14.mdl
+models/weapons/v_at4.mdl	<-	3171580533\models\weapons\v_at4.mdl
+models/weapons/v_bar.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_bar.mdl
+models/weapons/v_bazooka.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_bazooka.mdl
+models/weapons/v_beretta.mdl	<-	3171580533\models\weapons\v_beretta.mdl
+models/weapons/v_binoculars_american.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_binoculars_american.mdl
+models/weapons/v_binoculars_british.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_binoculars_british.mdl
+models/weapons/v_binoculars_german.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_binoculars_german.mdl
+models/weapons/v_br99.mdl	<-	3171580533\models\weapons\v_br99.mdl
+models/weapons/v_brassknuckles.mdl	<-	3171580533\models\weapons\cw_kk_doi_c054\v_brassknuckles.mdl
+models/weapons/v_bren.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_bren.mdl
+models/weapons/v_browninghp.mdl	<-	3171580533\models\weapons\browninghp\v_browninghp.mdl
+models/weapons/v_c4_sec.mdl	<-	3171580533\models\weapons\v_c4_sec.mdl
+models/weapons/v_c96.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_c96.mdl
+models/weapons/v_c96_carbine.mdl	<-	3171580533\models\weapons\cw_kk_doi_c054\v_c96_carbine.mdl
+models/weapons/v_cw_kk_doi_1928.mdl	<-	3171580533\models\weapons\v_cw_kk_doi_1928.mdl
+models/weapons/v_cw_kk_doi_enfield.mdl	<-	3171580533\models\weapons\v_cw_kk_doi_enfield.mdl
+models/weapons/v_cw_kk_doi_garand.mdl	<-	3171580533\models\weapons\v_cw_kk_doi_garand.mdl
+models/weapons/v_cw_kk_doi_m1912.mdl	<-	3171580533\models\weapons\v_cw_kk_doi_m1912.mdl
+models/weapons/v_cw_kk_doi_m3a1.mdl	<-	3171580533\models\weapons\v_cw_kk_doi_m3a1.mdl
+models/weapons/v_cw_kk_ins2_cstm_aug.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_cstm_aug.mdl
+models/weapons/v_cw_kk_ins2_cstm_cobra.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_cstm_cobra.mdl
+models/weapons/v_cw_kk_ins2_cstm_colt.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_cstm_colt.mdl
+models/weapons/v_cw_kk_ins2_cstm_famas.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_cstm_famas.mdl
+models/weapons/v_cw_kk_ins2_cstm_g19.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_cstm_g19.mdl
+models/weapons/v_cw_kk_ins2_cstm_g36c.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_cstm_g36c.mdl
+models/weapons/v_cw_kk_ins2_cstm_kriss.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_cstm_kriss.mdl
+models/weapons/v_cw_kk_ins2_cstm_ksg.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_cstm_ksg.mdl
+models/weapons/v_cw_kk_ins2_cstm_l85.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_cstm_l85.mdl
+models/weapons/v_cw_kk_ins2_cstm_m14.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_cstm_m14.mdl
+models/weapons/v_cw_kk_ins2_cstm_m500.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_cstm_m500.mdl
+models/weapons/v_cw_kk_ins2_cstm_mp5a4.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_cstm_mp5a4.mdl
+models/weapons/v_cw_kk_ins2_cstm_mp7.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_cstm_mp7.mdl
+models/weapons/v_cw_kk_ins2_cstm_nade_m39.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_cstm_nade_m39.mdl
+models/weapons/v_cw_kk_ins2_cstm_scar.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_cstm_scar.mdl
+models/weapons/v_cw_kk_ins2_cstm_scar_tan.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_cstm_scar_tan.mdl
+models/weapons/v_cw_kk_ins2_cstm_spas12.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_cstm_spas12.mdl
+models/weapons/v_cw_kk_ins2_cstm_sten.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_cstm_sten.mdl
+models/weapons/v_cw_kk_ins2_cstm_uzi.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_cstm_uzi.mdl
+models/weapons/v_cw_kk_ins2_galil_ace.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_galil_ace.mdl
+models/weapons/v_cw_kk_ins2_hands_css.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_hands_css.mdl
+models/weapons/v_cw_kk_ins2_m1.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_m1.mdl
+models/weapons/v_cw_kk_ins2_m14ebr.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_m14ebr.mdl
+models/weapons/v_cw_kk_ins2_m18.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_m18.mdl
+models/weapons/v_cw_kk_ins2_m1911.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_m1911.mdl
+models/weapons/v_cw_kk_ins2_m1a1.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_m1a1.mdl
+models/weapons/v_cw_kk_ins2_m213.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_m213.mdl
+models/weapons/v_cw_kk_ins2_m67.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_m67.mdl
+models/weapons/v_cw_kk_ins2_mosin_so.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_mosin_so.mdl
+models/weapons/v_cw_kk_ins2_mp40.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_mp40.mdl
+models/weapons/v_cw_kk_ins2_ninjato.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_ninjato.mdl
+models/weapons/v_cw_kk_ins2_rdgm.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_rdgm.mdl
+models/weapons/v_cw_kk_ins2_rpg.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_rpg.mdl
+models/weapons/v_cw_kk_ins2_rpg_pro.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_rpg_pro.mdl
+models/weapons/v_cw_kk_ins2_rpk_tac.mdl	<-	3171580533\models\weapons\v_cw_kk_ins2_rpk_tac.mdl
+models/weapons/v_enfield_bayonet.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_enfield_bayonet.mdl
+models/weapons/v_etool_brit.mdl	<-	3352951512\models\weapons\kk_doi\v_etool_brit.mdl
+models/weapons/v_etool_us.mdl	<-	3352951512\models\weapons\kk_doi\v_etool_us.mdl
+models/weapons/v_f1.mdl	<-	3171580533\models\weapons\v_f1.mdl
+models/weapons/v_fairbairn.mdl	<-	3171580533\models\weapons\cw_kk_doi_c054\v_fairbairn.mdl
+models/weapons/v_fal.mdl	<-	3171580533\models\weapons\v_fal.mdl
+models/weapons/v_fg42.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_fg42.mdl
+models/weapons/v_flame_eintoss46.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_flame_eintoss46.mdl
+models/weapons/v_g43.mdl	<-	3171580533\models\weapons\cw_kk_doi\v_g43.mdl
+models/weapons/v_galil.mdl	<-	3171580533\models\weapons\v_galil.mdl
+models/weapons/v_galil_sar.mdl	<-	3171580533\models\weapons\v_galil_sar.mdl
+models/weapons/v_garand.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_garand.mdl
+models/weapons/v_gravityknife.mdl	<-	3171580533\models\weapons\cw_kk_doi_c054\v_gravityknife.mdl
+models/weapons/v_gurkha.mdl	<-	3171580533\models\weapons\v_gurkha.mdl
+models/weapons/v_hands_ins_h.mdl	<-	3171580533\models\weapons\v_hands_ins_h.mdl
+models/weapons/v_hands_ins_l.mdl	<-	3171580533\models\weapons\v_hands_ins_l.mdl
+models/weapons/v_hands_ins_m.mdl	<-	3171580533\models\weapons\v_hands_ins_m.mdl
+models/weapons/v_hands_sec_h.mdl	<-	3171580533\models\weapons\v_hands_sec_h.mdl
+models/weapons/v_hands_sec_l.mdl	<-	3171580533\models\weapons\v_hands_sec_l.mdl
+models/weapons/v_hands_sec_m.mdl	<-	3171580533\models\weapons\v_hands_sec_m.mdl
+models/weapons/v_hands_vip.mdl	<-	3171580533\models\weapons\v_hands_vip.mdl
+models/weapons/v_ied_ins.mdl	<-	3171580533\models\weapons\v_ied_ins.mdl
+models/weapons/v_ithaca.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_ithaca.mdl
+models/weapons/v_kar98k.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_kar98k.mdl
+models/weapons/v_l1a1.mdl	<-	3171580533\models\weapons\v_l1a1.mdl
+models/weapons/v_lewis.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_lewis.mdl
+models/weapons/v_lugerp08.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_lugerp08.mdl
+models/weapons/v_m14.mdl	<-	3171580533\models\weapons\v_m14.mdl
+models/weapons/v_m16a3.mdl	<-	3171580533\models\weapons\v_m16a3.mdl
+models/weapons/v_m18.mdl	<-	3171580533\models\weapons\v_m18.mdl
+models/weapons/v_m1a1para.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_m1a1para.mdl
+models/weapons/v_m249.mdl	<-	3171580533\models\weapons\v_m249.mdl
+models/weapons/v_m39.mdl	<-	3171580533\models\weapons\v_m39.mdl
+models/weapons/v_m3greasegun.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_m3greasegun.mdl
+models/weapons/v_m40a1.mdl	<-	3171580533\models\weapons\v_m40a1.mdl
+models/weapons/v_m45.mdl	<-	3171580533\models\weapons\v_m45.mdl
+models/weapons/v_m4a1.mdl	<-	3171580533\models\weapons\v_m4a1.mdl
+models/weapons/v_m590.mdl	<-	3171580533\models\weapons\v_m590.mdl
+models/weapons/v_m84.mdl	<-	3171580533\models\weapons\v_m84.mdl
+models/weapons/v_mac10.mdl	<-	3171580533\models\weapons\ethereal\v_mac10.mdl
+models/weapons/v_makarov.mdl	<-	3171580533\models\weapons\v_makarov.mdl
+models/weapons/v_marinebayonet.mdl	<-	3171580533\models\weapons\v_marinebayonet.mdl
+models/weapons/v_mg34.mdl	<-	3352951512\models\weapons\v_mg34.mdl
+models/weapons/v_mg42.mdl	<-	3352951512\models\weapons\v_mg42.mdl
+models/weapons/v_mills.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_mills.mdl
+models/weapons/v_mini14.mdl	<-	3171580533\models\weapons\v_mini14.mdl
+models/weapons/v_mk18.mdl	<-	3171580533\models\weapons\v_mk18.mdl
+models/weapons/v_molotov.mdl	<-	3171580533\models\weapons\v_molotov.mdl
+models/weapons/v_mosin.mdl	<-	3171580533\models\weapons\v_mosin.mdl
+models/weapons/v_mp5kpdw.mdl	<-	3171580533\models\weapons\v_mp5kpdw.mdl
+models/weapons/v_owen.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_owen.mdl
+models/weapons/v_owen_mk2.mdl	<-	3171580533\models\weapons\cw_kk_doi_c054\v_owen_mk2.mdl
+models/weapons/v_p2a1.mdl	<-	3171580533\models\weapons\v_p2a1.mdl
+models/weapons/v_p38.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_p38.mdl
+models/weapons/v_p90.mdl	<-	3171580533\models\weapons\v_p90.mdl
+models/weapons/v_panzerschreck.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_panzerschreck.mdl
+models/weapons/v_piat.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_piat.mdl
+models/weapons/v_ppk.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_ppk.mdl
+models/weapons/v_rpk.mdl	<-	3171580533\models\weapons\v_rpk.mdl
+models/weapons/v_sks.mdl	<-	3171580533\models\weapons\v_sks.mdl
+models/weapons/v_snub.mdl	<-	3171580533\models\weapons\v_snub.mdl
+models/weapons/v_splintering_stielhandgranate.mdl	<-	3171580533\models\weapons\cw_kk_doi\v_splintering_stielhandgranate.mdl
+models/weapons/v_springfield.mdl	<-	3171580533\models\weapons\cw_kk_doi\v_springfield.mdl
+models/weapons/v_sten_mk2.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_sten_mk2.mdl
+models/weapons/v_sten_mk5.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_sten_mk5.mdl
+models/weapons/v_sterling.mdl	<-	3171580533\models\weapons\v_sterling.mdl
+models/weapons/v_stg44.mdl	<-	3352951512\models\weapons\v_stg44.mdl
+models/weapons/v_stielhandgranate.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_stielhandgranate.mdl
+models/weapons/v_stiletto.mdl	<-	3171580533\models\weapons\cw_kk_doi_c054\v_stiletto.mdl
+models/weapons/v_sw1917.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_sw1917.mdl
+models/weapons/v_thompson.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_thompson.mdl
+models/weapons/v_thompson_m1a1.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_thompson_m1a1.mdl
+models/weapons/v_toz.mdl	<-	3171580533\models\weapons\v_toz.mdl
+models/weapons/v_ump45.mdl	<-	3171580533\models\weapons\v_ump45.mdl
+models/weapons/v_welrod.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_welrod.mdl
+models/weapons/w_38rev.mdl	<-	3074010797\models\cultist\humans\fbi\weapons\revolver\w_38rev.mdl
+models/weapons/w_ak74.mdl	<-	3171580533\models\weapons\w_ak74.mdl
+models/weapons/w_akm.mdl	<-	3171580533\models\weapons\w_akm.mdl
+models/weapons/w_aks74u.mdl	<-	3171580533\models\weapons\w_aks74u.mdl
+models/weapons/w_anm14.mdl	<-	3171580533\models\weapons\w_anm14.mdl
+models/weapons/w_at4.mdl	<-	3171580533\models\weapons\w_at4.mdl
+models/weapons/w_at4_projectile.mdl	<-	3171580533\models\weapons\w_at4_projectile.mdl
+models/weapons/w_br99.mdl	<-	3171580533\models\weapons\w_br99.mdl
+models/weapons/w_browninghp.mdl	<-	3171580533\models\weapons\browninghp\w_browninghp.mdl
+models/weapons/w_crowbar.mdl	<-	3074044716\models\weapons\breach_melee\w_crowbar.mdl
+models/weapons/w_cw_kk_doi_m1911.mdl	<-	3171580533\models\weapons\w_cw_kk_doi_m1911.mdl
+models/weapons/w_cw_kk_doi_m1912.mdl	<-	3171580533\models\weapons\w_cw_kk_doi_m1912.mdl
+models/weapons/w_cw_kk_ins2_c4.mdl	<-	3171580533\models\weapons\w_cw_kk_ins2_c4.mdl
+models/weapons/w_cw_kk_ins2_cstm_cobra.mdl	<-	3171580533\models\weapons\w_cw_kk_ins2_cstm_cobra.mdl
+models/weapons/w_cw_kk_ins2_cstm_colt.mdl	<-	3171580533\models\weapons\w_cw_kk_ins2_cstm_colt.mdl
+models/weapons/w_cw_kk_ins2_cstm_famas.mdl	<-	3171580533\models\weapons\w_cw_kk_ins2_cstm_famas.mdl
+models/weapons/w_cw_kk_ins2_cstm_g19.mdl	<-	3171580533\models\weapons\w_cw_kk_ins2_cstm_g19.mdl
+models/weapons/w_cw_kk_ins2_cstm_g36c.mdl	<-	3171580533\models\weapons\w_cw_kk_ins2_cstm_g36c.mdl
+models/weapons/w_cw_kk_ins2_cstm_kriss.mdl	<-	3171580533\models\weapons\w_cw_kk_ins2_cstm_kriss.mdl
+models/weapons/w_cw_kk_ins2_cstm_ksg.mdl	<-	3171580533\models\weapons\w_cw_kk_ins2_cstm_ksg.mdl
+models/weapons/w_cw_kk_ins2_cstm_l85.mdl	<-	3171580533\models\weapons\w_cw_kk_ins2_cstm_l85.mdl
+models/weapons/w_cw_kk_ins2_cstm_m14.mdl	<-	3171580533\models\weapons\w_cw_kk_ins2_cstm_m14.mdl
+models/weapons/w_cw_kk_ins2_cstm_m500.mdl	<-	3171580533\models\weapons\w_cw_kk_ins2_cstm_m500.mdl
+models/weapons/w_cw_kk_ins2_cstm_mp5a4.mdl	<-	3171580533\models\weapons\w_cw_kk_ins2_cstm_mp5a4.mdl
+models/weapons/w_cw_kk_ins2_cstm_mp7.mdl	<-	3171580533\models\weapons\w_cw_kk_ins2_cstm_mp7.mdl
+models/weapons/w_cw_kk_ins2_cstm_nade_m39.mdl	<-	3171580533\models\weapons\w_cw_kk_ins2_cstm_nade_m39.mdl
+models/weapons/w_cw_kk_ins2_cstm_scar.mdl	<-	3171580533\models\weapons\w_cw_kk_ins2_cstm_scar.mdl
+models/weapons/w_cw_kk_ins2_cstm_scar_tan.mdl	<-	3171580533\models\weapons\w_cw_kk_ins2_cstm_scar_tan.mdl
+models/weapons/w_cw_kk_ins2_cstm_uzi.mdl	<-	3171580533\models\weapons\w_cw_kk_ins2_cstm_uzi.mdl
+models/weapons/w_cw_kk_ins2_galil_ace.mdl	<-	3171580533\models\weapons\w_cw_kk_ins2_galil_ace.mdl
+models/weapons/w_cw_kk_ins2_m14_2.mdl	<-	3171580533\models\weapons\w_cw_kk_ins2_m14_2.mdl
+models/weapons/w_cw_kk_ins2_m14ebr.mdl	<-	3171580533\models\weapons\w_cw_kk_ins2_m14ebr.mdl
+models/weapons/w_cw_kk_ins2_m1911.mdl	<-	3171580533\models\weapons\w_cw_kk_ins2_m1911.mdl
+models/weapons/w_cw_kk_ins2_m1a1.mdl	<-	3171580533\models\weapons\w_cw_kk_ins2_m1a1.mdl
+models/weapons/w_cw_kk_ins2_m67.mdl	<-	3171580533\models\weapons\w_cw_kk_ins2_m67.mdl
+models/weapons/w_cw_kk_ins2_mosin_so.mdl	<-	3171580533\models\weapons\w_cw_kk_ins2_mosin_so.mdl
+models/weapons/w_cw_kk_ins2_mp40.mdl	<-	3171580533\models\weapons\w_cw_kk_ins2_mp40.mdl
+models/weapons/w_cw_kk_ins2_rdgm.mdl	<-	3171580533\models\weapons\w_cw_kk_ins2_rdgm.mdl
+models/weapons/w_cw_kk_ins2_rpg7_projectile_pd2.mdl	<-	3171580533\models\weapons\w_cw_kk_ins2_rpg7_projectile_pd2.mdl
+models/weapons/w_cw_kk_ins2_rpk_tac.mdl	<-	3171580533\models\weapons\w_cw_kk_ins2_rpk_tac.mdl
+models/weapons/w_doublebarrel.mdl	<-	3171580533\models\weapons\ethereal\w_doublebarrel.mdl
+models/weapons/w_f1.mdl	<-	3171580533\models\weapons\w_f1.mdl
+models/weapons/w_fal.mdl	<-	3171580533\models\weapons\w_fal.mdl
+models/weapons/w_flare_projectile.mdl	<-	3171580533\models\weapons\w_flare_projectile.mdl
+models/weapons/w_g43.mdl	<-	3171580533\models\weapons\w_g43.mdl
+models/weapons/w_galil.mdl	<-	3171580533\models\weapons\w_galil.mdl
+models/weapons/w_galil_sar.mdl	<-	3171580533\models\weapons\w_galil_sar.mdl
+models/weapons/w_gren_spoon.mdl	<-	3171580533\models\weapons\w_gren_spoon.mdl
+models/weapons/w_grenade_enfield.mdl	<-	3352951512\models\weapons\upgrades\w_grenade_enfield.mdl
+models/weapons/w_grenade_kar98k.mdl	<-	3352951512\models\weapons\upgrades\w_grenade_kar98k.mdl
+models/weapons/w_grenade_springfield.mdl	<-	3352951512\models\weapons\upgrades\w_grenade_springfield.mdl
+models/weapons/w_gurkha.mdl	<-	3171580533\models\weapons\w_gurkha.mdl
+models/weapons/w_ied.mdl	<-	3171580533\models\weapons\w_ied.mdl
+models/weapons/w_kar98k.mdl	<-	3171580533\models\weapons\w_kar98k.mdl
+models/weapons/w_l1a1.mdl	<-	3171580533\models\weapons\w_l1a1.mdl
+models/weapons/w_m16.mdl	<-	3171580533\models\weapons\w_m16.mdl
+models/weapons/w_m18.mdl	<-	3171580533\models\weapons\w_m18.mdl
+models/weapons/w_m1a1.mdl	<-	3171580533\models\weapons\w_m1a1.mdl
+models/weapons/w_m249.mdl	<-	3171580533\models\weapons\w_m249.mdl
+models/weapons/w_m39.mdl	<-	3171580533\models\weapons\w_m39.mdl
+models/weapons/w_m40.mdl	<-	3171580533\models\weapons\w_m40.mdl
+models/weapons/w_m45.mdl	<-	3171580533\models\weapons\w_m45.mdl
+models/weapons/w_m4a1.mdl	<-	3171580533\models\weapons\w_m4a1.mdl
+models/weapons/w_m590.mdl	<-	3171580533\models\weapons\w_m590.mdl
+models/weapons/w_m67.mdl	<-	3171580533\models\weapons\w_m67.mdl
+models/weapons/w_m79.mdl	<-	3171580533\models\weapons\aof\w_m79.mdl
+models/weapons/w_m84.mdl	<-	3171580533\models\weapons\w_m84.mdl
+models/weapons/w_m9.mdl	<-	3171580533\models\weapons\w_m9.mdl
+models/weapons/w_mac10.mdl	<-	3171580533\models\weapons\ethereal\w_mac10.mdl
+models/weapons/w_makarov.mdl	<-	3171580533\models\weapons\w_makarov.mdl
+models/weapons/w_marinebayonet.mdl	<-	3171580533\models\weapons\w_marinebayonet.mdl
+models/weapons/w_mg34.mdl	<-	3352951512\models\weapons\w_mg34.mdl
+models/weapons/w_mg42.mdl	<-	3352951512\models\weapons\w_mg42.mdl
+models/weapons/w_mini14.mdl	<-	3171580533\models\weapons\w_mini14.mdl
+models/weapons/w_mk18.mdl	<-	3171580533\models\weapons\w_mk18.mdl
+models/weapons/w_molotov.mdl	<-	3171580533\models\weapons\w_molotov.mdl
+models/weapons/w_mosin.mdl	<-	3171580533\models\weapons\w_mosin.mdl
+models/weapons/w_mp40.mdl	<-	3171580533\models\weapons\w_mp40.mdl
+models/weapons/w_mp5k.mdl	<-	3171580533\models\weapons\w_mp5k.mdl
+models/weapons/w_p2a1.mdl	<-	3171580533\models\weapons\w_p2a1.mdl
+models/weapons/w_p90.mdl	<-	3171580533\models\weapons\w_p90.mdl
+models/weapons/w_rpg7.mdl	<-	3171580533\models\weapons\w_rpg7.mdl
+models/weapons/w_rpk.mdl	<-	3171580533\models\weapons\w_rpk.mdl
+models/weapons/w_sks.mdl	<-	3171580533\models\weapons\w_sks.mdl
+models/weapons/w_snub.mdl	<-	3171580533\models\weapons\w_snub.mdl
+models/weapons/w_splintering_stielhandgranate.mdl	<-	3171580533\models\weapons\w_splintering_stielhandgranate.mdl
+models/weapons/w_springfield.mdl	<-	3171580533\models\weapons\w_springfield.mdl
+models/weapons/w_sterling.mdl	<-	3171580533\models\weapons\w_sterling.mdl
+models/weapons/w_stg44.mdl	<-	3352951512\models\weapons\w_stg44.mdl
+models/weapons/w_tfa_arrow.mdl	<-	2840031720\models\weapons\w_tfa_arrow.mdl
+models/weapons/w_toz.mdl	<-	3171580533\models\weapons\w_toz.mdl
+models/weapons/w_ump45.mdl	<-	3171580533\models\weapons\w_ump45.mdl
+models/wystan/attachments/aimpoint.mdl	<-	2840031720\models\wystan\attachments\aimpoint.mdl
+models/wystan/attachments/akrailmount.mdl	<-	2840031720\models\wystan\attachments\akrailmount.mdl
+models/wystan/attachments/rail.mdl	<-	2840031720\models\wystan\attachments\rail.mdl
+
+=== ADAPTED PREFIX ===
+models/weapons/cw_cultist/m4a1_tech/w_m4a1_tech.mdl	<-	3171580533\models\weapons\cw_cultist\m4a1_tech\v_m4a1_tech.mdl
+models/weapons/w_bar.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_bar.mdl
+models/weapons/w_bazooka.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_bazooka.mdl
+models/weapons/w_binoculars_american.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_binoculars_american.mdl
+models/weapons/w_binoculars_british.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_binoculars_british.mdl
+models/weapons/w_binoculars_german.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_binoculars_german.mdl
+models/weapons/w_brassknuckles.mdl	<-	3171580533\models\weapons\cw_kk_doi_c054\v_brassknuckles.mdl
+models/weapons/w_bren.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_bren.mdl
+models/weapons/w_c96.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_c96.mdl
+models/weapons/w_c96_carbine.mdl	<-	3171580533\models\weapons\cw_kk_doi_c054\v_c96_carbine.mdl
+models/weapons/w_compb_allied.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_compb_allied.mdl
+models/weapons/w_compb_axis.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_compb_axis.mdl
+models/weapons/w_enfield.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_enfield.mdl
+models/weapons/w_etool_brit.mdl	<-	3352951512\models\weapons\kk_doi\v_etool_brit.mdl
+models/weapons/w_etool_ger.mdl	<-	3352951512\models\weapons\kk_doi\v_etool_ger.mdl
+models/weapons/w_etool_us.mdl	<-	3352951512\models\weapons\kk_doi\v_etool_us.mdl
+models/weapons/w_fairbairn.mdl	<-	3171580533\models\weapons\cw_kk_doi_c054\v_fairbairn.mdl
+models/weapons/w_fg42.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_fg42.mdl
+models/weapons/w_garand.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_garand.mdl
+models/weapons/w_gravityknife.mdl	<-	3171580533\models\weapons\cw_kk_doi_c054\v_gravityknife.mdl
+models/weapons/w_hatchet.mdl	<-	3171580533\models\weapons\cw_kk_doi_c054\v_hatchet.mdl
+models/weapons/w_ithaca.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_ithaca.mdl
+models/weapons/w_lewis.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_lewis.mdl
+models/weapons/w_lugerp08.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_lugerp08.mdl
+models/weapons/w_m1919.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_m1919.mdl
+models/weapons/w_m3greasegun.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_m3greasegun.mdl
+models/weapons/w_mills.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_mills.mdl
+models/weapons/w_mk2.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_mk2.mdl
+models/weapons/w_nebelhandgranate.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_nebelhandgranate.mdl
+models/weapons/w_no69.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_no69.mdl
+models/weapons/w_no77.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_no77.mdl
+models/weapons/w_no79.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_no79.mdl
+models/weapons/w_owen.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_owen.mdl
+models/weapons/w_p38.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_p38.mdl
+models/weapons/w_panzerfaust.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_panzerfaust.mdl
+models/weapons/w_panzerschreck.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_panzerschreck.mdl
+models/weapons/w_piat.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_piat.mdl
+models/weapons/w_ppk.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_ppk.mdl
+models/weapons/w_sten_mk5.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_sten_mk5.mdl
+models/weapons/w_stielhandgranate.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_stielhandgranate.mdl
+models/weapons/w_stiletto.mdl	<-	3171580533\models\weapons\cw_kk_doi_c054\v_stiletto.mdl
+models/weapons/w_sw1917.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_sw1917.mdl
+models/weapons/w_thompson.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_thompson.mdl
+models/weapons/w_thompson_m1a1.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_thompson_m1a1.mdl
+models/weapons/w_vickers.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_vickers.mdl
+models/weapons/w_webley.mdl	<-	3352951512\models\weapons\british\v_webley.mdl
+models/weapons/w_welrod.mdl	<-	3352951512\models\weapons\cw_kk_doi\v_welrod.mdl
+
+=== MISSING ===
+models/Combine_Helicopter/helicopter_bomb01.mdl
+models/Items/357ammo.mdl
+models/Items/BoxBuckshot.mdl
+models/Items/BoxMRounds.mdl
+models/Items/BoxSRounds.mdl
+models/Items/ammocrate_smg1.mdl
+models/Items/item_item_crate.mdl
+models/MaxOfS2D/camera.mdl
+models/bshields/dshield.mdl
+models/bshields/dshield_open.mdl
+models/bshields/rshield.mdl
+models/buildables/teleporter.mdl
+models/combine_helicopter/helicopter_bomb01.mdl
+models/cpthazama/scp/427.mdl
+models/cultist/heads/female/head_1.mdl
+models/cultist/heads/female/shaky/head_1.mdl
+models/cultist/heads/male/head_main_1.mdl
+models/cultist/heads/male/head_main_1_4.mdl
+models/cultist/humans/a9/a9.mdl
+models/cultist/humans/a9/a9_hood.mdl
+models/cultist/humans/a9/a9_modern.mdl
+models/cultist/humans/a9/head_gear/a9_helmet.mdl
+models/cultist/humans/goc/goc_female_commander.mdl
+models/cultist/humans/mog/mog_woman.mdl
+models/cultist/humans/mog/mog_woman_capt.mdl
+models/cultist/humans/mog/special_security_woman.mdl
+models/cultist/humans/nazi/head_gear/cap.mdl
+models/cultist/humans/nazi/nazi.mdl
+models/cultist/humans/ntf/ntf_female_sniper.mdl
+models/cultist/humans/obr/hands/c_arms_obr.mdl
+models/cultist/humans/obr/obr.mdl
+models/cultist/humans/osn/hands/c_arms_osn.mdl
+models/cultist/humans/osn/osn.mdl
+models/cultist/humans/russian/head_gear/cap.mdl
+models/cultist/humans/russian/russians.mdl
+models/cultist/humans/security/security_female.mdl
+models/cultist/humans/specialmod/american/american.mdl
+models/cultist/humans/specialmod/american/arms/c_arms_american.mdl
+models/cultist/humans/specialmod/nazi/arms/c_arms_nazi.mdl
+models/cultist/humans/specialmod/nazi/nazi.mdl
+models/cultist/scp_items/409/w_.mdl
+models/cw2/attachments/556suppressor.mdl
+models/cw2/attachments/9mmsuppressor.mdl
+models/cw2/attachments/anpeq15.mdl
+models/cw2/attachments/cturiselection/uarhandle.mdl
+models/cw2/attachments/kobra.mdl
+models/cw2/attachments/l96_scope.mdl
+models/cw2/attachments/lowerpistolrail.mdl
+models/cw2/attachments/m203.mdl
+models/cw2/attachments/microt1.mdl
+models/cw2/attachments/pbs1.mdl
+models/cw2/attachments/pso.mdl
+models/cw2/attachments/schmidt.mdl
+models/cw2/pistols/deagle.mdl
+models/cw2/pistols/mr96.mdl
+models/cw2/rifles/ak74.mdl
+models/cw2/rifles/ar15.mdl
+models/cw2/rifles/g3a3.mdl
+models/cw2/rifles/l96.mdl
+models/cw2/rifles/svd.mdl
+models/cw2/rifles/svd_world.mdl
+models/cw2/rifles/v_famasg2.mdl
+models/cw2/smgs/mp5.mdl
+models/cwkkdoi/shrek/clean.mdl
+models/cwkkdoi/shrek/clean_w.mdl
+models/cyox/pickable/kevlar_digitalcamo.mdl
+models/editor/playerstart.mdl
+models/effects/combineball.mdl
+models/error.mdl
+models/gibs/hgibs.mdl
+models/gmod4phun/60rndmag.mdl
+models/hdweapons/rifleshell_hd.mdl
+models/hdweapons/shell.mdl
+models/hdweapons/shell_hd.mdl
+models/hdweapons/shotgun_shell.mdl
+models/hdweapons/shotgun_shell_hd.mdl
+models/hunter/blocks/cube025x025x025.mdl
+models/hunter/blocks/cube025x05x025.mdl
+models/hunter/blocks/cube05x2x025.mdl
+models/hunter/blocks/cube2x3x025.mdl
+models/hunter/blocks/cube4x4x025.mdl
+models/hunter/blocks/cube8x8x8.mdl
+models/hunter/misc/sphere025x025.mdl
+models/hunter/misc/sphere375x375.mdl
+models/hunter/plates/plate.mdl
+models/hunter/plates/plate1x3.mdl
+models/hunter/plates/plate4x24.mdl
+models/hunter/plates/plate5x5.mdl
+models/hunter/tubes/circle2x2c.mdl
+models/jessev92/weapons/buddyfinder_c.mdl
+models/jessev92/weapons/buddyfinder_w.mdl
+models/maxofs2d/cube_tool.mdl
+models/nova/chair_plastic01.mdl
+models/player/Group01/male_01.mdl
+models/player/april/the_goose.mdl
+models/player/cheddar/ambassador/goc_male_07.mdl
+models/player/cheddar/goc/strike_team_soldier2/goc_striker_team.mdl
+models/player/cheddar/goc_soldier/goc_field_operative.mdl
+models/player/cheddar/goc_soldier/goc_officer.mdl
+models/player/cheddar/suit/orange_suit/orangesuit.mdl
+models/player/kerry/mikkelsen_player.mdl
+models/props/cs_assault/money.mdl
+models/props_c17/doll01.mdl
+models/props_c17/oildrum001.mdl
+models/props_debris/metal_panel01a.mdl
+models/props_junk/Rock001a.mdl
+models/props_junk/cinderblock01a.mdl
+models/props_junk/flare.mdl
+models/props_junk/popcan01a.mdl
+models/props_junk/watermelon01.mdl
+models/props_lab/binderredlabel.mdl
+models/props_lab/clipboard.mdl
+models/props_phx/carseat.mdl
+models/props_pipes/pipecluster08d_001a.mdl
+models/props_pipes/pipeset32d_128_001a.mdl
+models/props_rooftop/roof_dish001.mdl
+models/scp012comp/scp012comp.mdl
+models/scp_527/scp_527.mdl
+models/shaky/funnyheads/head_gremlin.mdl
+models/tdmcars/jeep_wrangler88.mdl
+models/trees/new_elm.mdl
+models/v_fas2_leupold_mounts.mdl
+models/vinrax/props/keycard.mdl
+models/weapons/Shotgun_shell.mdl
+models/weapons/a_m16a1_sling.mdl
+models/weapons/aof/v_machete.mdl
+models/weapons/aof/w_machete.mdl
+models/weapons/attachments/c_cw_kk_holosight.mdl
+models/weapons/attachments/kk_leupold_dpp.mdl
+models/weapons/beretta/insguns_v_beretta.mdl
+models/weapons/c_arms_animations.mdl
+models/weapons/c_toolgun.mdl
+models/weapons/cw_cultist/rpk74/_rpk74.mdl
+models/weapons/cwc_crowbar/v_cwc_cbar.mdl
+models/weapons/cwc_crowbar/w_knife_t.mdl
+models/weapons/fal/blvck.mdl
+models/weapons/fal/dosh.mdl
+models/weapons/fal/w_blvck.mdl
+models/weapons/fal/w_dosh.mdl
+models/weapons/flare.mdl
+models/weapons/rifleshell_hd.mdl
+models/weapons/scpid_d.mdl
+models/weapons/scpid_d_worldmodel.mdl
+models/weapons/scpid_jan.mdl
+models/weapons/scpid_jan_worldmodel.mdl
+models/weapons/shell.mdl
+models/weapons/shell_hd.mdl
+models/weapons/shotgun_shell_hd.mdl
+models/weapons/stattrack.mdl
+models/weapons/stattrack_cut.mdl
+models/weapons/svd/a_optic_pso.mdl
+models/weapons/uid.mdl
+models/weapons/unloaded/snip_awp_mag.mdl
+models/weapons/upgrades/.mdl
+models/weapons/upgrades/a_bipod_m16a1.mdl
+models/weapons/upgrades/a_ithaca_mag.mdl
+models/weapons/upgrades/a_ithaca_sling.mdl
+models/weapons/upgrades/a_ithaca_standard.mdl
+models/weapons/upgrades/a_laser_scar.mdl
+models/weapons/upgrades/a_m16a1_m203.mdl
+models/weapons/upgrades/a_m16a1_sling.mdl
+models/weapons/upgrades/a_m79_sling.mdl
+models/weapons/upgrades/a_magazine_m16_20.mdl
+models/weapons/upgrades/a_magazine_m16_30.mdl
+models/weapons/upgrades/a_magazine_m607_20.mdl
+models/weapons/upgrades/a_magazine_m607_30.mdl
+models/weapons/upgrades/a_nam_magazine_makarov_8.mdl
+models/weapons/upgrades/a_optic_pu_sks.mdl
+models/weapons/upgrades/a_optic_svt40_m.mdl
+models/weapons/upgrades/a_optics_m16a1.mdl
+models/weapons/upgrades/a_pso1.mdl
+models/weapons/upgrades/a_python_long.mdl
+models/weapons/upgrades/a_python_short.mdl
+models/weapons/upgrades/a_python_standard.mdl
+models/weapons/upgrades/a_redfield_m40.mdl
+models/weapons/upgrades/a_redfield_scope.mdl
+models/weapons/upgrades/a_sling_lewis.mdl
+models/weapons/upgrades/a_sling_thompson.mdl
+models/weapons/upgrades/a_sling_thompson_m1928a1.mdl
+models/weapons/upgrades/a_speedloader_python.mdl
+models/weapons/upgrades/a_standard_m16a1.mdl
+models/weapons/upgrades/a_stenmk2_stock_alt.mdl
+models/weapons/upgrades/a_stenmk2_stock_standard.mdl
+models/weapons/upgrades/a_stenmk5_stock_standard.mdl
+models/weapons/upgrades/a_suppressor_m16.mdl
+models/weapons/upgrades/a_suppressor_mac10.mdl
+models/weapons/upgrades/v_ppshdrum.mdl
+models/weapons/upgrades/v_ppshmag.mdl
+models/weapons/upgrades/v_ppshsling.mdl
+models/weapons/upgrades/w_bipod_m16a1.mdl
+models/weapons/upgrades/w_extendedmag_stanag.mdl
+models/weapons/upgrades/w_m16a1_m203.mdl
+models/weapons/upgrades/w_magazine_m16_20.mdl
+models/weapons/upgrades/w_magazine_m16_30.mdl
+models/weapons/upgrades/w_magazine_m607_20.mdl
+models/weapons/upgrades/w_magazine_m607_30.mdl
+models/weapons/upgrades/w_modkit_2.mdl
+models/weapons/upgrades/w_nam_redfield.mdl
+models/weapons/upgrades/w_optic_pu_sks.mdl
+models/weapons/upgrades/w_optics_m16a1.mdl
+models/weapons/upgrades/w_ppshdrum.mdl
+models/weapons/upgrades/w_ppshmag.mdl
+models/weapons/upgrades/w_ppshsling.mdl
+models/weapons/upgrades/w_pso1.mdl
+models/weapons/upgrades/w_python_long.mdl
+models/weapons/upgrades/w_python_short.mdl
+models/weapons/upgrades/w_python_standard.mdl
+models/weapons/upgrades/w_redfield_m40.mdl
+models/weapons/upgrades/w_scope_svt.mdl
+models/weapons/upgrades/w_standard_m16a1.mdl
+models/weapons/upgrades/w_suppressor_m16.mdl
+models/weapons/upgrades/w_suppressor_mac10.mdl
+models/weapons/upgrades/w_ugl.mdl
+models/weapons/v_MK18_kk.mdl
+models/weapons/v_cw_fraggrenade.mdl
+models/weapons/v_cw_kk_doi_hatchet_redux.mdl
+models/weapons/v_cw_kk_doi_m18.mdl
+models/weapons/v_eq_flashbang.mdl
+models/weapons/v_eq_smokegrenade.mdl
+models/weapons/v_hands_brit.mdl
+models/weapons/v_hands_brit_gloves.mdl
+models/weapons/v_hands_brit_indian.mdl
+models/weapons/v_hands_ger.mdl
+models/weapons/v_hands_ger_gloves.mdl
+models/weapons/v_hands_ger_gloves_paratrooper.mdl
+models/weapons/v_hands_ger_gloves_wehrmacht.mdl
+models/weapons/v_hands_ger_wehrmacht.mdl
+models/weapons/v_hands_nva.mdl
+models/weapons/v_hands_short_brit.mdl
+models/weapons/v_hands_short_brit_indian.mdl
+models/weapons/v_hands_short_ger.mdl
+models/weapons/v_hands_short_us.mdl
+models/weapons/v_hands_short_us_black.mdl
+models/weapons/v_hands_short_us_buffalo.mdl
+models/weapons/v_hands_short_us_nam.mdl
+models/weapons/v_hands_us.mdl
+models/weapons/v_hands_us_buffalo.mdl
+models/weapons/v_hands_us_glove.mdl
+models/weapons/v_hands_us_glove_airborne.mdl
+models/weapons/v_hands_ww1_brit.mdl
+models/weapons/v_hands_ww1_brit_gloves.mdl
+models/weapons/v_hands_ww1_ger.mdl
+models/weapons/v_hands_ww1_ger_gloves.mdl
+models/weapons/v_mk18_kk.mdl
+models/weapons/v_nam_akbayonet.mdl
+models/weapons/v_nam_akm.mdl
+models/weapons/v_nam_doublebarrel.mdl
+models/weapons/v_nam_geballteladung.mdl
+models/weapons/v_nam_hafthohlladung.mdl
+models/weapons/v_nam_hands_us.mdl
+models/weapons/v_nam_ithaca37.mdl
+models/weapons/v_nam_l34.mdl
+models/weapons/v_nam_law.mdl
+models/weapons/v_nam_m14.mdl
+models/weapons/v_nam_m16a1.mdl
+models/weapons/v_nam_m26.mdl
+models/weapons/v_nam_m26a2.mdl
+models/weapons/v_nam_m34.mdl
+models/weapons/v_nam_m40.mdl
+models/weapons/v_nam_m60.mdl
+models/weapons/v_nam_m607.mdl
+models/weapons/v_nam_m79.mdl
+models/weapons/v_nam_mat49.mdl
+models/weapons/v_nam_nambu.mdl
+models/weapons/v_nam_rdg1.mdl
+models/weapons/v_nam_rgd5.mdl
+models/weapons/v_nam_sawedoff.mdl
+models/weapons/v_nam_sks.mdl
+models/weapons/v_nam_stevens620.mdl
+models/weapons/v_nam_svd.mdl
+models/weapons/v_nam_svt40.mdl
+models/weapons/v_nam_sw39.mdl
+models/weapons/v_nam_tokarev.mdl
+models/weapons/v_nam_vz-61.mdl
+models/weapons/v_nam_vz58.mdl
+models/weapons/v_ppsh.mdl
+models/weapons/v_pythonrev.mdl
+models/weapons/w_357.mdl
+models/weapons/w_bayonet_enfield.mdl
+models/weapons/w_bayonet_garand.mdl
+models/weapons/w_bayonet_kar98k.mdl
+models/weapons/w_bazooka_projectile.mdl
+models/weapons/w_cstm_l96.mdl
+models/weapons/w_cw_fraggrenade_thrown.mdl
+models/weapons/w_cw_kk_css_m72.mdl
+models/weapons/w_cw_kk_ins2_at4_projectile_dods.mdl
+models/weapons/w_eintoss46.mdl
+models/weapons/w_eq_flashbang.mdl
+models/weapons/w_eq_flashbang_thrown.mdl
+models/weapons/w_eq_fraggrenade.mdl
+models/weapons/w_eq_smokegrenade.mdl
+models/weapons/w_eq_smokegrenade_thrown.mdl
+models/weapons/w_flammenwerfer41.mdl
+models/weapons/w_hafthohlladung.mdl
+models/weapons/w_knife_t.mdl
+models/weapons/w_lufboy.mdl
+models/weapons/w_m2.mdl
+models/weapons/w_magnade.mdl
+models/weapons/w_mat49.mdl
+models/weapons/w_missile.mdl
+models/weapons/w_nam_akbayonet.mdl
+models/weapons/w_nam_akm.mdl
+models/weapons/w_nam_geballteladung.mdl
+models/weapons/w_nam_ithaca37.mdl
+models/weapons/w_nam_law.mdl
+models/weapons/w_nam_m14.mdl
+models/weapons/w_nam_m16a1.mdl
+models/weapons/w_nam_m26.mdl
+models/weapons/w_nam_m26a2.mdl
+models/weapons/w_nam_m34.mdl
+models/weapons/w_nam_m40.mdl
+models/weapons/w_nam_m60.mdl
+models/weapons/w_nam_m607.mdl
+models/weapons/w_nam_nambu.mdl
+models/weapons/w_nam_rdg1.mdl
+models/weapons/w_nam_rgd5.mdl
+models/weapons/w_nam_sks.mdl
+models/weapons/w_nam_stevens620.mdl
+models/weapons/w_nam_svd.mdl
+models/weapons/w_nam_svt40.mdl
+models/weapons/w_nam_sw39.mdl
+models/weapons/w_nam_tokarev.mdl
+models/weapons/w_nam_vz58.mdl
+models/weapons/w_panzerfaust_projectile.mdl
+models/weapons/w_pist_deagle.mdl
+models/weapons/w_ppsh.mdl
+models/weapons/w_projectile_eintoss.mdl
+models/weapons/w_pythonrev.mdl
+models/weapons/w_rif_ak47.mdl
+models/weapons/w_rif_famas.mdl
+models/weapons/w_rif_m4a1.mdl
+models/weapons/w_sawedoff.mdl
+models/weapons/w_smg1.mdl
+models/weapons/w_smg_mp5.mdl
+models/weapons/w_snip_g3sg1.mdl
+models/weapons/w_sten.mdl
+models/weapons/w_toolgun.mdl
+models/weapons/w_vz61.mdl
+models/weapons/welrod/dosh.mdl
+models/wystan/Cmag.mdl
+models/wystan/attachments/2cog.mdl
+models/wystan/attachments/2otech557sight.mdl
+models/wystan/attachments/bipod.mdl
+models/wystan/attachments/foregrip1.mdl
+models/your/path/here.mdl
+models/your/wmodel/path/here.mdl

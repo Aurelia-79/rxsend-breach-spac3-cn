@@ -1,0 +1,368 @@
+﻿missing_ref,basename,candidates
+﻿models/bshields/dshield.mdl,dshield.mdl,
+models/bshields/dshield_open.mdl,dshield_open.mdl,
+models/bshields/rshield.mdl,rshield.mdl,
+models/buildables/teleporter.mdl,teleporter.mdl,0.63:3788788899/models/shaky/goc_teleporter.mdl | 0.63:3074044716/models/shaky/goc_teleporter.mdl
+models/cpthazama/scp/427.mdl,427.mdl,0.54:3788788899/models/cultist/scp_items/427/scp_427.mdl | 0.54:3074044716/models/cultist/scp_items/427/scp_427.mdl
+models/cultist/heads/female/head_1.mdl,head_1.mdl,0.68:3788788899/models/cultist/heads/male/male_head_1.mdl | 0.68:3074041351/models/cultist/heads/male/male_head_1.mdl | 0.65:3788788899/models/cultist/heads/female/female_head_1.mdl
+models/cultist/heads/female/shaky/head_1.mdl,head_1.mdl,0.68:3788788899/models/cultist/heads/male/male_head_1.mdl | 0.68:3074041351/models/cultist/heads/male/male_head_1.mdl | 0.65:3788788899/models/cultist/heads/female/female_head_1.mdl
+models/cultist/heads/male/head_main_1.mdl,head_main_1.mdl,0.76:3788795433/models/cultist/humans/security/heads/head_main.mdl | 0.76:3788795433/models/cultist/humans/obr/heads/head_main.mdl | 0.76:3788795433/models/cultist/humans/ntf/heads/head_main.mdl
+models/cultist/heads/male/head_main_1_4.mdl,head_main_1_4.mdl,0.63:3788795433/models/cultist/humans/security/heads/head_main.mdl | 0.63:3788795433/models/cultist/humans/obr/heads/head_main.mdl | 0.63:3788795433/models/cultist/humans/ntf/heads/head_main.mdl
+models/cultist/humans/a9/a9.mdl,a9.mdl,
+models/cultist/humans/a9/a9_hood.mdl,a9_hood.mdl,
+models/cultist/humans/a9/a9_modern.mdl,a9_modern.mdl,0.60:3171580533/models/weapons/cw_cultist/aks74_modern/w_aks74_modern.mdl | 0.60:3171580533/models/weapons/cw_cultist/aks74_modern/v_aks74_modern.mdl
+models/cultist/humans/a9/head_gear/a9_helmet.mdl,a9_helmet.mdl,0.62:3788795433/models/cultist/humans/security/head_gear/helmet.mdl | 0.62:3788795433/models/cultist/humans/ntf/head_gear/head_helmet.mdl | 0.62:3788795433/models/cultist/humans/fbi/head_gear/helmet.mdl
+models/cultist/humans/balaclavas/balaclava_full.mdl,balaclava_full.mdl,1.00:3074041351/models/cultist/humans/balaclavas_new/balaclava_full.mdl | 1.00:3788788899/models/cultist/humans/balaclavas_new/balaclava_full.mdl
+models/cultist/humans/goc/goc_female_commander.mdl,goc_female_commander.mdl,
+models/cultist/humans/mog/mog_woman.mdl,mog_woman.mdl,0.57:3219744427/models/cultist/humans/fbi/fbi_woman.mdl | 0.55:3788795433/models/cultist/humans/mog/mog_hazmat.mdl | 0.55:3074010797/models/cultist/humans/mog/mog_hazmat.mdl
+models/cultist/humans/mog/mog_woman_capt.mdl,mog_woman_capt.mdl,
+models/cultist/humans/mog/special_security_woman.mdl,special_security_woman.mdl,0.74:3788795433/models/cultist/humans/mog/special_security.mdl | 0.74:3074010797/models/cultist/humans/mog/special_security.mdl
+models/cultist/humans/nazi/head_gear/cap.mdl,cap.mdl,0.54:3788795433/models/cultist/humans/fbi/head_gear/cap_com.mdl | 0.54:3074010797/models/cultist/humans/fbi/head_gear/cap_com.mdl | 0.52:3788795433/models/cultist/humans/mog/head_gear/cap_engi.mdl
+models/cultist/humans/nazi/head_gear/helmet_1.mdl,helmet_1.mdl,1.00:3074010797/models/cultist/humans/goc/head/helmet_1.mdl | 1.00:3074010797/models/cultist/humans/obr/head_gear/helmet_1.mdl | 1.00:3788795433/models/cultist/humans/goc/head/helmet_1.mdl | 1.00:3788795433/models/cultist/humans/obr/head_gear/helmet_1.mdl
+models/cultist/humans/nazi/nazi.mdl,nazi.mdl,
+models/cultist/humans/ntf/ntf_female_sniper.mdl,ntf_female_sniper.mdl,0.65:3788795433/models/cultist/humans/ntf/head_gear/ntf_sniper_head.mdl | 0.65:3074010797/models/cultist/humans/ntf/head_gear/ntf_sniper_head.mdl
+models/cultist/humans/obr/hands/c_arms_obr.mdl,c_arms_obr.mdl,0.72:3788795433/models/cultist/humans/obr/hands/c_arms_obr_new.mdl | 0.72:3074010797/models/cultist/humans/obr/hands/c_arms_obr_new.mdl | 0.60:3788795433/models/cultist/humans/mog/hands/c_arms_mog.mdl
+models/cultist/humans/obr/obr.mdl,obr.mdl,0.54:3788795433/models/cultist/humans/obr/obr_new.mdl | 0.54:3074010797/models/cultist/humans/obr/obr_new.mdl
+models/cultist/humans/osn/hands/c_arms_osn.mdl,c_arms_osn.mdl,0.61:3788795433/models/cultist/humans/chaos/hands/c_arms_chaos.mdl | 0.61:3074010797/models/cultist/humans/chaos/hands/c_arms_chaos.mdl | 0.60:3788795433/models/cultist/humans/sci/hands/c_arms_sci.mdl
+models/cultist/humans/osn/headgear/helmet_1.mdl,helmet_1.mdl,1.00:3074010797/models/cultist/humans/goc/head/helmet_1.mdl | 1.00:3074010797/models/cultist/humans/obr/head_gear/helmet_1.mdl | 1.00:3788795433/models/cultist/humans/goc/head/helmet_1.mdl | 1.00:3788795433/models/cultist/humans/obr/head_gear/helmet_1.mdl
+models/cultist/humans/osn/osn.mdl,osn.mdl,
+models/cultist/humans/russian/hands/c_arms_russians.mdl,c_arms_russians.mdl,1.00:3168756944/models/cultist/humans/gru/hands/c_arms_russians.mdl | 1.00:3396736910/models/cultist/humans/gru/hands/c_arms_russians.mdl
+models/cultist/humans/russian/head_gear/cap.mdl,cap.mdl,0.54:3788795433/models/cultist/humans/fbi/head_gear/cap_com.mdl | 0.54:3074010797/models/cultist/humans/fbi/head_gear/cap_com.mdl | 0.52:3788795433/models/cultist/humans/mog/head_gear/cap_engi.mdl
+models/cultist/humans/russian/head_gear/helmet_1.mdl,helmet_1.mdl,1.00:3074010797/models/cultist/humans/goc/head/helmet_1.mdl | 1.00:3074010797/models/cultist/humans/obr/head_gear/helmet_1.mdl | 1.00:3788795433/models/cultist/humans/goc/head/helmet_1.mdl | 1.00:3788795433/models/cultist/humans/obr/head_gear/helmet_1.mdl
+models/cultist/humans/russian/head_gear/helmet_2.mdl,helmet_2.mdl,1.00:3074010797/models/cultist/humans/goc/head/helmet_2.mdl | 1.00:3788795433/models/cultist/humans/goc/head/helmet_2.mdl
+models/cultist/humans/russian/head_gear/helmet_beret.mdl,helmet_beret.mdl,1.00:3074010797/models/cultist/humans/mog/head_gear/helmet_beret.mdl | 1.00:3074010797/models/cultist/humans/ntf/head_gear/helmet_beret.mdl | 1.00:3074010797/models/cultist/humans/obr/head_gear/helmet_beret.mdl | 1.00:3074010797/models/cultist/humans/security/head_gear/helmet_beret.mdl | 1.00:3788795433/models/cultist/humans/mog/head_gear/helmet_beret.mdl | 1.00:3788795433/models/cultist/humans/ntf/head_gear/helmet_beret.mdl | 1.00:3788795433/models/cultist/humans/obr/head_gear/helmet_beret.mdl | 1.00:3788795433/models/cultist/humans/security/head_gear/helmet_beret.mdl
+models/cultist/humans/russian/russians.mdl,russians.mdl,0.60:3396736910/models/cultist/humans/gru/hands/c_arms_russians.mdl | 0.60:3168756944/models/cultist/humans/gru/hands/c_arms_russians.mdl
+models/cultist/humans/security/security_female.mdl,security_female.mdl,0.58:3788795433/models/cultist/humans/sci/scientist_female.mdl | 0.58:3074010797/models/cultist/humans/sci/scientist_female.mdl | 0.58:3788795433/models/cultist/humans/security/security.mdl
+models/cultist/humans/specialmod/american/american.mdl,american.mdl,0.54:3352951512/models/weapons/cw_kk_doi/v_binoculars_american.mdl
+models/cultist/humans/specialmod/american/arms/c_arms_american.mdl,c_arms_american.mdl,0.61:3788795433/models/cultist/humans/mog/hands/c_arms_admin.mdl | 0.61:3074010797/models/cultist/humans/mog/hands/c_arms_admin.mdl | 0.60:3352951512/models/weapons/cw_kk_doi/v_binoculars_american.mdl
+models/cultist/humans/specialmod/american/headgear/helmet.mdl,helmet.mdl,1.00:3074010797/models/cultist/humans/chaos/head_gear/helmet.mdl | 1.00:3074010797/models/cultist/humans/fbi/head_gear/helmet.mdl | 1.00:3074010797/models/cultist/humans/security/head_gear/helmet.mdl | 1.00:3788795433/models/cultist/humans/chaos/head_gear/helmet.mdl | 1.00:3788795433/models/cultist/humans/fbi/head_gear/helmet.mdl | 1.00:3788795433/models/cultist/humans/security/head_gear/helmet.mdl
+models/cultist/humans/specialmod/nazi/arms/c_arms_nazi.mdl,c_arms_nazi.mdl,0.60:3788795433/models/cultist/humans/dz/hands/c_arms_dz.mdl | 0.60:3074010797/models/cultist/humans/dz/hands/c_arms_dz.mdl | 0.58:3788795433/models/cultist/humans/sci/hands/c_arms_sci.mdl
+models/cultist/humans/specialmod/nazi/headgear/helmet.mdl,helmet.mdl,1.00:3074010797/models/cultist/humans/chaos/head_gear/helmet.mdl | 1.00:3074010797/models/cultist/humans/fbi/head_gear/helmet.mdl | 1.00:3074010797/models/cultist/humans/security/head_gear/helmet.mdl | 1.00:3788795433/models/cultist/humans/chaos/head_gear/helmet.mdl | 1.00:3788795433/models/cultist/humans/fbi/head_gear/helmet.mdl | 1.00:3788795433/models/cultist/humans/security/head_gear/helmet.mdl
+models/cultist/humans/specialmod/nazi/nazi.mdl,nazi.mdl,
+models/cultist/scp_items/409/w_.mdl,w_.mdl,
+models/cw2/attachments/556suppressor.mdl,556suppressor.mdl,
+models/cw2/attachments/9mmsuppressor.mdl,9mmsuppressor.mdl,
+models/cw2/attachments/anpeq15.mdl,anpeq15.mdl,
+models/cw2/attachments/cturiselection/uarhandle.mdl,uarhandle.mdl,
+models/cw2/attachments/kobra.mdl,kobra.mdl,1.00:3171580533/models/weapons/upgrades/w_kobra.mdl | 0.55:3171580533/models/weapons/upgrades/a_optic_kobra.mdl
+models/cw2/attachments/l96_scope.mdl,l96_scope.mdl,0.57:3171580533/models/weapons/ethereal/upgrades/w_m14_scope.mdl | 0.57:3171580533/models/weapons/ethereal/upgrades/a_m14_scope.mdl | 0.55:3352951512/models/weapons/upgrades/w_fg42_scope.mdl
+models/cw2/attachments/lowerpistolrail.mdl,lowerpistolrail.mdl,
+models/cw2/attachments/m203.mdl,m203.mdl,1.00:3171580533/models/weapons/upgrades/w_m203.mdl | 1.00:3171506839/models/weapons/tfa_cod/mwr/att/c_m203.mdl | 0.59:3171580533/models/weapons/upgrades/a_gl_m203.mdl
+models/cw2/attachments/microt1.mdl,microt1.mdl,
+models/cw2/attachments/pbs1.mdl,pbs1.mdl,0.62:3171580533/models/weapons/ethereal/upgrades/f_pbs1.mdl
+models/cw2/attachments/pso.mdl,pso.mdl,
+models/cw2/attachments/schmidt.mdl,schmidt.mdl,
+models/cw2/pistols/deagle.mdl,deagle.mdl,1.00:3171580533/models/weapons/ethereal/w_deagle.mdl | 1.00:3171580533/models/weapons/ethereal/v_deagle.mdl | 1.00:3171580533/models/weapons/cw_cultist/deagle/w_deagle.mdl
+models/cw2/pistols/mr96.mdl,mr96.mdl,1.00:3171580533/models/weapons/ethereal/w_mr96.mdl | 1.00:3171580533/models/weapons/ethereal/v_mr96.mdl | 0.53:3171580533/models/weapons/ethereal/v_mr96_anims.mdl
+models/cw2/rifles/ak74.mdl,ak74.mdl,1.00:3171580533/models/weapons/w_ak74.mdl | 1.00:3171580533/models/weapons/v_ak74.mdl | 1.00:3171580533/models/weapons/ethereal/w_ak74.mdl
+models/cw2/rifles/ar15.mdl,ar15.mdl,
+models/cw2/rifles/g3a3.mdl,g3a3.mdl,1.00:3171580533/models/weapons/ethereal/w_g3a3.mdl | 1.00:3171580533/models/weapons/ethereal/v_g3a3.mdl
+models/cw2/rifles/l96.mdl,l96.mdl,
+models/cw2/rifles/svd.mdl,svd.mdl,1.00:3171580533/models/weapons/ethereal/w_svd.mdl | 1.00:3171580533/models/weapons/ethereal/v_svd.mdl | 1.00:3171580533/models/weapons/cw_cultist/svd/w_svd.mdl
+models/cw2/rifles/svd_world.mdl,svd_world.mdl,0.50:3171580533/models/weapons/ethereal/w_svd.mdl | 0.50:3171580533/models/weapons/ethereal/v_svd.mdl | 0.50:3171580533/models/weapons/cw_cultist/svd/w_svd.mdl
+models/cw2/rifles/v_famasg2.mdl,v_famasg2.mdl,
+models/cw2/smgs/mp5.mdl,mp5.mdl,
+models/cwkkdoi/shrek/clean.mdl,clean.mdl,
+models/cwkkdoi/shrek/clean_w.mdl,clean_w.mdl,
+models/cwkkdoi/w_cw_kk_doi_m1.mdl,w_cw_kk_doi_m1.mdl,1.00:3171580533/models/weapons/w_cw_kk_doi_m1.mdl
+models/cyox/mog/mog.mdl,mog.mdl,1.00:3074010797/models/cultist/humans/mog/mog.mdl | 1.00:3788795433/models/cultist/humans/mog/mog.mdl
+models/cyox/pickable/kevlar_digitalcamo.mdl,kevlar_digitalcamo.mdl,
+models/cyox/scp/173.mdl,173.mdl,1.00:3074029785/models/cultist/scp/173.mdl | 1.00:3788784337/models/cultist/scp/173.mdl
+models/gmod4phun/60rndmag.mdl,60rndmag.mdl,
+models/goc_hands/c_arms_goc.mdl,c_arms_goc.mdl,1.00:3074010797/models/cultist/humans/goc/hands/c_arms_goc.mdl | 1.00:3788795433/models/cultist/humans/goc/hands/c_arms_goc.mdl
+models/hdweapons/rifleshell.mdl,rifleshell.mdl,1.00:2840031720/models/tfa/rifleshell.mdl | 1.00:3171506839/models/tfa/rifleshell.mdl
+models/hdweapons/rifleshell_hd.mdl,rifleshell_hd.mdl,0.65:3171506839/models/tfa/rifleshell.mdl | 0.65:2840031720/models/tfa/rifleshell.mdl
+models/hdweapons/shell.mdl,shell.mdl,0.57:3171506839/models/weapons/tfa_bo3/ex41/ex41_shell.mdl | 0.50:3352951512/models/weapons/shells/artillery_shell.mdl
+models/hdweapons/shell_hd.mdl,shell_hd.mdl,0.52:3171506839/models/weapons/tfa_bo3/ex41/ex41_shell.mdl
+models/hdweapons/shotgun_shell.mdl,shotgun_shell.mdl,0.58:3788784337/models/cultist/scp/scp_973/weapons/w_shotgun.mdl | 0.58:3788784337/models/cultist/scp/scp_973/weapons/v_shotgun.mdl | 0.58:3074029785/models/cultist/scp/scp_973/weapons/w_shotgun.mdl
+models/hdweapons/shotgun_shell_hd.mdl,shotgun_shell_hd.mdl,
+models/jessev92/weapons/buddyfinder_c.mdl,buddyfinder_c.mdl,
+models/jessev92/weapons/buddyfinder_w.mdl,buddyfinder_w.mdl,
+models/MaxOfS2D/camera.mdl,camera.mdl,
+models/maxofs2d/cube_tool.mdl,cube_tool.mdl,
+models/maxofs2d/motion_sensor.mdl,motion_sensor.mdl,
+models/mishka/models/scp714.mdl,scp714.mdl,1.00:3074044716/models/cultist/scp_items/714/scp714.mdl | 1.00:3788788899/models/cultist/scp_items/714/scp714.mdl
+models/nova/chair_plastic01.mdl,chair_plastic01.mdl,0.54:3788798983/models/props_gffice/chair_casual.mdl | 0.54:3074023535/models/props_gffice/chair_casual.mdl | 0.53:3788798983/models/props_interiors/chair_office2.mdl
+models/player/april/the_goose.mdl,the_goose.mdl,0.58:3493961938/models/weapons/charming_discussion/wm_goose.mdl | 0.58:3493961938/models/weapons/charming_discussion/vm_goose.mdl
+models/player/cheddar/ambassador/goc_male_07.mdl,goc_male_07.mdl,
+models/player/cheddar/goc/strike_team_soldier2/goc_striker_team.mdl,goc_striker_team.mdl,
+models/player/cheddar/goc_soldier/goc_field_operative.mdl,goc_field_operative.mdl,
+models/player/cheddar/goc_soldier/goc_officer.mdl,goc_officer.mdl,0.53:3788788899/models/props_breach/goc_shield.mdl | 0.53:3074044716/models/props_breach/goc_shield.mdl | 0.52:3788788899/models/shaky/goc_teleporter.mdl
+models/player/cheddar/suit/orange_suit/orangesuit.mdl,orangesuit.mdl,
+models/player/kerry/mikkelsen_player.mdl,mikkelsen_player.mdl,
+models/props/cs_assault/money.mdl,money.mdl,
+models/scp_527/scp_527.mdl,scp_527.mdl,0.64:3788788899/models/cultist/scp_items/427/scp_427.mdl | 0.64:3788788899/models/cultist/scp_items/207/w_scp_207.mdl | 0.64:3788788899/models/cultist/scp_items/207/v_scp_207.mdl
+models/scp012comp/scp012comp.mdl,scp012comp.mdl,
+models/shaky/funnyheads/head_gremlin.mdl,head_gremlin.mdl,0.60:3788795433/models/cultist/humans/security/heads/head_main.mdl | 0.60:3788795433/models/cultist/humans/obr/heads/head_main.mdl | 0.60:3788795433/models/cultist/humans/ntf/heads/head_main.mdl
+models/tdmcars/jeep_wrangler88.mdl,jeep_wrangler88.mdl,
+models/trees/new_elm.mdl,new_elm.mdl,0.55:3788798983/models/shaky/new_anims.mdl | 0.55:3074046594/models/shaky/new_anims.mdl
+models/v_fas2_leupold_mounts.mdl,v_fas2_leupold_mounts.mdl,
+models/vinrax/props/keycard.mdl,keycard.mdl,1.00:3788788899/models/cultist/items/keycards/w_keycard.mdl | 1.00:3788788899/models/cultist/items/keycards/v_keycard.mdl | 1.00:3074044716/models/cultist/items/keycards/w_keycard.mdl
+models/weapons/aof/v_machete.mdl,v_machete.mdl,
+models/weapons/aof/w_machete.mdl,w_machete.mdl,
+models/weapons/attachments/c_cw_kk_holosight.mdl,c_cw_kk_holosight.mdl,0.57:3171580533/models/weapons/attachments/w_cw_kk_ins2_flipsight.mdl | 0.57:3171580533/models/weapons/attachments/v_cw_kk_ins2_flipsight.mdl | 0.54:3171580533/models/weapons/w_cw_kk_doi_m1.mdl
+models/weapons/attachments/kk_leupold_dpp.mdl,kk_leupold_dpp.mdl,
+models/weapons/beretta/insguns_v_beretta.mdl,insguns_v_beretta.mdl,
+models/weapons/c_arms_animations.mdl,c_arms_animations.mdl,0.63:3788798983/models/mpf_animations.mdl | 0.63:3074046594/models/mpf_animations.mdl | 0.58:3788795433/models/cultist/humans/mog/hands/c_arms_hazmat.mdl
+models/weapons/cw_cultist/ak12/weapons/upgrades/w_foregrip_wood_2.mdl,w_foregrip_wood_2.mdl,1.00:3171580533/models/weapons/cw_cultist/ak117/upgrades/w_foregrip_wood_2.mdl | 1.00:3171580533/models/weapons/cw_cultist/ak12/upgrades/w_foregrip_wood_2.mdl | 1.00:3171580533/models/weapons/ethereal/ak74z_upgrades/w_foregrip_wood_2.mdl | 1.00:3171580533/models/weapons/upgrades/w_foregrip_wood_2.mdl
+models/weapons/cw_cultist/d4/upgrades/a_standard_mk18.mdl,a_standard_mk18.mdl,1.00:3171580533/models/weapons/cw_cultist/acr/upgrades/a_standard_mk18.mdl | 1.00:3171580533/models/weapons/cw_cultist/arx/upgrades/a_standard_mk18.mdl | 1.00:3171580533/models/weapons/cw_cultist/freedom/upgrades/a_standard_mk18.mdl | 1.00:3171580533/models/weapons/cw_cultist/hk416c/upgrades/a_standard_mk18.mdl | 1.00:3171580533/models/weapons/cw_cultist/imbel/upgrades/a_standard_mk18.mdl | 1.00:3171580533/models/weapons/cw_cultist/sq300/upgrades/a_standard_mk18.mdl | 1.00:3171580533/models/weapons/upgrades/a_standard_mk18.mdl
+models/weapons/cw_cultist/d4/upgrades/a_standard2_mk18.mdl,a_standard2_mk18.mdl,1.00:3171580533/models/weapons/cw_cultist/arx/upgrades/a_standard2_mk18.mdl | 1.00:3171580533/models/weapons/cw_cultist/freedom/upgrades/a_standard2_mk18.mdl | 1.00:3171580533/models/weapons/cw_cultist/imbel/upgrades/a_standard2_mk18.mdl | 1.00:3171580533/models/weapons/cw_cultist/qbz/upgrades/a_standard2_mk18.mdl | 1.00:3171580533/models/weapons/cw_cultist/sq300/upgrades/a_standard2_mk18.mdl | 1.00:3171580533/models/weapons/mk18mod1/upgrades/a_standard2_mk18.mdl | 1.00:3171580533/models/weapons/upgrades/a_standard2_mk18.mdl
+models/weapons/cw_cultist/d4/upgrades/w_flipup2.mdl,w_flipup2.mdl,1.00:3171580533/models/weapons/cw_cultist/acr/upgrades/w_flipup2.mdl | 1.00:3171580533/models/weapons/cw_cultist/arx/upgrades/w_flipup2.mdl | 1.00:3171580533/models/weapons/cw_cultist/hk416c/upgrades/w_flipup2.mdl | 1.00:3171580533/models/weapons/cw_cultist/imbel/upgrades/w_flipup2.mdl | 1.00:3171580533/models/weapons/ethereal/upgrades/w_flipup2.mdl | 1.00:3171580533/models/weapons/upgrades/w_flipup2.mdl
+models/weapons/cw_cultist/groza/upgrades/upgrades/a_modkit_07.mdl,a_modkit_07.mdl,1.00:3171580533/models/weapons/cw_cultist/groza/upgrades/a_modkit_07.mdl | 1.00:3171580533/models/weapons/ethereal/ak74uz_upgrades/a_modkit_07.mdl | 1.00:3171580533/models/weapons/upgrades/a_modkit_07.mdl
+models/weapons/cw_cultist/m4a1_tech/w_m4a1_tech.mdl,w_m4a1_tech.mdl,1.00:3171580533/models/weapons/cw_cultist/m4a1_tech/v_m4a1_tech.mdl | 0.55:3171580533/models/weapons/w_m4a1.mdl | 0.55:3171580533/models/weapons/v_m4a1.mdl
+models/weapons/cw_cultist/rpk74/_rpk74.mdl,_rpk74.mdl,0.96:3171580533/models/weapons/cw_cultist/rpk74/w_rpk74.mdl | 0.96:3171580533/models/weapons/cw_cultist/rpk74/v_rpk74.mdl
+models/weapons/cw_cultist/uar556/upgrades/a_standard2_m4a1.mdl,a_standard2_m4a1.mdl,1.00:3171580533/models/weapons/upgrades/a_standard2_m4a1.mdl
+models/weapons/cw_cultist/upgrades/a_standard_mk18.mdl,a_standard_mk18.mdl,1.00:3171580533/models/weapons/cw_cultist/acr/upgrades/a_standard_mk18.mdl | 1.00:3171580533/models/weapons/cw_cultist/arx/upgrades/a_standard_mk18.mdl | 1.00:3171580533/models/weapons/cw_cultist/freedom/upgrades/a_standard_mk18.mdl | 1.00:3171580533/models/weapons/cw_cultist/hk416c/upgrades/a_standard_mk18.mdl | 1.00:3171580533/models/weapons/cw_cultist/imbel/upgrades/a_standard_mk18.mdl | 1.00:3171580533/models/weapons/cw_cultist/sq300/upgrades/a_standard_mk18.mdl | 1.00:3171580533/models/weapons/upgrades/a_standard_mk18.mdl
+models/weapons/cw_cultist/upgrades/w_flipup2.mdl,w_flipup2.mdl,1.00:3171580533/models/weapons/cw_cultist/acr/upgrades/w_flipup2.mdl | 1.00:3171580533/models/weapons/cw_cultist/arx/upgrades/w_flipup2.mdl | 1.00:3171580533/models/weapons/cw_cultist/hk416c/upgrades/w_flipup2.mdl | 1.00:3171580533/models/weapons/cw_cultist/imbel/upgrades/w_flipup2.mdl | 1.00:3171580533/models/weapons/ethereal/upgrades/w_flipup2.mdl | 1.00:3171580533/models/weapons/upgrades/w_flipup2.mdl
+models/weapons/cw_kk_doi/v_anm14.mdl,v_anm14.mdl,1.00:3171580533/models/weapons/v_anm14.mdl | 1.00:3171580533/models/weapons/ethereal/v_anm14.mdl
+models/weapons/cwc_crowbar/v_cwc_cbar.mdl,v_cwc_cbar.mdl,
+models/weapons/cwc_crowbar/w_knife_t.mdl,w_knife_t.mdl,0.60:3788795433/models/cultist/humans/fbi/weapons/knife/w_knife_fbi.mdl | 0.60:3788795433/models/cultist/humans/fbi/weapons/knife/v_knife_fbi.mdl | 0.60:3074010797/models/cultist/humans/fbi/weapons/knife/w_knife_fbi.mdl
+models/weapons/fal/blvck.mdl,blvck.mdl,
+models/weapons/fal/dosh.mdl,dosh.mdl,
+models/weapons/fal/w_blvck.mdl,w_blvck.mdl,
+models/weapons/fal/w_dosh.mdl,w_dosh.mdl,
+models/weapons/flare.mdl,flare.mdl,
+models/weapons/rifleshell.mdl,rifleshell.mdl,1.00:2840031720/models/tfa/rifleshell.mdl | 1.00:3171506839/models/tfa/rifleshell.mdl
+models/weapons/rifleshell_hd.mdl,rifleshell_hd.mdl,0.65:3171506839/models/tfa/rifleshell.mdl | 0.65:2840031720/models/tfa/rifleshell.mdl
+models/weapons/scpid_d.mdl,scpid_d.mdl,
+models/weapons/scpid_d_worldmodel.mdl,scpid_d_worldmodel.mdl,
+models/weapons/scpid_jan.mdl,scpid_jan.mdl,
+models/weapons/scpid_jan_worldmodel.mdl,scpid_jan_worldmodel.mdl,
+models/weapons/shell.mdl,shell.mdl,0.57:3171506839/models/weapons/tfa_bo3/ex41/ex41_shell.mdl | 0.50:3352951512/models/weapons/shells/artillery_shell.mdl
+models/weapons/shell_hd.mdl,shell_hd.mdl,0.52:3171506839/models/weapons/tfa_bo3/ex41/ex41_shell.mdl
+models/weapons/Shotgun_shell.mdl,shotgun_shell.mdl,0.58:3788784337/models/cultist/scp/scp_973/weapons/w_shotgun.mdl | 0.58:3788784337/models/cultist/scp/scp_973/weapons/v_shotgun.mdl | 0.58:3074029785/models/cultist/scp/scp_973/weapons/w_shotgun.mdl
+models/weapons/shotgun_shell_hd.mdl,shotgun_shell_hd.mdl,
+models/weapons/stattrack.mdl,stattrack.mdl,
+models/weapons/stattrack_cut.mdl,stattrack_cut.mdl,
+models/weapons/svd/a_optic_pso.mdl,a_optic_pso.mdl,0.60:3171580533/models/weapons/upgrades/a_optic_po4x24.mdl | 0.60:3171580533/models/weapons/upgrades/a_optic_pistoldot.mdl | 0.59:3171580533/models/weapons/upgrades/a_optic_scar.mdl
+models/weapons/svd/v_svd.mdl,v_svd.mdl,1.00:3171580533/models/weapons/cw_cultist/svd/v_svd.mdl | 1.00:3171580533/models/weapons/ethereal/v_svd.mdl
+models/weapons/uid.mdl,uid.mdl,
+models/weapons/unloaded/snip_awp_mag.mdl,snip_awp_mag.mdl,
+models/weapons/upgraded/a_flashlight_rail.mdl,a_flashlight_rail.mdl,1.00:3171580533/models/weapons/upgrades/a_flashlight_rail.mdl
+models/weapons/v_bar.mdl,v_bar.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_bar.mdl
+models/weapons/v_bazooka.mdl,v_bazooka.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_bazooka.mdl
+models/weapons/v_binoculars_american.mdl,v_binoculars_american.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_binoculars_american.mdl
+models/weapons/v_binoculars_british.mdl,v_binoculars_british.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_binoculars_british.mdl
+models/weapons/v_binoculars_german.mdl,v_binoculars_german.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_binoculars_german.mdl
+models/weapons/v_brassknuckles.mdl,v_brassknuckles.mdl,1.00:3171580533/models/weapons/cw_kk_doi_c054/v_brassknuckles.mdl | 1.00:3352951512/models/weapons/kk_doi/v_brassknuckles.mdl
+models/weapons/v_bren.mdl,v_bren.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_bren.mdl
+models/weapons/v_browninghp.mdl,v_browninghp.mdl,1.00:3171580533/models/weapons/browninghp/v_browninghp.mdl | 1.00:3352951512/models/weapons/cw_kk_doi/v_browninghp.mdl
+models/weapons/v_c96.mdl,v_c96.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_c96.mdl
+models/weapons/v_c96_carbine.mdl,v_c96_carbine.mdl,1.00:3171580533/models/weapons/cw_kk_doi_c054/v_c96_carbine.mdl | 1.00:3352951512/models/weapons/cw_kk_doi/v_c96_carbine.mdl
+models/weapons/v_cw_fraggrenade.mdl,v_cw_fraggrenade.mdl,
+models/weapons/v_cw_kk_doi_hatchet_redux.mdl,v_cw_kk_doi_hatchet_redux.mdl,0.63:3171580533/models/weapons/v_cw_kk_doi_garand.mdl | 0.62:3171580533/models/weapons/v_cw_kk_doi_enfield.mdl | 0.61:3171580533/models/weapons/v_cw_kk_doi_m3a1_a.mdl
+models/weapons/v_cw_kk_doi_m18.mdl,v_cw_kk_doi_m18.mdl,0.83:3171580533/models/weapons/w_cw_kk_doi_m1.mdl | 0.81:3171580533/models/weapons/v_cw_kk_doi_m3a1.mdl | 0.81:3171580533/models/weapons/v_cw_kk_doi_1928.mdl
+models/weapons/v_enfield_bayonet.mdl,v_enfield_bayonet.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_enfield_bayonet.mdl
+models/weapons/v_eq_flashbang.mdl,v_eq_flashbang.mdl,
+models/weapons/v_eq_smokegrenade.mdl,v_eq_smokegrenade.mdl,
+models/weapons/v_etool_brit.mdl,v_etool_brit.mdl,1.00:3352951512/models/weapons/kk_doi/v_etool_brit.mdl
+models/weapons/v_etool_us.mdl,v_etool_us.mdl,1.00:3352951512/models/weapons/kk_doi/v_etool_us.mdl
+models/weapons/v_fairbairn.mdl,v_fairbairn.mdl,1.00:3171580533/models/weapons/cw_kk_doi_c054/v_fairbairn.mdl
+models/weapons/v_fg42.mdl,v_fg42.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_fg42.mdl
+models/weapons/v_flame_eintoss46.mdl,v_flame_eintoss46.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_flame_eintoss46.mdl
+models/weapons/v_g43.mdl,v_g43.mdl,1.00:3171580533/models/weapons/cw_kk_doi/v_g43.mdl | 1.00:3352951512/models/weapons/cw_kk_doi/v_g43.mdl
+models/weapons/v_garand.mdl,v_garand.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_garand.mdl
+models/weapons/v_gravityknife.mdl,v_gravityknife.mdl,1.00:3171580533/models/weapons/cw_kk_doi_c054/v_gravityknife.mdl
+models/weapons/v_hands_brit.mdl,v_hands_brit.mdl,0.59:3171580533/models/weapons/v_hands_vip.mdl | 0.59:3171580533/models/weapons/ethereal/v_hands_vip.mdl | 0.58:3788784337/models/cultist/scp/610/c_hands_tank.mdl
+models/weapons/v_hands_brit_gloves.mdl,v_hands_brit_gloves.mdl,
+models/weapons/v_hands_brit_indian.mdl,v_hands_brit_indian.mdl,
+models/weapons/v_hands_ger.mdl,v_hands_ger.mdl,0.57:3171580533/models/weapons/v_hands_vip.mdl | 0.57:3171580533/models/weapons/ethereal/v_hands_vip.mdl | 0.55:3788784337/models/cultist/scp/610/c_hands_tank.mdl
+models/weapons/v_hands_ger_gloves.mdl,v_hands_ger_gloves.mdl,
+models/weapons/v_hands_ger_gloves_paratrooper.mdl,v_hands_ger_gloves_paratrooper.mdl,
+models/weapons/v_hands_ger_gloves_wehrmacht.mdl,v_hands_ger_gloves_wehrmacht.mdl,
+models/weapons/v_hands_ger_wehrmacht.mdl,v_hands_ger_wehrmacht.mdl,
+models/weapons/v_hands_nva.mdl,v_hands_nva.mdl,0.61:3171580533/models/weapons/v_hands_vip.mdl | 0.61:3171580533/models/weapons/ethereal/v_hands_vip.mdl | 0.59:3788784337/models/cultist/scp/610/c_hands_tank.mdl
+models/weapons/v_hands_short_brit.mdl,v_hands_short_brit.mdl,
+models/weapons/v_hands_short_brit_indian.mdl,v_hands_short_brit_indian.mdl,
+models/weapons/v_hands_short_ger.mdl,v_hands_short_ger.mdl,
+models/weapons/v_hands_short_us.mdl,v_hands_short_us.mdl,
+models/weapons/v_hands_short_us_black.mdl,v_hands_short_us_black.mdl,
+models/weapons/v_hands_short_us_buffalo.mdl,v_hands_short_us_buffalo.mdl,
+models/weapons/v_hands_short_us_nam.mdl,v_hands_short_us_nam.mdl,
+models/weapons/v_hands_us.mdl,v_hands_us.mdl,0.58:3171580533/models/weapons/v_hands_vip.mdl | 0.58:3171580533/models/weapons/ethereal/v_hands_vip.mdl | 0.57:3788784337/models/cultist/scp/610/c_hands_tank.mdl
+models/weapons/v_hands_us_buffalo.mdl,v_hands_us_buffalo.mdl,
+models/weapons/v_hands_us_glove.mdl,v_hands_us_glove.mdl,
+models/weapons/v_hands_us_glove_airborne.mdl,v_hands_us_glove_airborne.mdl,
+models/weapons/v_hands_ww1_brit.mdl,v_hands_ww1_brit.mdl,
+models/weapons/v_hands_ww1_brit_gloves.mdl,v_hands_ww1_brit_gloves.mdl,
+models/weapons/v_hands_ww1_ger.mdl,v_hands_ww1_ger.mdl,
+models/weapons/v_hands_ww1_ger_gloves.mdl,v_hands_ww1_ger_gloves.mdl,
+models/weapons/v_ithaca.mdl,v_ithaca.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_ithaca.mdl
+models/weapons/v_kar98k.mdl,v_kar98k.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_kar98k.mdl
+models/weapons/v_lewis.mdl,v_lewis.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_lewis.mdl | 1.00:3352951512/models/weapons/kk_doi/v_lewis.mdl
+models/weapons/v_lugerp08.mdl,v_lugerp08.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_lugerp08.mdl
+models/weapons/v_m1a1para.mdl,v_m1a1para.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_m1a1para.mdl
+models/weapons/v_m3greasegun.mdl,v_m3greasegun.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_m3greasegun.mdl | 1.00:3352951512/models/weapons/kk_doi/v_m3greasegun.mdl
+models/weapons/v_mac10.mdl,v_mac10.mdl,1.00:3171580533/models/weapons/ethereal/v_mac10.mdl
+models/weapons/v_mills.mdl,v_mills.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_mills.mdl
+models/weapons/v_mk18_kk.mdl,v_mk18_kk.mdl,0.59:3171580533/models/weapons/w_mk18.mdl | 0.59:3171580533/models/weapons/v_mk18.mdl | 0.59:3171580533/models/weapons/ethereal/w_mk18.mdl
+models/weapons/v_nam_akbayonet.mdl,v_nam_akbayonet.mdl,
+models/weapons/v_nam_akm.mdl,v_nam_akm.mdl,0.57:3171580533/models/weapons/ethereal/item_akm.mdl | 0.55:3171580533/models/weapons/upgrades/w_standard_akm.mdl | 0.55:3171580533/models/weapons/upgrades/a_standard_akm.mdl
+models/weapons/v_nam_doublebarrel.mdl,v_nam_doublebarrel.mdl,0.64:3171580533/models/weapons/ethereal/w_doublebarrel.mdl | 0.64:3171580533/models/weapons/ethereal/v_doublebarrel.mdl
+models/weapons/v_nam_geballteladung.mdl,v_nam_geballteladung.mdl,
+models/weapons/v_nam_hafthohlladung.mdl,v_nam_hafthohlladung.mdl,
+models/weapons/v_nam_hands_us.mdl,v_nam_hands_us.mdl,
+models/weapons/v_nam_ithaca37.mdl,v_nam_ithaca37.mdl,0.62:3171580533/models/weapons/ethereal/w_ithaca37.mdl | 0.62:3171580533/models/weapons/ethereal/v_ithaca37.mdl | 0.62:3171580533/models/weapons/cw_cultist/ithaca37/w_ithaca37.mdl
+models/weapons/v_nam_l34.mdl,v_nam_l34.mdl,
+models/weapons/v_nam_law.mdl,v_nam_law.mdl,
+models/weapons/v_nam_m14.mdl,v_nam_m14.mdl,0.54:3171580533/models/weapons/w_m14.mdl | 0.54:3171580533/models/weapons/v_m14.mdl | 0.54:3171580533/models/weapons/ethereal/w_m14.mdl
+models/weapons/v_nam_m16a1.mdl,v_nam_m16a1.mdl,
+models/weapons/v_nam_m26.mdl,v_nam_m26.mdl,
+models/weapons/v_nam_m26a2.mdl,v_nam_m26a2.mdl,
+models/weapons/v_nam_m34.mdl,v_nam_m34.mdl,
+models/weapons/v_nam_m40.mdl,v_nam_m40.mdl,0.55:3171580533/models/weapons/upgrades/a_standard_m40.mdl | 0.55:3171580533/models/weapons/cw_cultist/usr/upgrades/a_standard_m40.mdl | 0.55:3171580533/models/weapons/cw_cultist/m200/upgrades/a_standard_m40.mdl
+models/weapons/v_nam_m60.mdl,v_nam_m60.mdl,0.54:3171580533/models/weapons/cw_cultist/m60/w_m60.mdl | 0.54:3171580533/models/weapons/cw_cultist/m60/v_m60.mdl
+models/weapons/v_nam_m607.mdl,v_nam_m607.mdl,
+models/weapons/v_nam_m79.mdl,v_nam_m79.mdl,0.54:3171580533/models/weapons/aof/w_m79.mdl | 0.54:3171580533/models/weapons/aof/v_m79.mdl
+models/weapons/v_nam_mat49.mdl,v_nam_mat49.mdl,
+models/weapons/v_nam_nambu.mdl,v_nam_nambu.mdl,
+models/weapons/v_nam_rdg1.mdl,v_nam_rdg1.mdl,
+models/weapons/v_nam_rgd5.mdl,v_nam_rgd5.mdl,
+models/weapons/v_nam_sawedoff.mdl,v_nam_sawedoff.mdl,
+models/weapons/v_nam_sks.mdl,v_nam_sks.mdl,0.54:3171580533/models/weapons/w_sks.mdl | 0.54:3171580533/models/weapons/v_sks.mdl | 0.54:3171580533/models/weapons/ethereal/w_sks.mdl
+models/weapons/v_nam_stevens620.mdl,v_nam_stevens620.mdl,
+models/weapons/v_nam_svd.mdl,v_nam_svd.mdl,0.54:3171580533/models/weapons/ethereal/w_svd.mdl | 0.54:3171580533/models/weapons/ethereal/v_svd.mdl | 0.54:3171580533/models/weapons/cw_cultist/svd/w_svd.mdl
+models/weapons/v_nam_svt40.mdl,v_nam_svt40.mdl,
+models/weapons/v_nam_sw39.mdl,v_nam_sw39.mdl,
+models/weapons/v_nam_tokarev.mdl,v_nam_tokarev.mdl,0.61:3171580533/models/weapons/ethereal/w_tokarev.mdl | 0.61:3171580533/models/weapons/ethereal/v_tokarev.mdl | 0.53:3171580533/models/weapons/ethereal/v_tokarev_anims.mdl
+models/weapons/v_nam_vz58.mdl,v_nam_vz58.mdl,0.57:3171580533/models/weapons/ethereal/w_vz58.mdl | 0.57:3171580533/models/weapons/ethereal/v_vz58.mdl
+models/weapons/v_nam_vz-61.mdl,v_nam_vz-61.mdl,
+models/weapons/v_owen.mdl,v_owen.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_owen.mdl
+models/weapons/v_owen_mk2.mdl,v_owen_mk2.mdl,1.00:3171580533/models/weapons/cw_kk_doi_c054/v_owen_mk2.mdl
+models/weapons/v_p38.mdl,v_p38.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_p38.mdl
+models/weapons/v_panzerschreck.mdl,v_panzerschreck.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_panzerschreck.mdl
+models/weapons/v_piat.mdl,v_piat.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_piat.mdl
+models/weapons/v_pistol.mdl,v_pistol.mdl,0.60:3171580533/models/weapons/upgrades/w_sil_pistol.mdl | 0.58:3171580533/models/weapons/upgrades/a_pistol_rail.mdl | 0.57:3171580533/models/weapons/upgrades/a_laser_pistol.mdl
+models/weapons/v_ppk.mdl,v_ppk.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_ppk.mdl
+models/weapons/v_ppsh.mdl,v_ppsh.mdl,
+models/weapons/v_pythonrev.mdl,v_pythonrev.mdl,
+models/weapons/v_splintering_stielhandgranate.mdl,v_splintering_stielhandgranate.mdl,1.00:3171580533/models/weapons/cw_kk_doi/v_splintering_stielhandgranate.mdl | 1.00:3352951512/models/weapons/cw_kk_doi/v_splintering_stielhandgranate.mdl
+models/weapons/v_springfield.mdl,v_springfield.mdl,1.00:3171580533/models/weapons/cw_kk_doi/v_springfield.mdl | 1.00:3352951512/models/weapons/cw_kk_doi/v_springfield.mdl
+models/weapons/v_sten_mk2.mdl,v_sten_mk2.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_sten_mk2.mdl
+models/weapons/v_sten_mk5.mdl,v_sten_mk5.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_sten_mk5.mdl
+models/weapons/v_stielhandgranate.mdl,v_stielhandgranate.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_stielhandgranate.mdl
+models/weapons/v_stiletto.mdl,v_stiletto.mdl,1.00:3171580533/models/weapons/cw_kk_doi_c054/v_stiletto.mdl
+models/weapons/v_sw1917.mdl,v_sw1917.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_sw1917.mdl
+models/weapons/v_thompson.mdl,v_thompson.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_thompson.mdl
+models/weapons/v_thompson_m1a1.mdl,v_thompson_m1a1.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_thompson_m1a1.mdl
+models/weapons/v_welrod.mdl,v_welrod.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_welrod.mdl
+models/weapons/w_357.mdl,w_357.mdl,
+models/weapons/w_bar.mdl,w_bar.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_bar.mdl | 0.50:3352951512/models/weapons/upgrades/w_bipod_bar.mdl | 0.50:3352951512/models/weapons/upgrades/a_sling_bar.mdl
+models/weapons/w_bayonet_enfield.mdl,w_bayonet_enfield.mdl,0.79:3352951512/models/weapons/upgrades/w_enfield_bayonet.mdl | 0.79:3352951512/models/weapons/upgrades/a_enfield_bayonet.mdl | 0.79:3352951512/models/weapons/cw_kk_doi/v_enfield_bayonet.mdl
+models/weapons/w_bayonet_garand.mdl,w_bayonet_garand.mdl,0.80:3352951512/models/weapons/upgrades/w_garand_bayonet.mdl | 0.80:3352951512/models/weapons/upgrades/a_garand_bayonet.mdl | 0.80:3352951512/models/weapons/cw_kk_doi/v_garand_bayonet.mdl
+models/weapons/w_bayonet_kar98k.mdl,w_bayonet_kar98k.mdl,0.80:3352951512/models/weapons/upgrades/w_kar98k_bayonet.mdl | 0.80:3352951512/models/weapons/upgrades/a_kar98k_bayonet.mdl | 0.80:3171580533/models/weapons/upgrades/w_kar98k_bayonet.mdl
+models/weapons/w_bazooka.mdl,w_bazooka.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_bazooka.mdl
+models/weapons/w_bazooka_projectile.mdl,w_bazooka_projectile.mdl,0.60:3171506839/models/weapons/tfa_bo3/balknife/balknife_projectile.mdl | 0.60:3171580533/models/weapons/w_at4_projectile.mdl | 0.59:3171506839/models/weapons/tfa_bo3/blackcell/blackcell_projectile.mdl
+models/weapons/w_binoculars_american.mdl,w_binoculars_american.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_binoculars_american.mdl | 0.63:3352951512/models/weapons/cw_kk_doi/v_binoculars_german.mdl | 0.58:3352951512/models/weapons/cw_kk_doi/v_binoculars_british.mdl
+models/weapons/w_binoculars_british.mdl,w_binoculars_british.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_binoculars_british.mdl | 0.58:3352951512/models/weapons/cw_kk_doi/v_binoculars_american.mdl | 0.57:3352951512/models/weapons/cw_kk_doi/v_binoculars_german.mdl
+models/weapons/w_binoculars_german.mdl,w_binoculars_german.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_binoculars_german.mdl | 0.63:3352951512/models/weapons/cw_kk_doi/v_binoculars_american.mdl | 0.57:3352951512/models/weapons/cw_kk_doi/v_binoculars_british.mdl
+models/weapons/w_brassknuckles.mdl,w_brassknuckles.mdl,1.00:3352951512/models/weapons/kk_doi/v_brassknuckles.mdl | 1.00:3171580533/models/weapons/cw_kk_doi_c054/v_brassknuckles.mdl
+models/weapons/w_bren.mdl,w_bren.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_bren.mdl | 0.53:3352951512/models/weapons/upgrades/a_sling_bren.mdl
+models/weapons/w_browninghp.mdl,w_browninghp.mdl,1.00:3171580533/models/weapons/browninghp/w_browninghp.mdl
+models/weapons/w_c96.mdl,w_c96.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_c96.mdl | 0.50:3352951512/models/weapons/upgrades/a_stock_c96.mdl | 0.50:3352951512/models/weapons/upgrades/a_sling_c96.mdl
+models/weapons/w_c96_carbine.mdl,w_c96_carbine.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_c96_carbine.mdl | 1.00:3171580533/models/weapons/cw_kk_doi_c054/v_c96_carbine.mdl
+models/weapons/w_compb_allied.mdl,w_compb_allied.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_compb_allied.mdl | 0.59:3352951512/models/weapons/cw_kk_doi/v_compb_axis.mdl
+models/weapons/w_compb_axis.mdl,w_compb_axis.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_compb_axis.mdl | 0.59:3352951512/models/weapons/cw_kk_doi/v_compb_allied.mdl
+models/weapons/w_cstm_l96.mdl,w_cstm_l96.mdl,
+models/weapons/w_cw_fraggrenade_thrown.mdl,w_cw_fraggrenade_thrown.mdl,
+models/weapons/w_cw_kk_css_m72.mdl,w_cw_kk_css_m72.mdl,0.60:3171580533/models/weapons/w_cw_kk_ins2_m67.mdl | 0.60:3171580533/models/weapons/v_cw_kk_ins2_m67.mdl | 0.59:3171580533/models/weapons/v_cw_kk_ins2_m213.mdl
+models/weapons/w_cw_kk_ins2_at4_projectile_dods.mdl,w_cw_kk_ins2_at4_projectile_dods.mdl,0.72:3171580533/models/weapons/w_cw_kk_ins2_rpg7_projectile_pd2.mdl | 0.57:3171580533/models/weapons/attachments/v_cw_kk_ins2_stencil.mdl | 0.55:3171580533/models/weapons/w_cw_kk_ins2_cstm_kriss.mdl
+models/weapons/w_doublebarrel.mdl,w_doublebarrel.mdl,1.00:3171580533/models/weapons/ethereal/w_doublebarrel.mdl
+models/weapons/w_eintoss46.mdl,w_eintoss46.mdl,0.60:3352951512/models/weapons/cw_kk_doi/v_flame_eintoss46.mdl
+models/weapons/w_enfield.mdl,w_enfield.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_enfield.mdl | 0.63:3352951512/models/weapons/upgrades/w_enfield_gl.mdl | 0.63:3352951512/models/weapons/upgrades/a_enfield_gl.mdl
+models/weapons/w_eq_flashbang.mdl,w_eq_flashbang.mdl,
+models/weapons/w_eq_flashbang_thrown.mdl,w_eq_flashbang_thrown.mdl,
+models/weapons/w_eq_fraggrenade.mdl,w_eq_fraggrenade.mdl,
+models/weapons/w_eq_smokegrenade.mdl,w_eq_smokegrenade.mdl,
+models/weapons/w_eq_smokegrenade_thrown.mdl,w_eq_smokegrenade_thrown.mdl,
+models/weapons/w_etool_brit.mdl,w_etool_brit.mdl,1.00:3352951512/models/weapons/kk_doi/v_etool_brit.mdl | 0.59:3352951512/models/weapons/kk_doi/v_etool_ger.mdl | 0.57:3352951512/models/weapons/kk_doi/v_etool_us.mdl
+models/weapons/w_etool_ger.mdl,w_etool_ger.mdl,1.00:3352951512/models/weapons/kk_doi/v_etool_ger.mdl | 0.59:3352951512/models/weapons/kk_doi/v_etool_brit.mdl | 0.58:3352951512/models/weapons/kk_doi/v_etool_us.mdl
+models/weapons/w_etool_us.mdl,w_etool_us.mdl,1.00:3352951512/models/weapons/kk_doi/v_etool_us.mdl | 0.58:3352951512/models/weapons/kk_doi/v_etool_ger.mdl | 0.57:3352951512/models/weapons/kk_doi/v_etool_brit.mdl
+models/weapons/w_fairbairn.mdl,w_fairbairn.mdl,1.00:3171580533/models/weapons/cw_kk_doi_c054/v_fairbairn.mdl
+models/weapons/w_fg42.mdl,w_fg42.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_fg42.mdl | 0.53:3352951512/models/weapons/upgrades/w_fg42_scope.mdl | 0.53:3352951512/models/weapons/upgrades/w_fg42_irons.mdl
+models/weapons/w_flammenwerfer41.mdl,w_flammenwerfer41.mdl,
+models/weapons/w_garand.mdl,w_garand.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_garand.mdl | 0.62:3352951512/models/weapons/upgrades/a_garand_gl.mdl | 0.58:3352951512/models/weapons/shells/garand_clip.mdl
+models/weapons/w_gravityknife.mdl,w_gravityknife.mdl,1.00:3171580533/models/weapons/cw_kk_doi_c054/v_gravityknife.mdl
+models/weapons/w_grenade_enfield.mdl,w_grenade_enfield.mdl,1.00:3352951512/models/weapons/upgrades/w_grenade_enfield.mdl
+models/weapons/w_grenade_kar98k.mdl,w_grenade_kar98k.mdl,1.00:3352951512/models/weapons/upgrades/w_grenade_kar98k.mdl
+models/weapons/w_grenade_springfield.mdl,w_grenade_springfield.mdl,1.00:3352951512/models/weapons/upgrades/w_grenade_springfield.mdl
+models/weapons/w_hafthohlladung.mdl,w_hafthohlladung.mdl,
+models/weapons/w_hatchet.mdl,w_hatchet.mdl,1.00:3171580533/models/weapons/cw_kk_doi_c054/v_hatchet.mdl
+models/weapons/w_ithaca.mdl,w_ithaca.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_ithaca.mdl | 0.58:3352951512/models/weapons/upgrades/a_iron_ithaca.mdl | 0.57:3352951512/models/weapons/upgrades/a_sling_ithaca.mdl
+models/weapons/w_knife_t.mdl,w_knife_t.mdl,0.60:3788795433/models/cultist/humans/fbi/weapons/knife/w_knife_fbi.mdl | 0.60:3788795433/models/cultist/humans/fbi/weapons/knife/v_knife_fbi.mdl | 0.60:3074010797/models/cultist/humans/fbi/weapons/knife/w_knife_fbi.mdl
+models/weapons/w_lewis.mdl,w_lewis.mdl,1.00:3352951512/models/weapons/kk_doi/v_lewis.mdl | 1.00:3352951512/models/weapons/cw_kk_doi/v_lewis.mdl
+models/weapons/w_lufboy.mdl,w_lufboy.mdl,
+models/weapons/w_lugerp08.mdl,w_lugerp08.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_lugerp08.mdl
+models/weapons/w_m1919.mdl,w_m1919.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_m1919.mdl
+models/weapons/w_m2.mdl,w_m2.mdl,
+models/weapons/w_m3greasegun.mdl,w_m3greasegun.mdl,1.00:3352951512/models/weapons/kk_doi/v_m3greasegun.mdl | 1.00:3352951512/models/weapons/cw_kk_doi/v_m3greasegun.mdl
+models/weapons/w_m79.mdl,w_m79.mdl,1.00:3171580533/models/weapons/aof/w_m79.mdl
+models/weapons/w_mac10.mdl,w_mac10.mdl,1.00:3171580533/models/weapons/ethereal/w_mac10.mdl
+models/weapons/w_magnade.mdl,w_magnade.mdl,
+models/weapons/w_mat49.mdl,w_mat49.mdl,
+models/weapons/w_mills.mdl,w_mills.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_mills.mdl
+models/weapons/w_missile.mdl,w_missile.mdl,0.58:3788798983/models/props_garines/missile_crate.mdl | 0.58:3074023535/models/props_garines/missile_crate.mdl
+models/weapons/w_mk2.mdl,w_mk2.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_mk2.mdl | 0.52:3352951512/models/weapons/cw_kk_doi/v_sten_mk2.mdl | 0.52:3171580533/models/weapons/cw_kk_doi_c054/v_owen_mk2.mdl
+models/weapons/w_nam_akbayonet.mdl,w_nam_akbayonet.mdl,
+models/weapons/w_nam_akm.mdl,w_nam_akm.mdl,0.57:3171580533/models/weapons/ethereal/item_akm.mdl | 0.55:3171580533/models/weapons/upgrades/w_standard_akm.mdl | 0.55:3171580533/models/weapons/upgrades/a_standard_akm.mdl
+models/weapons/w_nam_geballteladung.mdl,w_nam_geballteladung.mdl,
+models/weapons/w_nam_ithaca37.mdl,w_nam_ithaca37.mdl,0.62:3171580533/models/weapons/ethereal/w_ithaca37.mdl | 0.62:3171580533/models/weapons/ethereal/v_ithaca37.mdl | 0.62:3171580533/models/weapons/cw_cultist/ithaca37/w_ithaca37.mdl
+models/weapons/w_nam_law.mdl,w_nam_law.mdl,
+models/weapons/w_nam_m14.mdl,w_nam_m14.mdl,0.54:3171580533/models/weapons/w_m14.mdl | 0.54:3171580533/models/weapons/v_m14.mdl | 0.54:3171580533/models/weapons/ethereal/w_m14.mdl
+models/weapons/w_nam_m16a1.mdl,w_nam_m16a1.mdl,
+models/weapons/w_nam_m26.mdl,w_nam_m26.mdl,
+models/weapons/w_nam_m26a2.mdl,w_nam_m26a2.mdl,
+models/weapons/w_nam_m34.mdl,w_nam_m34.mdl,
+models/weapons/w_nam_m40.mdl,w_nam_m40.mdl,0.55:3171580533/models/weapons/upgrades/a_standard_m40.mdl | 0.55:3171580533/models/weapons/cw_cultist/usr/upgrades/a_standard_m40.mdl | 0.55:3171580533/models/weapons/cw_cultist/m200/upgrades/a_standard_m40.mdl
+models/weapons/w_nam_m60.mdl,w_nam_m60.mdl,0.54:3171580533/models/weapons/cw_cultist/m60/w_m60.mdl | 0.54:3171580533/models/weapons/cw_cultist/m60/v_m60.mdl
+models/weapons/w_nam_m607.mdl,w_nam_m607.mdl,
+models/weapons/w_nam_nambu.mdl,w_nam_nambu.mdl,
+models/weapons/w_nam_rdg1.mdl,w_nam_rdg1.mdl,
+models/weapons/w_nam_rgd5.mdl,w_nam_rgd5.mdl,
+models/weapons/w_nam_sks.mdl,w_nam_sks.mdl,0.54:3171580533/models/weapons/w_sks.mdl | 0.54:3171580533/models/weapons/v_sks.mdl | 0.54:3171580533/models/weapons/ethereal/w_sks.mdl
+models/weapons/w_nam_stevens620.mdl,w_nam_stevens620.mdl,
+models/weapons/w_nam_svd.mdl,w_nam_svd.mdl,0.54:3171580533/models/weapons/ethereal/w_svd.mdl | 0.54:3171580533/models/weapons/ethereal/v_svd.mdl | 0.54:3171580533/models/weapons/cw_cultist/svd/w_svd.mdl
+models/weapons/w_nam_svt40.mdl,w_nam_svt40.mdl,
+models/weapons/w_nam_sw39.mdl,w_nam_sw39.mdl,
+models/weapons/w_nam_tokarev.mdl,w_nam_tokarev.mdl,0.61:3171580533/models/weapons/ethereal/w_tokarev.mdl | 0.61:3171580533/models/weapons/ethereal/v_tokarev.mdl | 0.53:3171580533/models/weapons/ethereal/v_tokarev_anims.mdl
+models/weapons/w_nam_vz58.mdl,w_nam_vz58.mdl,0.57:3171580533/models/weapons/ethereal/w_vz58.mdl | 0.57:3171580533/models/weapons/ethereal/v_vz58.mdl
+models/weapons/w_nebelhandgranate.mdl,w_nebelhandgranate.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_nebelhandgranate.mdl
+models/weapons/w_no69.mdl,w_no69.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_no69.mdl
+models/weapons/w_no77.mdl,w_no77.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_no77.mdl
+models/weapons/w_no79.mdl,w_no79.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_no79.mdl
+models/weapons/w_owen.mdl,w_owen.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_owen.mdl | 0.57:3171580533/models/weapons/cw_kk_doi_c054/v_owen_mk2.mdl | 0.53:3352951512/models/weapons/upgrades/a_sling_owen.mdl
+models/weapons/w_p38.mdl,w_p38.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_p38.mdl
+models/weapons/w_panzerfaust.mdl,w_panzerfaust.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_panzerfaust.mdl | 0.59:3171506839/models/weapons/v_panzerfaust_casgirl.mdl
+models/weapons/w_panzerfaust_projectile.mdl,w_panzerfaust_projectile.mdl,0.59:3171580533/models/weapons/w_at4_projectile.mdl | 0.58:3171506839/models/weapons/tfa_bo3/spikelauncher/spikelauncher_projectile.mdl | 0.57:3171580533/models/weapons/w_flare_projectile.mdl
+models/weapons/w_panzerschreck.mdl,w_panzerschreck.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_panzerschreck.mdl
+models/weapons/w_piat.mdl,w_piat.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_piat.mdl
+models/weapons/w_pist_deagle.mdl,w_pist_deagle.mdl,0.58:3171580533/models/weapons/ethereal/w_deagle.mdl | 0.58:3171580533/models/weapons/ethereal/v_deagle.mdl | 0.58:3171580533/models/weapons/cw_cultist/deagle/w_deagle.mdl
+models/weapons/w_ppk.mdl,w_ppk.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_ppk.mdl
+models/weapons/w_ppsh.mdl,w_ppsh.mdl,
+models/weapons/w_projectile_eintoss.mdl,w_projectile_eintoss.mdl,0.57:3171580533/models/weapons/upgrades/a_projectile_m203.mdl | 0.57:3171580533/models/weapons/upgrades/a_projectile_gp25.mdl | 0.55:3171580533/models/weapons/w_at4_projectile.mdl
+models/weapons/w_pythonrev.mdl,w_pythonrev.mdl,
+models/weapons/w_rif_ak47.mdl,w_rif_ak47.mdl,
+models/weapons/w_rif_famas.mdl,w_rif_famas.mdl,
+models/weapons/w_rif_m4a1.mdl,w_rif_m4a1.mdl,0.57:3171580533/models/weapons/w_m4a1.mdl | 0.57:3171580533/models/weapons/v_m4a1.mdl | 0.57:3171580533/models/weapons/ethereal/w_m4a1.mdl
+models/weapons/w_sawedoff.mdl,w_sawedoff.mdl,
+models/weapons/w_smg_mp5.mdl,w_smg_mp5.mdl,
+models/weapons/w_snip_g3sg1.mdl,w_snip_g3sg1.mdl,0.52:3171506839/models/weapons/w_snip_m95.mdl | 0.52:3171506839/models/weapons/v_snip_m95.mdl
+models/weapons/w_sten.mdl,w_sten.mdl,0.57:3352951512/models/weapons/cw_kk_doi/v_sten_mk5.mdl | 0.57:3352951512/models/weapons/cw_kk_doi/v_sten_mk2.mdl
+models/weapons/w_sten_mk5.mdl,w_sten_mk5.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_sten_mk5.mdl | 0.65:3352951512/models/weapons/cw_kk_doi/v_sten_mk2.mdl
+models/weapons/w_stielhandgranate.mdl,w_stielhandgranate.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_stielhandgranate.mdl | 0.59:3352951512/models/weapons/cw_kk_doi/v_splintering_stielhandgranate.mdl | 0.59:3171580533/models/weapons/w_splintering_stielhandgranate.mdl
+models/weapons/w_stiletto.mdl,w_stiletto.mdl,1.00:3171580533/models/weapons/cw_kk_doi_c054/v_stiletto.mdl | 0.60:3788788899/models/weapons/horizon/w_csgo_stiletto.mdl | 0.60:3788788899/models/weapons/horizon/v_csgo_stiletto.mdl
+models/weapons/w_sw1917.mdl,w_sw1917.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_sw1917.mdl | 0.57:3352951512/models/weapons/upgrades/a_clips_sw1917.mdl
+models/weapons/w_thompson.mdl,w_thompson.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_thompson.mdl | 0.60:3352951512/models/weapons/cw_kk_doi/v_thompson_m1a1.mdl | 0.56:3352951512/models/weapons/upgrades/w_thompson_standard.mdl
+models/weapons/w_thompson_m1a1.mdl,w_thompson_m1a1.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_thompson_m1a1.mdl | 0.72:3352951512/models/weapons/upgrades/a_sling_thompson_m1a1.mdl | 0.62:3352951512/models/weapons/upgrades/a_iron_thompson_m1a1_2.mdl
+models/weapons/w_vickers.mdl,w_vickers.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_vickers.mdl
+models/weapons/w_vz61.mdl,w_vz61.mdl,
+models/weapons/w_webley.mdl,w_webley.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_webley.mdl | 1.00:3352951512/models/weapons/british/v_webley.mdl | 0.50:3352951512/models/weapons/upgrades/a_speedloader_webley.mdl
+models/weapons/w_welrod.mdl,w_welrod.mdl,1.00:3352951512/models/weapons/cw_kk_doi/v_welrod.mdl
+models/weapons/welrod/dosh.mdl,dosh.mdl,
+models/wystan/attachments/2cog.mdl,2cog.mdl,
+models/wystan/attachments/2otech557sight.mdl,2otech557sight.mdl,
+models/wystan/attachments/bipod.mdl,bipod.mdl,0.61:3171580533/models/weapons/upgrades/a_bipod_ar.mdl | 0.59:3352951512/models/weapons/upgrades/w_bipod_bar.mdl | 0.59:3352951512/models/weapons/upgrades/a_bipod_bar.mdl
+models/wystan/attachments/foregrip1.mdl,foregrip1.mdl,
+models/wystan/Cmag.mdl,cmag.mdl,
+models/your/path/here.mdl,here.mdl,
+models/your/wmodel/path/here.mdl,here.mdl,

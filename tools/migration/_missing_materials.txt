@@ -1,0 +1,39 @@
+OutlineMat	gamemodes\rxsend_breach\gamemode\modules\cl_outline.lua
+ZombieTexture	gamemodes\rxsend_breach\entities\weapons\weapon_scp_049_redux.lua
+apc_interior_nocolor	gamemodes\rxsend_breach\gamemode\modules\cl_module.lua
+blink_material	gamemodes\rxsend_breach\gamemode\modules\cl_module.lua
+breach/wep_049.png	gamemodes\rxsend_breach\entities\weapons\weapon_scp_035.lua, gamemodes\rxsend_breach\entities\weapons\weapon_scp_1015ru.lua
+cable/new_cable_lit	gamemodes\rxsend_breach\gamemode\modules\cl_admin_observer.lua
+cable/redlaser	gamemodes\rxsend_breach\entities\entities\ent_chaos_mine.lua
+chemer_icon/chemer.png	gamemodes\rxsend_breach\entities\weapons\item_cheemer.lua
+effects/combineshield/comshieldwall3	gamemodes\rxsend_breach\entities\entities\special_sphere.lua
+flags16/	gamemodes\rxsend_breach\gamemode\modules\cl_scoreboard.lua
+gui/center_gradient	gamemodes\rxsend_breach\entities\entities\object_intercom.lua, gamemodes\rxsend_breach\gamemode\modules\cl_hud_new.lua, gamemodes\rxsend_breach\gamemode\modules\cl_mainmenu.lua
+gui/gradient_up	gamemodes\rxsend_breach\gamemode\modules\cl_rolemenu.lua
+icon16/bomb.png	gamemodes\rxsend_breach\gamemode\modules\cl_games.lua
+icon16/flag_red.png	gamemodes\rxsend_breach\gamemode\modules\cl_games.lua
+icon16/star.png	gamemodes\rxsend_breach\gamemode\modules\cl_targetid.lua
+lights/white001	gamemodes\rxsend_breach\entities\entities\whitebackground.lua, gamemodes\rxsend_breach\entities\weapons\weapon_scp_106.lua, gamemodes\rxsend_breach\gamemode\modules\cl_rolemenu.lua
+materials/breach/logo_breach.png	gamemodes\rxsend_breach\gamemode\modules\cl_splash.lua
+materials/breach/logo_scp.png	gamemodes\rxsend_breach\gamemode\modules\cl_splash.lua
+models/debug/debugwhite	gamemodes\rxsend_breach\entities\entities\shit.lua
+models/effects/vol_light001	gamemodes\rxsend_breach\entities\effects\gocabilityeffect.lua
+models/flesh	gamemodes\rxsend_breach\entities\effects\headshot.lua
+nature/water_a1_intro3	gamemodes\rxsend_breach\entities\weapons\weapon_scp_811.lua
+nextoren/gui/icons/scp714.png	gamemodes\rxsend_breach\entities\weapons\item_scp_714.lua
+particles/smokey	gamemodes\rxsend_breach\entities\effects\scp106_shadowattack.lua
+pp/blurscreen	gamemodes\rxsend_breach\entities\weapons\weapon_scp_035.lua, gamemodes\rxsend_breach\entities\weapons\weapon_scp_049_2_1.lua, gamemodes\rxsend_breach\entities\weapons\weapon_scp_1015ru.lua
+pp/colour	gamemodes\rxsend_breach\entities\weapons\weapon_scp_106.lua, gamemodes\rxsend_breach\entities\weapons\weapon_scp_198.lua, gamemodes\rxsend_breach\gamemode\modules\cl_module.lua
+pp/copy	gamemodes\rxsend_breach\gamemode\modules\cl_outline.lua
+pp/toytown-top	gamemodes\rxsend_breach\entities\weapons\weapon_breachmelee_fireaxe.lua
+rxsend/hard_pics/hard_pic_	gamemodes\rxsend_breach\gamemode\modules\cl_mainmenu.lua
+sprites/heatwave	gamemodes\rxsend_breach\entities\effects\gocabilityeffect.lua
+sprites/lgtning	gamemodes\rxsend_breach\entities\entities\br_camera.lua
+sprites/light_ignorez	gamemodes\rxsend_breach\entities\entities\ent_flashlight\shared.lua
+veneno.png	gamemodes\rxsend_breach\gamemode\modules\cl_hud_new.lua
+vgui/gradient-d	gamemodes\rxsend_breach\gamemode\modules\cl_hud_new.lua, gamemodes\rxsend_breach\gamemode\modules\cl_mainmenu.lua
+vgui/gradient-l	gamemodes\rxsend_breach\gamemode\modules\cl_achievements.lua, gamemodes\rxsend_breach\gamemode\modules\cl_hud_new.lua, gamemodes\rxsend_breach\gamemode\modules\cl_mainmenu.lua
+vgui/gradient-r	gamemodes\rxsend_breach\entities\entities\entity_scp_914\cl_init.lua, gamemodes\rxsend_breach\entities\entities\object_intercom.lua, gamemodes\rxsend_breach\entities\weapons\br_keycard_editor.lua
+vgui/gradient-u	gamemodes\rxsend_breach\gamemode\modules\cl_hud_new.lua, gamemodes\rxsend_breach\gamemode\modules\cl_mainmenu.lua
+vgui/scp294/clavier.jpg	gamemodes\rxsend_breach\entities\entities\scp294\cl_init.lua
+zombieflesh	gamemodes\rxsend_breach\entities\effects\headshot.lua
